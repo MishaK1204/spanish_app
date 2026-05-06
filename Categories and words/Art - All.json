@@ -1,0 +1,510 @@
+[
+    {
+        "spanish": "el/la artista",
+        "english": "artist"
+    },
+    {
+        "spanish": "la talla",
+        "english": "carving"
+    },
+    {
+        "spanish": "el alabastro",
+        "english": "alabaster"
+    },
+    {
+        "spanish": "el marfil",
+        "english": "ivory"
+    },
+    {
+        "spanish": "el nylon",
+        "english": "nylon"
+    },
+    {
+        "spanish": "el latón",
+        "english": "brass"
+    },
+    {
+        "spanish": "el cuero",
+        "english": "leather"
+    },
+    {
+        "spanish": "la cerámica",
+        "english": "ceramic"
+    },
+    {
+        "spanish": "el fieltro",
+        "english": "felt"
+    },
+    {
+        "spanish": "el vidrio",
+        "english": "glass"
+    },
+    {
+        "spanish": "el metal",
+        "english": "metal"
+    },
+    {
+        "spanish": "la madera",
+        "english": "wood"
+    },
+    {
+        "spanish": "el textil",
+        "english": "textile"
+    },
+    {
+        "spanish": "el papel",
+        "english": "paper"
+    },
+    {
+        "spanish": "el diseñador gráfico",
+        "english": "graphic designer"
+    },
+    {
+        "spanish": "el collage",
+        "english": "collage"
+    },
+    {
+        "spanish": "el aguafuerte",
+        "english": "etching"
+    },
+    {
+        "spanish": "la litografía",
+        "english": "lithograph"
+    },
+    {
+        "spanish": "sopletear",
+        "english": "to spray paint"
+    },
+    {
+        "spanish": "el graffiti",
+        "english": "graffiti"
+    },
+    {
+        "spanish": "el tinte",
+        "english": "dye"
+    },
+    {
+        "spanish": "el gouache",
+        "english": "gouache"
+    },
+    {
+        "spanish": "el mural",
+        "english": "mural"
+    },
+    {
+        "spanish": "el fresco",
+        "english": "fresco"
+    },
+    {
+        "spanish": "la tinta",
+        "english": "ink"
+    },
+    {
+        "spanish": "la tiza",
+        "english": "chalk"
+    },
+    {
+        "spanish": "la porcelana",
+        "english": "china"
+    },
+    {
+        "spanish": "el esmalte",
+        "english": "glaze"
+    },
+    {
+        "spanish": "el búcaro",
+        "english": "clay"
+    },
+    {
+        "spanish": "el rococó",
+        "english": "rococo"
+    },
+    {
+        "spanish": "el minimalismo",
+        "english": "minimalism"
+    },
+    {
+        "spanish": "el futurismo",
+        "english": "Futurism"
+    },
+    {
+        "spanish": "el clasicismo",
+        "english": "classicism"
+    },
+    {
+        "spanish": "el Barroco",
+        "english": "Baroque"
+    },
+    {
+        "spanish": "la vanguardia",
+        "english": "avant-garde"
+    },
+    {
+        "spanish": "el surrealismo",
+        "english": "surrealism"
+    },
+    {
+        "spanish": "el expresionismo",
+        "english": "expressionism"
+    },
+    {
+        "spanish": "la arquitectura",
+        "english": "architecture"
+    },
+    {
+        "spanish": "el impresionismo",
+        "english": "impressionism"
+    },
+    {
+        "spanish": "el art nouveau",
+        "english": "Art Nouveau"
+    },
+    {
+        "spanish": "el marchante",
+        "english": "art dealer"
+    },
+    {
+        "spanish": "el cubismo",
+        "english": "Cubism"
+    },
+    {
+        "spanish": "el pop art",
+        "english": "Pop Art"
+    },
+    {
+        "spanish": "las bellas artes",
+        "english": "fine arts"
+    },
+    {
+        "spanish": "la artesanía",
+        "english": "arts and crafts"
+    },
+    {
+        "spanish": "las manualidades",
+        "english": "arts and crafts"
+    },
+    {
+        "spanish": "la musa",
+        "english": "muse"
+    },
+    {
+        "spanish": "el natural",
+        "english": "life"
+    },
+    {
+        "spanish": "realista",
+        "english": "realistic"
+    },
+    {
+        "spanish": "el cuadro abstracto",
+        "english": "abstract"
+    },
+    {
+        "spanish": "la sombra",
+        "english": "shading"
+    },
+    {
+        "spanish": "la silueta",
+        "english": "silhouette"
+    },
+    {
+        "spanish": "la obra",
+        "english": "opus"
+    },
+    {
+        "spanish": "la obra",
+        "english": "work"
+    },
+    {
+        "spanish": "el monumento",
+        "english": "monument"
+    },
+    {
+        "spanish": "el positivo",
+        "english": "print"
+    },
+    {
+        "spanish": "la lámina",
+        "english": "print"
+    },
+    {
+        "spanish": "el motivo",
+        "english": "motif"
+    },
+    {
+        "spanish": "el escultor",
+        "english": "sculptor"
+    },
+    {
+        "spanish": "la escultura",
+        "english": "sculpture"
+    },
+    {
+        "spanish": "el mármol",
+        "english": "marble"
+    },
+    {
+        "spanish": "el carbón",
+        "english": "charcoal"
+    },
+    {
+        "spanish": "el cuadro",
+        "english": "picture"
+    },
+    {
+        "spanish": "la performance",
+        "english": "performance"
+    },
+    {
+        "spanish": "el dibujo",
+        "english": "drawing"
+    },
+    {
+        "spanish": "el marco",
+        "english": "frame"
+    },
+    {
+        "spanish": "el marchante",
+        "english": "dealer"
+    },
+    {
+        "spanish": "la subasta",
+        "english": "auction"
+    },
+    {
+        "spanish": "la brocha",
+        "english": "paintbrush"
+    },
+    {
+        "spanish": "el pincel",
+        "english": "brush"
+    },
+    {
+        "spanish": "el cuarto oscuro",
+        "english": "darkroom"
+    },
+    {
+        "spanish": "el lienzo",
+        "english": "canvas"
+    },
+    {
+        "spanish": "la muestra",
+        "english": "showing"
+    },
+    {
+        "spanish": "el vidrio de colores",
+        "english": "stained glass"
+    },
+    {
+        "spanish": "el soplado",
+        "english": "glassblowing"
+    },
+    {
+        "spanish": "la cerámica",
+        "english": "pottery"
+    },
+    {
+        "spanish": "la cerámica",
+        "english": "ceramics"
+    },
+    {
+        "spanish": "el primer plano",
+        "english": "foreground"
+    },
+    {
+        "spanish": "el fondo",
+        "english": "background"
+    },
+    {
+        "spanish": "posar",
+        "english": "to pose"
+    },
+    {
+        "spanish": "modelar",
+        "english": "to model"
+    },
+    {
+        "spanish": "el/la modelo",
+        "english": "model"
+    },
+    {
+        "spanish": "el museo",
+        "english": "gallery"
+    },
+    {
+        "spanish": "la galería de arte",
+        "english": "art gallery"
+    },
+    {
+        "spanish": "la exposición de arte",
+        "english": "art show"
+    },
+    {
+        "spanish": "la muestra de arte",
+        "english": "art show"
+    },
+    {
+        "spanish": "la exposición",
+        "english": "show"
+    },
+    {
+        "spanish": "el estudio",
+        "english": "study"
+    },
+    {
+        "spanish": "el estudio",
+        "english": "studio"
+    },
+    {
+        "spanish": "el bodegón",
+        "english": "still life"
+    },
+    {
+        "spanish": "la naturaleza muerta",
+        "english": "still life"
+    },
+    {
+        "spanish": "el paisaje",
+        "english": "landscape"
+    },
+    {
+        "spanish": "la obra de arte",
+        "english": "work of art"
+    },
+    {
+        "spanish": "la obra artística",
+        "english": "artwork"
+    },
+    {
+        "spanish": "el cartel",
+        "english": "poster"
+    },
+    {
+        "spanish": "artístico",
+        "english": "artistic"
+    },
+    {
+        "spanish": "el pintor",
+        "english": "artist"
+    },
+    {
+        "spanish": "revelar",
+        "english": "to develop"
+    },
+    {
+        "spanish": "el negativo",
+        "english": "negative"
+    },
+    {
+        "spanish": "la cámara fotográfica digital",
+        "english": "digital camera"
+    },
+    {
+        "spanish": "la cámara digital",
+        "english": "digital camera"
+    },
+    {
+        "spanish": "dibujar",
+        "english": "to draw"
+    },
+    {
+        "spanish": "el perfil",
+        "english": "outline"
+    },
+    {
+        "spanish": "el sketch",
+        "english": "sketch"
+    },
+    {
+        "spanish": "el pintor",
+        "english": "painter"
+    },
+    {
+        "spanish": "el fotógrafo",
+        "english": "photographer"
+    },
+    {
+        "spanish": "la cámara fotográfica",
+        "english": "camera"
+    },
+    {
+        "spanish": "la cámara",
+        "english": "camera"
+    },
+    {
+        "spanish": "la fotografía",
+        "english": "photography"
+    },
+    {
+        "spanish": "la fotografía",
+        "english": "photograph"
+    },
+    {
+        "spanish": "el lienzo",
+        "english": "painting"
+    },
+    {
+        "spanish": "el cuadro",
+        "english": "painting"
+    },
+    {
+        "spanish": "el acrílico",
+        "english": "acrylic"
+    },
+    {
+        "spanish": "la acuarela",
+        "english": "watercolor"
+    },
+    {
+        "spanish": "el temple",
+        "english": "tempera"
+    },
+    {
+        "spanish": "la témpera",
+        "english": "tempera"
+    },
+    {
+        "spanish": "el óleo",
+        "english": "oil painting"
+    },
+    {
+        "spanish": "la pintura al óleo",
+        "english": "oil painting"
+    },
+    {
+        "spanish": "el lápiz de color",
+        "english": "colored pencil"
+    },
+    {
+        "spanish": "el pastel",
+        "english": "pastel"
+    },
+    {
+        "spanish": "el rotulador",
+        "english": "marker"
+    },
+    {
+        "spanish": "el crayón",
+        "english": "crayon"
+    },
+    {
+        "spanish": "pintar",
+        "english": "to paint"
+    },
+    {
+        "spanish": "la pintura",
+        "english": "paint"
+    },
+    {
+        "spanish": "colorear",
+        "english": "to color"
+    },
+    {
+        "spanish": "el color",
+        "english": "color"
+    },
+    {
+        "spanish": "el arte",
+        "english": "art"
+    }
+]

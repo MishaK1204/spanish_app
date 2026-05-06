@@ -1,0 +1,85 @@
+<div class="flashcards">
+  <header class="toolbar">
+    <div class="toolbar-top">
+      <h1 class="toolbar-title">Flashcards</h1>
+      <button type="button" class="btn secondary shuffle-btn" (click)="reshuffle()">
+        Shuffle deck
+      </button>
+    </div>
+
+    <div class="toolbar-panel">
+      <label class="toggle">
+        <input
+          type="checkbox"
+          [checked]="onlyLearning()"
+          (change)="togglePool()"
+          aria-describedby="pool-help"
+        />
+        <span class="toggle-label">Only words not yet marked as known</span>
+      </label>
+      <p id="pool-help" class="help">
+        Turn off to review every word, including ones you marked.
+      </p>
+      @if (!auth.isLoggedIn()) {
+        <p class="help login-hint">
+          <a routerLink="/login">Log in</a> or <a routerLink="/register">register</a> to mark words as known.
+        </p>
+      }
+    </div>
+  </header>
+
+  @if (!wordsService.count()) {
+    <div class="state state-loading" role="status">
+      <span class="state-spinner" aria-hidden="true"></span>
+      <p class="state-msg">Loading words…</p>
+    </div>
+  } @else if (!queue().length) {
+    <div class="state state-empty" role="status">
+      <p class="state-title">No cards in this deck</p>
+      <p class="state-msg">
+        Try turning off the filter
+        @if (auth.isLoggedIn()) {
+          or clear known words from Browse.
+        } @else {
+          — or log in to track words you know.
+        }
+      </p>
+    </div>
+  } @else {
+    @let w = currentWord();
+    @if (w) {
+      <section class="deck" aria-label="Study deck">
+        <div class="deck-progress">
+          <div class="deck-progress-row">
+            <span class="deck-progress-label">
+              Card <strong>{{ position() + 1 }}</strong> of <strong>{{ queue().length }}</strong>
+            </span>
+            <span class="deck-progress-pct">{{ progressPercent() }}%</span>
+          </div>
+          <div
+            class="deck-progress-track"
+            [style.--progress]="deckProgress()"
+            aria-hidden="true"
+          ></div>
+        </div>
+
+        <app-flashcard-face
+          [spanish]="w.spanish"
+          [english]="w.english"
+          [flipped]="flipped()"
+          (flip)="toggleFlip()"
+          (speak)="speakSpanish(w.spanish)"
+        />
+
+        <div class="deck-actions">
+          <button type="button" class="btn primary btn-know" (click)="know()" [disabled]="!auth.isLoggedIn()" [title]="auth.isLoggedIn() ? '' : 'Log in to save known words'">
+            I know this — mark learned
+          </button>
+          <button type="button" class="btn secondary btn-next" (click)="again()">
+            Next — keep practicing
+          </button>
+        </div>
+      </section>
+    }
+  }
+</div>

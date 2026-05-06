@@ -1,0 +1,248 @@
+.quiz {
+  max-width: 40rem;
+  margin: 0 auto;
+}
+
+.head h1 {
+  margin: 0 0 0.35rem;
+  font-size: 1.5rem;
+}
+
+.sub {
+  margin: 0 0 1.25rem;
+  color: var(--text-muted);
+}
+
+.panel {
+  padding: 1.25rem;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border);
+  background: var(--surface);
+}
+
+.hint-login {
+  margin: -0.25rem 0 1rem;
+  font-size: 0.88rem;
+  color: var(--text-muted);
+}
+
+.hint-login a {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.field {
+  border: none;
+  padding: 0;
+  margin: 0 0 1rem;
+}
+
+.field legend {
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.segmented {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.seg {
+  padding: 0.45rem 0.9rem;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  background: var(--surface-2);
+  cursor: pointer;
+  font: inherit;
+}
+
+.seg.active {
+  border-color: var(--accent);
+  background: color-mix(in oklab, var(--accent) 14%, var(--surface));
+  color: inherit;
+}
+
+.toggle {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5rem;
+  margin-bottom: 1.25rem;
+  cursor: pointer;
+  font-size: 0.95rem;
+}
+
+.toggle input {
+  margin-top: 0.2rem;
+}
+
+.wide {
+  width: 100%;
+}
+
+.quiz-progress {
+  text-align: center;
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  margin-bottom: 1rem;
+}
+
+.prompt {
+  text-align: center;
+  padding: 1.5rem 1rem;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border);
+  background: linear-gradient(165deg, var(--surface) 0%, var(--surface-2) 100%);
+  margin-bottom: 1.25rem;
+}
+
+.prompt-label {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-muted);
+}
+
+.prompt-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  margin-top: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.prompt-word {
+  margin: 0;
+  font-size: clamp(1.6rem, 5vw, 2.1rem);
+  font-weight: 650;
+  font-family: var(--font-display);
+}
+
+.speak-btn {
+  flex-shrink: 0;
+  width: 2.35rem;
+  height: 2.35rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  background: color-mix(in oklab, var(--surface) 88%, transparent);
+  color: var(--accent);
+  cursor: pointer;
+  transition:
+    border-color 0.15s ease,
+    box-shadow 0.15s ease;
+}
+
+.speak-btn:hover {
+  border-color: color-mix(in oklab, var(--accent) 45%, var(--border));
+  box-shadow: 0 4px 14px oklch(0% 0 0 / 0.12);
+}
+
+.speak-btn:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+.speak-svg {
+  width: 1.15rem;
+  height: 1.15rem;
+  display: block;
+}
+
+.choices {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.choice {
+  text-align: left;
+  padding: 0.85rem 1rem;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  background: var(--surface);
+  cursor: pointer;
+  font: inherit;
+  transition:
+    border-color 0.12s ease,
+    background 0.12s ease;
+}
+
+.choice:hover:not(:disabled) {
+  border-color: color-mix(in oklab, var(--accent) 35%, var(--border));
+}
+
+.choice:disabled {
+  cursor: default;
+}
+
+.choice.picked.correct {
+  border-color: color-mix(in oklab, var(--ok) 55%, var(--border));
+  background: color-mix(in oklab, var(--ok) 12%, var(--surface));
+}
+
+.choice.picked.wrong {
+  border-color: color-mix(in oklab, var(--danger) 45%, var(--border));
+  background: color-mix(in oklab, var(--danger) 10%, var(--surface));
+}
+
+.choice.correct:not(.picked) {
+  border-color: color-mix(in oklab, var(--ok) 40%, var(--border));
+}
+
+.after {
+  margin-top: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  align-items: stretch;
+}
+
+.feedback {
+  margin: 0;
+  font-size: 0.95rem;
+}
+
+.feedback.ok {
+  color: color-mix(in oklab, var(--ok) 85%, var(--text));
+}
+
+.feedback.bad {
+  color: var(--text-muted);
+}
+
+.results {
+  text-align: center;
+}
+
+.results h2 {
+  margin: 0 0 0.75rem;
+  font-size: 1.25rem;
+}
+
+.big-score {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin: 0 0 0.5rem;
+  color: var(--accent);
+}
+
+.muted {
+  color: var(--text-muted);
+  margin: 0 0 1.25rem;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
+
+.empty {
+  padding: 2rem;
+  text-align: center;
+  color: var(--text-muted);
+}

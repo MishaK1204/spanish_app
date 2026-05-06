@@ -1,0 +1,506 @@
+[
+    {
+        "spanish": "situarse",
+        "english": "to be set"
+    },
+    {
+        "spanish": "el vocabulario",
+        "english": "vocabulary"
+    },
+    {
+        "spanish": "resumir",
+        "english": "to summarize"
+    },
+    {
+        "spanish": "el resumen",
+        "english": "summary"
+    },
+    {
+        "spanish": "la fluidez",
+        "english": "fluency"
+    },
+    {
+        "spanish": "la comprensión",
+        "english": "comprehension"
+    },
+    {
+        "spanish": "el seudónimo",
+        "english": "pen name"
+    },
+    {
+        "spanish": "la metáfora",
+        "english": "metaphor"
+    },
+    {
+        "spanish": "príncipe",
+        "english": "first edition"
+    },
+    {
+        "spanish": "el número extraordinario",
+        "english": "special issue"
+    },
+    {
+        "spanish": "el extraordinario",
+        "english": "special edition"
+    },
+    {
+        "spanish": "la censura",
+        "english": "censorship"
+    },
+    {
+        "spanish": "la narración de cuentos",
+        "english": "storytelling"
+    },
+    {
+        "spanish": "la hipérbole",
+        "english": "hyperbole"
+    },
+    {
+        "spanish": "la mitología",
+        "english": "mythology"
+    },
+    {
+        "spanish": "la aliteración",
+        "english": "alliteration"
+    },
+    {
+        "spanish": "las obras citadas",
+        "english": "works cited"
+    },
+    {
+        "spanish": "la bibliografía",
+        "english": "bibliography"
+    },
+    {
+        "spanish": "la nota al pie de página",
+        "english": "footnote"
+    },
+    {
+        "spanish": "el pie",
+        "english": "foot"
+    },
+    {
+        "spanish": "la rima",
+        "english": "rhyme"
+    },
+    {
+        "spanish": "el bocadillo",
+        "english": "speech bubble"
+    },
+    {
+        "spanish": "el escriba",
+        "english": "scribe"
+    },
+    {
+        "spanish": "el negro",
+        "english": "ghostwriter"
+    },
+    {
+        "spanish": "el traductor",
+        "english": "translator"
+    },
+    {
+        "spanish": "el crítico",
+        "english": "critic"
+    },
+    {
+        "spanish": "el biógrafo",
+        "english": "biographer"
+    },
+    {
+        "spanish": "el dramaturgo",
+        "english": "playwright"
+    },
+    {
+        "spanish": "el/la ensayista",
+        "english": "essayist"
+    },
+    {
+        "spanish": "el/la novelista",
+        "english": "novelist"
+    },
+    {
+        "spanish": "el/la poeta",
+        "english": "poet"
+    },
+    {
+        "spanish": "el argumento",
+        "english": "plot"
+    },
+    {
+        "spanish": "el tebeo",
+        "english": "comic"
+    },
+    {
+        "spanish": "el manga",
+        "english": "manga"
+    },
+    {
+        "spanish": "la lectura",
+        "english": "reading matter"
+    },
+    {
+        "spanish": "el diccionario de sinónimos",
+        "english": "thesaurus"
+    },
+    {
+        "spanish": "los apuntes",
+        "english": "notes"
+    },
+    {
+        "spanish": "la publicación",
+        "english": "publication"
+    },
+    {
+        "spanish": "editar",
+        "english": "to publish"
+    },
+    {
+        "spanish": "la letra de imprenta",
+        "english": "print"
+    },
+    {
+        "spanish": "el escritor",
+        "english": "author"
+    },
+    {
+        "spanish": "el número",
+        "english": "issue"
+    },
+    {
+        "spanish": "la entrega",
+        "english": "fascicle"
+    },
+    {
+        "spanish": "la entrega",
+        "english": "installment"
+    },
+    {
+        "spanish": "la guía turística",
+        "english": "travel guidebook"
+    },
+    {
+        "spanish": "la autoayuda",
+        "english": "self-help"
+    },
+    {
+        "spanish": "la guía",
+        "english": "guide"
+    },
+    {
+        "spanish": "el borrador",
+        "english": "draft"
+    },
+    {
+        "spanish": "el horóscopo",
+        "english": "horoscope"
+    },
+    {
+        "spanish": "el lector",
+        "english": "reader"
+    },
+    {
+        "spanish": "el libro de texto",
+        "english": "textbook"
+    },
+    {
+        "spanish": "la referencia bibliográfica",
+        "english": "reference"
+    },
+    {
+        "spanish": "las memorias",
+        "english": "memoirs"
+    },
+    {
+        "spanish": "el periodismo",
+        "english": "journalism"
+    },
+    {
+        "spanish": "el ensayo",
+        "english": "essay"
+    },
+    {
+        "spanish": "la autobiografía",
+        "english": "autobiography"
+    },
+    {
+        "spanish": "la biografía",
+        "english": "biography"
+    },
+    {
+        "spanish": "la tragicomedia",
+        "english": "tragicomedy"
+    },
+    {
+        "spanish": "la patraña",
+        "english": "tall tale"
+    },
+    {
+        "spanish": "la sátira",
+        "english": "satire"
+    },
+    {
+        "spanish": "el realismo mágico",
+        "english": "magic realism"
+    },
+    {
+        "spanish": "la leyenda",
+        "english": "legend"
+    },
+    {
+        "spanish": "el humor",
+        "english": "humour"
+    },
+    {
+        "spanish": "la fábula",
+        "english": "fable"
+    },
+    {
+        "spanish": "la ficción",
+        "english": "fiction"
+    },
+    {
+        "spanish": "el thriller",
+        "english": "thriller"
+    },
+    {
+        "spanish": "de terror",
+        "english": "horror"
+    },
+    {
+        "spanish": "la literatura fantástica",
+        "english": "fantasy"
+    },
+    {
+        "spanish": "la ciencia ficción",
+        "english": "science fiction"
+    },
+    {
+        "spanish": "el suspense",
+        "english": "suspense"
+    },
+    {
+        "spanish": "la novela de misterio",
+        "english": "mystery"
+    },
+    {
+        "spanish": "la comedia",
+        "english": "comedy"
+    },
+    {
+        "spanish": "la novela rosa",
+        "english": "romantic novel"
+    },
+    {
+        "spanish": "la literatura",
+        "english": "literature"
+    },
+    {
+        "spanish": "las letras",
+        "english": "line"
+    },
+    {
+        "spanish": "la sección",
+        "english": "section"
+    },
+    {
+        "spanish": "el capítulo",
+        "english": "chapter"
+    },
+    {
+        "spanish": "el editor",
+        "english": "editor"
+    },
+    {
+        "spanish": "editar",
+        "english": "to edit"
+    },
+    {
+        "spanish": "la revista",
+        "english": "journal"
+    },
+    {
+        "spanish": "la reseña",
+        "english": "review"
+    },
+    {
+        "spanish": "el ejemplar",
+        "english": "copy"
+    },
+    {
+        "spanish": "el mito",
+        "english": "myth"
+    },
+    {
+        "spanish": "cuento de hadas",
+        "english": "fairy tale"
+    },
+    {
+        "spanish": "el personaje principal",
+        "english": "main character"
+    },
+    {
+        "spanish": "el/la antagonista",
+        "english": "antagonist"
+    },
+    {
+        "spanish": "el/la protagonista",
+        "english": "protagonist"
+    },
+    {
+        "spanish": "la estrofa",
+        "english": "stanza"
+    },
+    {
+        "spanish": "el verso",
+        "english": "verse"
+    },
+    {
+        "spanish": "el volumen",
+        "english": "volume"
+    },
+    {
+        "spanish": "el tomo",
+        "english": "tome"
+    },
+    {
+        "spanish": "la publicación trimestral",
+        "english": "quarterly"
+    },
+    {
+        "spanish": "la revista",
+        "english": "magazine"
+    },
+    {
+        "spanish": "el boletín informativo",
+        "english": "newsletter"
+    },
+    {
+        "spanish": "el periódico",
+        "english": "newspaper"
+    },
+    {
+        "spanish": "la página",
+        "english": "page"
+    },
+    {
+        "spanish": "el apéndice",
+        "english": "appendix"
+    },
+    {
+        "spanish": "el anejo",
+        "english": "supplement"
+    },
+    {
+        "spanish": "el género",
+        "english": "genre"
+    },
+    {
+        "spanish": "el subtítulo",
+        "english": "subtitle"
+    },
+    {
+        "spanish": "el título",
+        "english": "title"
+    },
+    {
+        "spanish": "el texto",
+        "english": "text"
+    },
+    {
+        "spanish": "la encuadernación",
+        "english": "binding"
+    },
+    {
+        "spanish": "la cita",
+        "english": "quote"
+    },
+    {
+        "spanish": "el idilio",
+        "english": "idyll"
+    },
+    {
+        "spanish": "el encabezado",
+        "english": "headline"
+    },
+    {
+        "spanish": "el editorial",
+        "english": "editorial"
+    },
+    {
+        "spanish": "el artículo",
+        "english": "article"
+    },
+    {
+        "spanish": "el proverbio",
+        "english": "proverb"
+    },
+    {
+        "spanish": "el refrán",
+        "english": "saying"
+    },
+    {
+        "spanish": "el poema",
+        "english": "poem"
+    },
+    {
+        "spanish": "la poesía",
+        "english": "poetry"
+    },
+    {
+        "spanish": "el diccionario",
+        "english": "dictionary"
+    },
+    {
+        "spanish": "la oración",
+        "english": "sentence"
+    },
+    {
+        "spanish": "Harry Potter",
+        "english": "Harry Potter"
+    },
+    {
+        "spanish": "el relato corto",
+        "english": "short story"
+    },
+    {
+        "spanish": "la conseja",
+        "english": "tale"
+    },
+    {
+        "spanish": "la librería",
+        "english": "bookstore"
+    },
+    {
+        "spanish": "la biblioteca",
+        "english": "library"
+    },
+    {
+        "spanish": "el tema",
+        "english": "theme"
+    },
+    {
+        "spanish": "el personaje",
+        "english": "character"
+    },
+    {
+        "spanish": "la lectura",
+        "english": "reading"
+    },
+    {
+        "spanish": "leer",
+        "english": "to read"
+    },
+    {
+        "spanish": "el cuaderno",
+        "english": "notebook"
+    },
+    {
+        "spanish": "el cuento",
+        "english": "story"
+    },
+    {
+        "spanish": "el libro",
+        "english": "book"
+    }
+]

@@ -1,0 +1,18 @@
+{
+  "name": "spanish",
+  "private": true,
+  "packageManager": "npm@10.9.2",
+  "scripts": {
+    "categories:json": "tsx convertCategoriesTxtToJson.ts",
+    "front:start": "npm run start --prefix front",
+    "front:build": "npm run build --prefix front",
+    "front:test": "npm run test --prefix front",
+    "backend:start": "npm run start:dev --prefix backend",
+    "backend:build": "npm run build --prefix backend",
+    "vocabulary:seed": "npm run vocabulary:seed --prefix backend"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.4",
+    "typescript": "^5.8.3"
+  }
+}

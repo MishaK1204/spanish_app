@@ -1,0 +1,294 @@
+[
+    {
+        "spanish": "el gimnasio",
+        "english": "gym"
+    },
+    {
+        "spanish": "el hangar",
+        "english": "hangar"
+    },
+    {
+        "spanish": "el garaje",
+        "english": "parking garage"
+    },
+    {
+        "spanish": "el faro",
+        "english": "lighthouse"
+    },
+    {
+        "spanish": "estación de ferrocarril",
+        "english": "train station"
+    },
+    {
+        "spanish": "la estación de autobuses",
+        "english": "bus station"
+    },
+    {
+        "spanish": "el aeropuerto",
+        "english": "airport"
+    },
+    {
+        "spanish": "el búnker",
+        "english": "bunker"
+    },
+    {
+        "spanish": "el cuartel",
+        "english": "barracks"
+    },
+    {
+        "spanish": "el parlamento",
+        "english": "parliament"
+    },
+    {
+        "spanish": "la oficina de correos",
+        "english": "post office"
+    },
+    {
+        "spanish": "la comisaría",
+        "english": "police station"
+    },
+    {
+        "spanish": "la estación de bomberos",
+        "english": "fire station"
+    },
+    {
+        "spanish": "la embajada",
+        "english": "embassy"
+    },
+    {
+        "spanish": "el palacio de justicia",
+        "english": "courthouse"
+    },
+    {
+        "spanish": "el ayuntamiento",
+        "english": "town hall"
+    },
+    {
+        "spanish": "la alcaldía",
+        "english": "city hall"
+    },
+    {
+        "spanish": "la mezquita",
+        "english": "mosque"
+    },
+    {
+        "spanish": "la pagoda",
+        "english": "pagoda"
+    },
+    {
+        "spanish": "el templo",
+        "english": "temple"
+    },
+    {
+        "spanish": "la sinagoga",
+        "english": "synagogue"
+    },
+    {
+        "spanish": "la ermita",
+        "english": "shrine"
+    },
+    {
+        "spanish": "la capilla",
+        "english": "chapel"
+    },
+    {
+        "spanish": "la catedral",
+        "english": "cathedral"
+    },
+    {
+        "spanish": "la iglesia",
+        "english": "church"
+    },
+    {
+        "spanish": "el museo",
+        "english": "museum"
+    },
+    {
+        "spanish": "la biblioteca",
+        "english": "library"
+    },
+    {
+        "spanish": "la arena",
+        "english": "arena"
+    },
+    {
+        "spanish": "el molino de viento",
+        "english": "windmill"
+    },
+    {
+        "spanish": "el establo",
+        "english": "stable"
+    },
+    {
+        "spanish": "el silo",
+        "english": "silo"
+    },
+    {
+        "spanish": "el invernadero",
+        "english": "greenhouse"
+    },
+    {
+        "spanish": "el granero",
+        "english": "granary"
+    },
+    {
+        "spanish": "la masada",
+        "english": "farmhouse"
+    },
+    {
+        "spanish": "la funeraria",
+        "english": "funeral home"
+    },
+    {
+        "spanish": "el teatro",
+        "english": "theater"
+    },
+    {
+        "spanish": "el lavacoches",
+        "english": "car wash"
+    },
+    {
+        "spanish": "el complejo turístico",
+        "english": "resort"
+    },
+    {
+        "spanish": "el casino",
+        "english": "casino"
+    },
+    {
+        "spanish": "la posada",
+        "english": "inn"
+    },
+    {
+        "spanish": "el motel",
+        "english": "motel"
+    },
+    {
+        "spanish": "el hotel",
+        "english": "hotel"
+    },
+    {
+        "spanish": "la prisión",
+        "english": "prison"
+    },
+    {
+        "spanish": "la cárcel",
+        "english": "jail"
+    },
+    {
+        "spanish": "la residencia estudiantil",
+        "english": "dormitory"
+    },
+    {
+        "spanish": "el asilo de ancianos",
+        "english": "retirement home"
+    },
+    {
+        "spanish": "el adosado",
+        "english": "duplex"
+    },
+    {
+        "spanish": "el casita de campo",
+        "english": "cottage"
+    },
+    {
+        "spanish": "el granero",
+        "english": "barn"
+    },
+    {
+        "spanish": "la granja",
+        "english": "farm"
+    },
+    {
+        "spanish": "el rancho",
+        "english": "ranch"
+    },
+    {
+        "spanish": "la posesión",
+        "english": "estate"
+    },
+    {
+        "spanish": "la finca",
+        "english": "property"
+    },
+    {
+        "spanish": "el almacén",
+        "english": "storehouse"
+    },
+    {
+        "spanish": "la construcción",
+        "english": "construction"
+    },
+    {
+        "spanish": "las obras",
+        "english": "work"
+    },
+    {
+        "spanish": "el hospital",
+        "english": "hospital"
+    },
+    {
+        "spanish": "la escuela",
+        "english": "school"
+    },
+    {
+        "spanish": "la oficina",
+        "english": "office"
+    },
+    {
+        "spanish": "la factoría",
+        "english": "factory"
+    },
+    {
+        "spanish": "la choza",
+        "english": "hut"
+    },
+    {
+        "spanish": "las galerías",
+        "english": "shopping center"
+    },
+    {
+        "spanish": "el centro comercial",
+        "english": "mall"
+    },
+    {
+        "spanish": "el restaurante",
+        "english": "restaurant"
+    },
+    {
+        "spanish": "el refugio",
+        "english": "shelter"
+    },
+    {
+        "spanish": "el condominio",
+        "english": "condominium"
+    },
+    {
+        "spanish": "el edificio de apartamentos",
+        "english": "apartment building"
+    },
+    {
+        "spanish": "la casa",
+        "english": "house"
+    },
+    {
+        "spanish": "la caseta",
+        "english": "shed"
+    },
+    {
+        "spanish": "la traza",
+        "english": "design"
+    },
+    {
+        "spanish": "la arquitectura",
+        "english": "architecture"
+    },
+    {
+        "spanish": "el almacén",
+        "english": "warehouse"
+    },
+    {
+        "spanish": "el edificio",
+        "english": "building"
+    }
+]

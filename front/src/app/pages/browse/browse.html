@@ -1,0 +1,78 @@
+<div class="browse">
+  <header class="head">
+    <h1>Browse</h1>
+    <p class="sub">
+      With no search text you see this category’s list. Typing searches all categories.
+      @if (auth.isLoggedIn()) {
+        Click the star to mark a word as known (or unmark).
+      } @else {
+        <a routerLink="/login">Log in</a> to mark words as known.
+      }
+    </p>
+  </header>
+
+  <div class="search-row">
+    <label class="sr-only" for="q">Search</label>
+    <input
+      id="q"
+      class="search"
+      type="search"
+      placeholder="Search Spanish or English (all categories)…"
+      [value]="query()"
+      (input)="onQueryInput($event)"
+      autocomplete="off"
+    />
+    <span class="count" aria-live="polite">
+      @if (query().trim() && searchLoading()) {
+        Searching…
+      } @else if (query().trim() && searchFailed()) {
+        Search failed
+      } @else {
+        {{ shownCount() }} matches
+      }
+    </span>
+  </div>
+
+  @if (!wordsService.count()) {
+    <p class="empty">Loading words…</p>
+  } @else if (query().trim() && searchFailed()) {
+    <p class="empty">Could not run search. Check the connection and try again.</p>
+  } @else if (query().trim() && searchLoading() && shownCount() === 0) {
+    <p class="empty">Searching…</p>
+  } @else if (shownCount() === 0) {
+    <p class="empty">No matches for this search.</p>
+  } @else {
+    <ul class="list" role="list">
+      @for (w of displayRows(); track w.id) {
+        <li class="row">
+          <button
+            type="button"
+            class="star"
+            [class.on]="progress.isMastered(w.id)"
+            (click)="toggle(w.id)"
+            [disabled]="!auth.isLoggedIn()"
+            [attr.aria-label]="
+              !auth.isLoggedIn()
+                ? 'Log in to mark words as known'
+                : progress.isMastered(w.id)
+                  ? 'Unmark as known: ' + w.spanish
+                  : 'Mark as known: ' + w.spanish
+            "
+            [attr.aria-pressed]="progress.isMastered(w.id)"
+          >
+            ★
+          </button>
+          <span class="es" lang="es">{{ w.spanish }}</span>
+          <div class="meta">
+            <span class="en">{{ w.english }}</span>
+            @if (query().trim() && w.categoryName != null && w.categoryId != null) {
+              <a class="cat" [routerLink]="['/category', w.categoryId, 'browse']">{{
+                w.categoryName
+              }}</a>
+            }
+          </div>
+        </li>
+      }
+    </ul>
+  }
+</div>

@@ -1,0 +1,602 @@
+[
+    {
+        "spanish": "el oro",
+        "english": "gold"
+    },
+    {
+        "spanish": "el amor",
+        "english": "love"
+    },
+    {
+        "spanish": "el novio",
+        "english": "boyfriend"
+    },
+    {
+        "spanish": "la novia",
+        "english": "girlfriend"
+    },
+    {
+        "spanish": "sé mío",
+        "english": "be mine"
+    },
+    {
+        "spanish": "te quiero",
+        "english": "I love you"
+    },
+    {
+        "spanish": "te amo",
+        "english": "I love you"
+    },
+    {
+        "spanish": "el alma gemela",
+        "english": "soulmate"
+    },
+    {
+        "spanish": "mi amor",
+        "english": "my love"
+    },
+    {
+        "spanish": "tqm",
+        "english": "xoxo"
+    },
+    {
+        "spanish": "bésame",
+        "english": "kiss me"
+    },
+    {
+        "spanish": "amor verdadero",
+        "english": "true love"
+    },
+    {
+        "spanish": "abrázame",
+        "english": "hug me"
+    },
+    {
+        "spanish": "tú y yo",
+        "english": "you and me"
+    },
+    {
+        "spanish": "el amorcito",
+        "english": "sweetie"
+    },
+    {
+        "spanish": "la ricura",
+        "english": "sweetie"
+    },
+    {
+        "spanish": "solo tú",
+        "english": "only you"
+    },
+    {
+        "spanish": "el cariño",
+        "english": "darling"
+    },
+    {
+        "spanish": "adorar",
+        "english": "to adore"
+    },
+    {
+        "spanish": "San Valentín",
+        "english": "Saint Valentine"
+    },
+    {
+        "spanish": "tarjeta de San Valentín",
+        "english": "valentine"
+    },
+    {
+        "spanish": "el pavo",
+        "english": "turkey"
+    },
+    {
+        "spanish": "el arándano rojo",
+        "english": "cranberry"
+    },
+    {
+        "spanish": "el puré de patatas",
+        "english": "mashed potatoes"
+    },
+    {
+        "spanish": "la salsa de carne",
+        "english": "gravy"
+    },
+    {
+        "spanish": "la batata",
+        "english": "sweet potato"
+    },
+    {
+        "spanish": "el ñame",
+        "english": "yam"
+    },
+    {
+        "spanish": "pastel de calabaza",
+        "english": "pumpkin pie"
+    },
+    {
+        "spanish": "la cornucopia",
+        "english": "cornucopia"
+    },
+    {
+        "spanish": "el relleno",
+        "english": "stuffing"
+    },
+    {
+        "spanish": "¡Feliz día de Acción de Gracias!",
+        "english": "Happy Thanksgiving!"
+    },
+    {
+        "spanish": "la judía verde",
+        "english": "green bean"
+    },
+    {
+        "spanish": "la tarta de manzana",
+        "english": "apple pie"
+    },
+    {
+        "spanish": "el pan de maíz",
+        "english": "cornbread"
+    },
+    {
+        "spanish": "el coles de Bruselas",
+        "english": "Brussels sprouts"
+    },
+    {
+        "spanish": "el propósito",
+        "english": "resolution"
+    },
+    {
+        "spanish": "el año nuevo",
+        "english": "New Year"
+    },
+    {
+        "spanish": "la meta",
+        "english": "goal"
+    },
+    {
+        "spanish": "fijar",
+        "english": "to set"
+    },
+    {
+        "spanish": "la vida",
+        "english": "life"
+    },
+    {
+        "spanish": "hacer gimnasia",
+        "english": "to work out"
+    },
+    {
+        "spanish": "el trabajo",
+        "english": "work"
+    },
+    {
+        "spanish": "el hobby",
+        "english": "hobby"
+    },
+    {
+        "spanish": "la salud",
+        "english": "health"
+    },
+    {
+        "spanish": "el ejercicio",
+        "english": "exercise"
+    },
+    {
+        "spanish": "la visión de futuro",
+        "english": "vision"
+    },
+    {
+        "spanish": "cuidado personal",
+        "english": "self-care"
+    },
+    {
+        "spanish": "el árbol",
+        "english": "tree"
+    },
+    {
+        "spanish": "la luminaria",
+        "english": "light"
+    },
+    {
+        "spanish": "el Día de los Caídos",
+        "english": "Memorial Day"
+    },
+    {
+        "spanish": "el Miércoles de Ceniza",
+        "english": "Ash Wednesday"
+    },
+    {
+        "spanish": "Martes de Carnaval",
+        "english": "Mardi Gras"
+    },
+    {
+        "spanish": "la Pascua judía",
+        "english": "Passover"
+    },
+    {
+        "spanish": "la menorá",
+        "english": "menorah"
+    },
+    {
+        "spanish": "el corazón",
+        "english": "heart"
+    },
+    {
+        "spanish": "el chocolate",
+        "english": "chocolate"
+    },
+    {
+        "spanish": "el crush",
+        "english": "crush"
+    },
+    {
+        "spanish": "el Cupido",
+        "english": "Cupid"
+    },
+    {
+        "spanish": "enamorarse",
+        "english": "to fall in love"
+    },
+    {
+        "spanish": "el beso",
+        "english": "kiss"
+    },
+    {
+        "spanish": "el abrazo",
+        "english": "hug"
+    },
+    {
+        "spanish": "el tórtolo",
+        "english": "lovebird"
+    },
+    {
+        "spanish": "el Día de los Enamorados",
+        "english": "Valentine's Day"
+    },
+    {
+        "spanish": "el Día de San Valentín",
+        "english": "Valentine's Day"
+    },
+    {
+        "spanish": "Día de Todos los Santos",
+        "english": "All Saints' Day"
+    },
+    {
+        "spanish": "el Viernes Santo",
+        "english": "Good Friday"
+    },
+    {
+        "spanish": "La Tomatina",
+        "english": "La Tomatina"
+    },
+    {
+        "spanish": "las fallas",
+        "english": "Fallas"
+    },
+    {
+        "spanish": "las fiestas patrias",
+        "english": "national holidays"
+    },
+    {
+        "spanish": "Día del Niño",
+        "english": "Children's Day"
+    },
+    {
+        "spanish": "Día del Trabajo",
+        "english": "Workers' Day"
+    },
+    {
+        "spanish": "la Candelaria",
+        "english": "Candlemas"
+    },
+    {
+        "spanish": "los sanfermines",
+        "english": "running of the bulls in Pamplona"
+    },
+    {
+        "spanish": "el Día de la Independencia",
+        "english": "Independence Day"
+    },
+    {
+        "spanish": "la Fiesta de las Luces",
+        "english": "Festival of Lights"
+    },
+    {
+        "spanish": "Día del Trabajador",
+        "english": "Labor Day"
+    },
+    {
+        "spanish": "el día de los Santos Inocentes",
+        "english": "April Fools' Day"
+    },
+    {
+        "spanish": "Día de la Secretaria",
+        "english": "Secretary's Day"
+    },
+    {
+        "spanish": "Día del Maestro",
+        "english": "Teachers Day"
+    },
+    {
+        "spanish": "Día de la Tierra",
+        "english": "Earth Day"
+    },
+    {
+        "spanish": "Día de la Raza y la Hispanidad",
+        "english": "Columbus Day"
+    },
+    {
+        "spanish": "la Día de la Mujer",
+        "english": "Women's Day"
+    },
+    {
+        "spanish": "Día de San Patricio",
+        "english": "Saint Patrick's Day"
+    },
+    {
+        "spanish": "Feliz Navidad",
+        "english": "Merry Christmas"
+    },
+    {
+        "spanish": "próspero año y felicidad",
+        "english": "happy and prosperous new year"
+    },
+    {
+        "spanish": "próspero Año Nuevo",
+        "english": "Happy New Year"
+    },
+    {
+        "spanish": "la felicidad",
+        "english": "happiness"
+    },
+    {
+        "spanish": "la dedicatoria",
+        "english": "dedication"
+    },
+    {
+        "spanish": "desear",
+        "english": "to wish"
+    },
+    {
+        "spanish": "el mayo",
+        "english": "maypole"
+    },
+    {
+        "spanish": "el brindis",
+        "english": "toast"
+    },
+    {
+        "spanish": "la feria",
+        "english": "fair"
+    },
+    {
+        "spanish": "la función benéfica",
+        "english": "benefit"
+    },
+    {
+        "spanish": "el cumplido",
+        "english": "compliment"
+    },
+    {
+        "spanish": "los fuegos artificiales",
+        "english": "fireworks"
+    },
+    {
+        "spanish": "invitar",
+        "english": "to invite"
+    },
+    {
+        "spanish": "la ofrenda",
+        "english": "offering"
+    },
+    {
+        "spanish": "el detalle",
+        "english": "little gift"
+    },
+    {
+        "spanish": "la despedida de soltera",
+        "english": "bachelorette party"
+    },
+    {
+        "spanish": "la despedida de soltero",
+        "english": "bachelor party"
+    },
+    {
+        "spanish": "la invitación",
+        "english": "invitation"
+    },
+    {
+        "spanish": "el carnaval",
+        "english": "carnival"
+    },
+    {
+        "spanish": "la comparsa",
+        "english": "group"
+    },
+    {
+        "spanish": "el concurso",
+        "english": "contest"
+    },
+    {
+        "spanish": "el premio",
+        "english": "prize"
+    },
+    {
+        "spanish": "la sorpresa",
+        "english": "surprise"
+    },
+    {
+        "spanish": "la Semana Santa",
+        "english": "Holy Week"
+    },
+    {
+        "spanish": "la Pascua",
+        "english": "Easter"
+    },
+    {
+        "spanish": "el paso",
+        "english": "float"
+    },
+    {
+        "spanish": "la carroza",
+        "english": "float"
+    },
+    {
+        "spanish": "el banquete",
+        "english": "reception"
+    },
+    {
+        "spanish": "el novio",
+        "english": "groom"
+    },
+    {
+        "spanish": "la novia",
+        "english": "bride"
+    },
+    {
+        "spanish": "el aniversario",
+        "english": "anniversary"
+    },
+    {
+        "spanish": "buena suerte",
+        "english": "good luck"
+    },
+    {
+        "spanish": "Día del Padre",
+        "english": "Father's Day"
+    },
+    {
+        "spanish": "Día de la Madre",
+        "english": "Mother's Day"
+    },
+    {
+        "spanish": "el Día de Acción de Gracias",
+        "english": "Thanksgiving Day"
+    },
+    {
+        "spanish": "la acción de gracias",
+        "english": "thanksgiving"
+    },
+    {
+        "spanish": "el evento",
+        "english": "event"
+    },
+    {
+        "spanish": "la decoración",
+        "english": "decorations"
+    },
+    {
+        "spanish": "la Janucá",
+        "english": "Hanukkah"
+    },
+    {
+        "spanish": "el olíbano",
+        "english": "frankincense"
+    },
+    {
+        "spanish": "la mirra",
+        "english": "myrrh"
+    },
+    {
+        "spanish": "el reencuentro",
+        "english": "reunion"
+    },
+    {
+        "spanish": "el belén",
+        "english": "Nativity scene"
+    },
+    {
+        "spanish": "el día festivo",
+        "english": "holiday"
+    },
+    {
+        "spanish": "regalar",
+        "english": "to give"
+    },
+    {
+        "spanish": "día de Reyes",
+        "english": "Epiphany"
+    },
+    {
+        "spanish": "día de Año Nuevo",
+        "english": "New Year's Day"
+    },
+    {
+        "spanish": "Nochevieja",
+        "english": "New Year's Eve"
+    },
+    {
+        "spanish": "la Nochebuena",
+        "english": "Christmas Eve"
+    },
+    {
+        "spanish": "la tarjeta de Navidad",
+        "english": "Christmas card"
+    },
+    {
+        "spanish": "la Navidad",
+        "english": "Christmas"
+    },
+    {
+        "spanish": "celebrar",
+        "english": "to celebrate"
+    },
+    {
+        "spanish": "el Cinco de Mayo",
+        "english": "Cinco de Mayo"
+    },
+    {
+        "spanish": "Cuatro de Julio",
+        "english": "Fourth of July"
+    },
+    {
+        "spanish": "la tarjeta",
+        "english": "card"
+    },
+    {
+        "spanish": "enhorabuena",
+        "english": "congratulations"
+    },
+    {
+        "spanish": "la celebración",
+        "english": "celebration"
+    },
+    {
+        "spanish": "el regalo",
+        "english": "gift"
+    },
+    {
+        "spanish": "el Día de los Muertos",
+        "english": "Day of the Dead"
+    },
+    {
+        "spanish": "el festival",
+        "english": "festival"
+    },
+    {
+        "spanish": "la costumbre",
+        "english": "custom"
+    },
+    {
+        "spanish": "la boda",
+        "english": "wedding"
+    },
+    {
+        "spanish": "¡Feliz cumpleaños!",
+        "english": "Happy birthday!"
+    },
+    {
+        "spanish": "el regalo",
+        "english": "present"
+    },
+    {
+        "spanish": "Halloween",
+        "english": "Halloween"
+    },
+    {
+        "spanish": "la fiesta",
+        "english": "party"
+    },
+    {
+        "spanish": "el cumpleaños",
+        "english": "birthday"
+    }
+]

@@ -1,0 +1,558 @@
+[
+    {
+        "spanish": "cien",
+        "english": "one hundred"
+    },
+    {
+        "spanish": "tres cuartos",
+        "english": "three quarters"
+    },
+    {
+        "spanish": "la mitad",
+        "english": "half"
+    },
+    {
+        "spanish": "el tercio",
+        "english": "third"
+    },
+    {
+        "spanish": "dos tercios",
+        "english": "two thirds"
+    },
+    {
+        "spanish": "cuarta parte",
+        "english": "fourth"
+    },
+    {
+        "spanish": "quinta parte",
+        "english": "fifth"
+    },
+    {
+        "spanish": "la sexta parte",
+        "english": "sixth"
+    },
+    {
+        "spanish": "la séptima parte",
+        "english": "seventh"
+    },
+    {
+        "spanish": "octava parte",
+        "english": "one-eighth"
+    },
+    {
+        "spanish": "ciento",
+        "english": "one hundred"
+    },
+    {
+        "spanish": "doscientos",
+        "english": "two hundred"
+    },
+    {
+        "spanish": "trescientos",
+        "english": "three hundred"
+    },
+    {
+        "spanish": "cuatrocientos",
+        "english": "four hundred"
+    },
+    {
+        "spanish": "quinientos",
+        "english": "five hundred"
+    },
+    {
+        "spanish": "seiscientos",
+        "english": "six hundred"
+    },
+    {
+        "spanish": "el setecientos",
+        "english": "seven hundred"
+    },
+    {
+        "spanish": "ochocientos",
+        "english": "eight hundred"
+    },
+    {
+        "spanish": "novecientos",
+        "english": "nine hundred"
+    },
+    {
+        "spanish": "mil",
+        "english": "thousand"
+    },
+    {
+        "spanish": "vigésimo",
+        "english": "twentieth"
+    },
+    {
+        "spanish": "decimonoveno",
+        "english": "nineteenth"
+    },
+    {
+        "spanish": "decimoctavo",
+        "english": "eighteenth"
+    },
+    {
+        "spanish": "decimoséptimo",
+        "english": "seventeenth"
+    },
+    {
+        "spanish": "decimosexto",
+        "english": "sixteenth"
+    },
+    {
+        "spanish": "decimoquinto",
+        "english": "fifteenth"
+    },
+    {
+        "spanish": "decimocuarto",
+        "english": "fourteenth"
+    },
+    {
+        "spanish": "decimotercero",
+        "english": "thirteenth"
+    },
+    {
+        "spanish": "duodécimo",
+        "english": "twelfth"
+    },
+    {
+        "spanish": "undécimo",
+        "english": "eleventh"
+    },
+    {
+        "spanish": "décimo",
+        "english": "tenth"
+    },
+    {
+        "spanish": "noveno",
+        "english": "ninth"
+    },
+    {
+        "spanish": "octavo",
+        "english": "eighth"
+    },
+    {
+        "spanish": "séptimo",
+        "english": "seventh"
+    },
+    {
+        "spanish": "sexto",
+        "english": "sixth"
+    },
+    {
+        "spanish": "quinto",
+        "english": "fifth"
+    },
+    {
+        "spanish": "cuarto",
+        "english": "fourth"
+    },
+    {
+        "spanish": "tercero",
+        "english": "third"
+    },
+    {
+        "spanish": "segundo",
+        "english": "second"
+    },
+    {
+        "spanish": "primero",
+        "english": "first"
+    },
+    {
+        "spanish": "noventa y nueve",
+        "english": "ninety-nine"
+    },
+    {
+        "spanish": "noventa y ocho",
+        "english": "ninety-eight"
+    },
+    {
+        "spanish": "noventa y siete",
+        "english": "ninety-seven"
+    },
+    {
+        "spanish": "noventa y seis",
+        "english": "ninety-six"
+    },
+    {
+        "spanish": "noventa y cinco",
+        "english": "ninety-five"
+    },
+    {
+        "spanish": "noventa y cuatro",
+        "english": "ninety-four"
+    },
+    {
+        "spanish": "noventa y tres",
+        "english": "ninety-three"
+    },
+    {
+        "spanish": "noventa y dos",
+        "english": "ninety-two"
+    },
+    {
+        "spanish": "noventa y uno",
+        "english": "ninety-one"
+    },
+    {
+        "spanish": "noventa",
+        "english": "ninety"
+    },
+    {
+        "spanish": "ochenta y nueve",
+        "english": "eighty-nine"
+    },
+    {
+        "spanish": "el ochenta y ocho",
+        "english": "eighty-eight"
+    },
+    {
+        "spanish": "ochenta y siete",
+        "english": "eighty-seven"
+    },
+    {
+        "spanish": "ochenta y seis",
+        "english": "eighty-six"
+    },
+    {
+        "spanish": "ochenta y cinco",
+        "english": "eighty-five"
+    },
+    {
+        "spanish": "ochenta y cuatro",
+        "english": "eighty-four"
+    },
+    {
+        "spanish": "ochenta y tres",
+        "english": "eighty-three"
+    },
+    {
+        "spanish": "ochenta y dos",
+        "english": "eighty-two"
+    },
+    {
+        "spanish": "ochenta y uno",
+        "english": "eighty-one"
+    },
+    {
+        "spanish": "ochenta",
+        "english": "eighty"
+    },
+    {
+        "spanish": "setenta y nueve",
+        "english": "seventy-nine"
+    },
+    {
+        "spanish": "setenta y ocho",
+        "english": "seventy-eight"
+    },
+    {
+        "spanish": "setenta y siete",
+        "english": "seventy-seven"
+    },
+    {
+        "spanish": "setenta y seis",
+        "english": "seventy-six"
+    },
+    {
+        "spanish": "setenta y cinco",
+        "english": "seventy-five"
+    },
+    {
+        "spanish": "setenta y cuatro",
+        "english": "seventy-four"
+    },
+    {
+        "spanish": "setenta y tres",
+        "english": "seventy-three"
+    },
+    {
+        "spanish": "setenta y dos",
+        "english": "seventy-two"
+    },
+    {
+        "spanish": "setenta y uno",
+        "english": "seventy-one"
+    },
+    {
+        "spanish": "setenta",
+        "english": "seventy"
+    },
+    {
+        "spanish": "sesenta y nueve",
+        "english": "sixty-nine"
+    },
+    {
+        "spanish": "sesenta y ocho",
+        "english": "sixty-eight"
+    },
+    {
+        "spanish": "sesenta y siete",
+        "english": "sixty-seven"
+    },
+    {
+        "spanish": "sesenta y seis",
+        "english": "sixty-six"
+    },
+    {
+        "spanish": "sesenta y cinco",
+        "english": "sixty-five"
+    },
+    {
+        "spanish": "sesenta y cuatro",
+        "english": "sixty-four"
+    },
+    {
+        "spanish": "sesenta y tres",
+        "english": "sixty-three"
+    },
+    {
+        "spanish": "sesenta y dos",
+        "english": "sixty-two"
+    },
+    {
+        "spanish": "sesenta y uno",
+        "english": "sixty-one"
+    },
+    {
+        "spanish": "cuarenta y cuatro",
+        "english": "forty-four"
+    },
+    {
+        "spanish": "sesenta",
+        "english": "sixty"
+    },
+    {
+        "spanish": "cincuenta y nueve",
+        "english": "fifty-nine"
+    },
+    {
+        "spanish": "cincuenta y ocho",
+        "english": "fifty-eight"
+    },
+    {
+        "spanish": "cincuenta y siete",
+        "english": "fifty-seven"
+    },
+    {
+        "spanish": "cincuenta y seis",
+        "english": "fifty-six"
+    },
+    {
+        "spanish": "cincuenta y cinco",
+        "english": "fifty-five"
+    },
+    {
+        "spanish": "cincuenta y cuatro",
+        "english": "fifty-four"
+    },
+    {
+        "spanish": "cincuenta y tres",
+        "english": "fifty-three"
+    },
+    {
+        "spanish": "cincuenta y dos",
+        "english": "fifty-two"
+    },
+    {
+        "spanish": "cincuenta y uno",
+        "english": "fifty-one"
+    },
+    {
+        "spanish": "cincuenta",
+        "english": "fifty"
+    },
+    {
+        "spanish": "cuarenta y nueve",
+        "english": "forty-nine"
+    },
+    {
+        "spanish": "cuarenta y ocho",
+        "english": "forty-eight"
+    },
+    {
+        "spanish": "cuarenta y siete",
+        "english": "forty-seven"
+    },
+    {
+        "spanish": "cuarenta y seis",
+        "english": "forty-six"
+    },
+    {
+        "spanish": "cuarenta y cinco",
+        "english": "forty-five"
+    },
+    {
+        "spanish": "cuarenta y tres",
+        "english": "forty-three"
+    },
+    {
+        "spanish": "cuarenta y dos",
+        "english": "forty-two"
+    },
+    {
+        "spanish": "cuarenta y uno",
+        "english": "forty-one"
+    },
+    {
+        "spanish": "cuarenta",
+        "english": "forty"
+    },
+    {
+        "spanish": "treinta y nueve",
+        "english": "thirty-nine"
+    },
+    {
+        "spanish": "el treinta y ocho",
+        "english": "thirty-eight"
+    },
+    {
+        "spanish": "treinta y siete",
+        "english": "thirty-seven"
+    },
+    {
+        "spanish": "treinta y seis",
+        "english": "thirty-six"
+    },
+    {
+        "spanish": "treinta y cinco",
+        "english": "thirty-five"
+    },
+    {
+        "spanish": "treinta y cuatro",
+        "english": "thirty-four"
+    },
+    {
+        "spanish": "treinta y tres",
+        "english": "thirty-three"
+    },
+    {
+        "spanish": "treinta y dos",
+        "english": "thirty-two"
+    },
+    {
+        "spanish": "treinta y uno",
+        "english": "thirty-one"
+    },
+    {
+        "spanish": "el treinta",
+        "english": "thirty"
+    },
+    {
+        "spanish": "el veintinueve",
+        "english": "twenty-nine"
+    },
+    {
+        "spanish": "veintiocho",
+        "english": "twenty-eight"
+    },
+    {
+        "spanish": "veintisiete",
+        "english": "twenty-seven"
+    },
+    {
+        "spanish": "veintiséis",
+        "english": "twenty-six"
+    },
+    {
+        "spanish": "veinticinco",
+        "english": "twenty-five"
+    },
+    {
+        "spanish": "veinticuatro",
+        "english": "twenty-four"
+    },
+    {
+        "spanish": "veintitrés",
+        "english": "twenty-three"
+    },
+    {
+        "spanish": "veintidós",
+        "english": "twenty-two"
+    },
+    {
+        "spanish": "veintiuno",
+        "english": "twenty-one"
+    },
+    {
+        "spanish": "veinte",
+        "english": "twenty"
+    },
+    {
+        "spanish": "diecinueve",
+        "english": "nineteen"
+    },
+    {
+        "spanish": "el dieciocho",
+        "english": "eighteen"
+    },
+    {
+        "spanish": "diecisiete",
+        "english": "seventeen"
+    },
+    {
+        "spanish": "dieciséis",
+        "english": "sixteen"
+    },
+    {
+        "spanish": "quince",
+        "english": "fifteen"
+    },
+    {
+        "spanish": "el catorce",
+        "english": "fourteen"
+    },
+    {
+        "spanish": "trece",
+        "english": "thirteen"
+    },
+    {
+        "spanish": "doce",
+        "english": "twelve"
+    },
+    {
+        "spanish": "once",
+        "english": "eleven"
+    },
+    {
+        "spanish": "diez",
+        "english": "ten"
+    },
+    {
+        "spanish": "nueve",
+        "english": "nine"
+    },
+    {
+        "spanish": "ocho",
+        "english": "eight"
+    },
+    {
+        "spanish": "siete",
+        "english": "seven"
+    },
+    {
+        "spanish": "seis",
+        "english": "six"
+    },
+    {
+        "spanish": "cinco",
+        "english": "five"
+    },
+    {
+        "spanish": "cuatro",
+        "english": "four"
+    },
+    {
+        "spanish": "tres",
+        "english": "three"
+    },
+    {
+        "spanish": "dos",
+        "english": "two"
+    },
+    {
+        "spanish": "uno",
+        "english": "one"
+    }
+]

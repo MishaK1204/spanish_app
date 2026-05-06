@@ -1,0 +1,694 @@
+[
+    {
+        "spanish": "q",
+        "english": "what"
+    },
+    {
+        "spanish": "k",
+        "english": "what"
+    },
+    {
+        "spanish": "tqm",
+        "english": "xoxo"
+    },
+    {
+        "spanish": "tb",
+        "english": "too"
+    },
+    {
+        "spanish": "la base de datos",
+        "english": "database"
+    },
+    {
+        "spanish": "la tabla",
+        "english": "table"
+    },
+    {
+        "spanish": "la programación",
+        "english": "programming"
+    },
+    {
+        "spanish": "la búsqueda",
+        "english": "search"
+    },
+    {
+        "spanish": "la consulta",
+        "english": "query"
+    },
+    {
+        "spanish": "el script",
+        "english": "script"
+    },
+    {
+        "spanish": "el asterisco",
+        "english": "asterisk"
+    },
+    {
+        "spanish": "el punto y coma",
+        "english": "semicolon"
+    },
+    {
+        "spanish": "las comillas",
+        "english": "quotation marks"
+    },
+    {
+        "spanish": "el paréntesis",
+        "english": "parenthesis"
+    },
+    {
+        "spanish": "el número entero",
+        "english": "integer"
+    },
+    {
+        "spanish": "decimal",
+        "english": "decimal"
+    },
+    {
+        "spanish": "el bucle",
+        "english": "loop"
+    },
+    {
+        "spanish": "el guion",
+        "english": "hyphen"
+    },
+    {
+        "spanish": "el guion bajo",
+        "english": "underscore"
+    },
+    {
+        "spanish": "el parámetro",
+        "english": "parameter"
+    },
+    {
+        "spanish": "la información",
+        "english": "data"
+    },
+    {
+        "spanish": "los datos",
+        "english": "data"
+    },
+    {
+        "spanish": "la sintaxis",
+        "english": "syntax"
+    },
+    {
+        "spanish": "la prestación",
+        "english": "feature"
+    },
+    {
+        "spanish": "cerrar sesión",
+        "english": "to log off"
+    },
+    {
+        "spanish": "desconectarse",
+        "english": "to log off"
+    },
+    {
+        "spanish": "entrar en línea",
+        "english": "to go online"
+    },
+    {
+        "spanish": "adjuntar",
+        "english": "to attach"
+    },
+    {
+        "spanish": "abrir",
+        "english": "to open"
+    },
+    {
+        "spanish": "cancelar",
+        "english": "to close"
+    },
+    {
+        "spanish": "introducir",
+        "english": "to enter"
+    },
+    {
+        "spanish": "pulsar",
+        "english": "to press"
+    },
+    {
+        "spanish": "oprimir",
+        "english": "to press"
+    },
+    {
+        "spanish": "desplazar",
+        "english": "to scroll"
+    },
+    {
+        "spanish": "cliquear",
+        "english": "to click"
+    },
+    {
+        "spanish": "hacer clic en",
+        "english": "to click on"
+    },
+    {
+        "spanish": "instalar",
+        "english": "to install"
+    },
+    {
+        "spanish": "cargarse",
+        "english": "to load"
+    },
+    {
+        "spanish": "conectar",
+        "english": "to connect"
+    },
+    {
+        "spanish": "enlazar",
+        "english": "to link"
+    },
+    {
+        "spanish": "la simulación",
+        "english": "simulation"
+    },
+    {
+        "spanish": "app",
+        "english": "application"
+    },
+    {
+        "spanish": "escanear",
+        "english": "to scan"
+    },
+    {
+        "spanish": "imprimir",
+        "english": "to print"
+    },
+    {
+        "spanish": "la instrucción",
+        "english": "command"
+    },
+    {
+        "spanish": "ingresar",
+        "english": "to enter"
+    },
+    {
+        "spanish": "los auriculares",
+        "english": "headphones"
+    },
+    {
+        "spanish": "formatear",
+        "english": "to format"
+    },
+    {
+        "spanish": "la computación",
+        "english": "computer science"
+    },
+    {
+        "spanish": "programar",
+        "english": "to program"
+    },
+    {
+        "spanish": "el programa",
+        "english": "program"
+    },
+    {
+        "spanish": "actualizar",
+        "english": "to refresh"
+    },
+    {
+        "spanish": "el altavoz",
+        "english": "speaker"
+    },
+    {
+        "spanish": "cargar",
+        "english": "to charge"
+    },
+    {
+        "spanish": "el usuario",
+        "english": "user"
+    },
+    {
+        "spanish": "el portal",
+        "english": "portal"
+    },
+    {
+        "spanish": "piratear",
+        "english": "to pirate"
+    },
+    {
+        "spanish": "la piratería",
+        "english": "piracy"
+    },
+    {
+        "spanish": "SEO",
+        "english": "SEO"
+    },
+    {
+        "spanish": "el/la web",
+        "english": "Web"
+    },
+    {
+        "spanish": "el aparato",
+        "english": "device"
+    },
+    {
+        "spanish": "el video",
+        "english": "video"
+    },
+    {
+        "spanish": "RAM",
+        "english": "RAM"
+    },
+    {
+        "spanish": "el pin",
+        "english": "PIN"
+    },
+    {
+        "spanish": "el software",
+        "english": "software"
+    },
+    {
+        "spanish": "el hardware",
+        "english": "hardware"
+    },
+    {
+        "spanish": "el microchip",
+        "english": "microchip"
+    },
+    {
+        "spanish": "el chip",
+        "english": "chip"
+    },
+    {
+        "spanish": "chatear",
+        "english": "to chat"
+    },
+    {
+        "spanish": "el aparato",
+        "english": "apparatus"
+    },
+    {
+        "spanish": "la máquina",
+        "english": "machine"
+    },
+    {
+        "spanish": "el dispositivo",
+        "english": "device"
+    },
+    {
+        "spanish": "el procedimiento",
+        "english": "process"
+    },
+    {
+        "spanish": "el sistema",
+        "english": "system"
+    },
+    {
+        "spanish": "el/la hacker",
+        "english": "hacker"
+    },
+    {
+        "spanish": "hackear",
+        "english": "to hack"
+    },
+    {
+        "spanish": "el virus",
+        "english": "virus"
+    },
+    {
+        "spanish": "el bug",
+        "english": "bug"
+    },
+    {
+        "spanish": "hacer conexión",
+        "english": "to connect"
+    },
+    {
+        "spanish": "buscar",
+        "english": "to search for"
+    },
+    {
+        "spanish": "guglear",
+        "english": "to Google"
+    },
+    {
+        "spanish": "consultar en Google",
+        "english": "to Google"
+    },
+    {
+        "spanish": "el streaming",
+        "english": "streaming"
+    },
+    {
+        "spanish": "la videollamada",
+        "english": "video call"
+    },
+    {
+        "spanish": "el enlace",
+        "english": "link"
+    },
+    {
+        "spanish": "la pila",
+        "english": "battery"
+    },
+    {
+        "spanish": "la batería",
+        "english": "battery"
+    },
+    {
+        "spanish": "cortar",
+        "english": "to cut"
+    },
+    {
+        "spanish": "borrar",
+        "english": "to delete"
+    },
+    {
+        "spanish": "pegar",
+        "english": "to paste"
+    },
+    {
+        "spanish": "guardar",
+        "english": "to save"
+    },
+    {
+        "spanish": "copiar",
+        "english": "to copy"
+    },
+    {
+        "spanish": "el entorno",
+        "english": "environment"
+    },
+    {
+        "spanish": "el puerto",
+        "english": "port"
+    },
+    {
+        "spanish": "el input",
+        "english": "input"
+    },
+    {
+        "spanish": "la cookie",
+        "english": "cookie"
+    },
+    {
+        "spanish": "el hosting",
+        "english": "hosting"
+    },
+    {
+        "spanish": "el nombre de usuario",
+        "english": "username"
+    },
+    {
+        "spanish": "la contraseña",
+        "english": "password"
+    },
+    {
+        "spanish": "virtual",
+        "english": "virtual"
+    },
+    {
+        "spanish": "la pantalla",
+        "english": "screen"
+    },
+    {
+        "spanish": "el sitio web",
+        "english": "website"
+    },
+    {
+        "spanish": "la página web",
+        "english": "webpage"
+    },
+    {
+        "spanish": "hablar por WhatsApp",
+        "english": "to WhatsApp"
+    },
+    {
+        "spanish": "WhatsApp",
+        "english": "WhatsApp"
+    },
+    {
+        "spanish": "offline",
+        "english": "offline"
+    },
+    {
+        "spanish": "online",
+        "english": "online"
+    },
+    {
+        "spanish": "el informático",
+        "english": "computer expert"
+    },
+    {
+        "spanish": "cancelar",
+        "english": "to cancel"
+    },
+    {
+        "spanish": "anexo",
+        "english": "attached"
+    },
+    {
+        "spanish": "PC",
+        "english": "PC"
+    },
+    {
+        "spanish": "el escritorio",
+        "english": "desktop"
+    },
+    {
+        "spanish": "la computador de escritorio",
+        "english": "desktop"
+    },
+    {
+        "spanish": "navegar por",
+        "english": "to surf"
+    },
+    {
+        "spanish": "las palabras clave",
+        "english": "keywords"
+    },
+    {
+        "spanish": "el hashtag",
+        "english": "hashtag"
+    },
+    {
+        "spanish": "etiquetar",
+        "english": "to tag"
+    },
+    {
+        "spanish": "picar",
+        "english": "to key in"
+    },
+    {
+        "spanish": "el jit",
+        "english": "hit"
+    },
+    {
+        "spanish": "para tu información",
+        "english": "FYI"
+    },
+    {
+        "spanish": "lo antes posible",
+        "english": "ASAP"
+    },
+    {
+        "spanish": "el modo",
+        "english": "mode"
+    },
+    {
+        "spanish": "colgar el teléfono",
+        "english": "to hang up"
+    },
+    {
+        "spanish": "descolgar",
+        "english": "to pick up"
+    },
+    {
+        "spanish": "la foto",
+        "english": "photo"
+    },
+    {
+        "spanish": "el estado",
+        "english": "status"
+    },
+    {
+        "spanish": "la razón",
+        "english": "message"
+    },
+    {
+        "spanish": "el recado",
+        "english": "message"
+    },
+    {
+        "spanish": "el teclado",
+        "english": "keyboard"
+    },
+    {
+        "spanish": "el ratón",
+        "english": "mouse"
+    },
+    {
+        "spanish": "reinicializar",
+        "english": "to restart"
+    },
+    {
+        "spanish": "apagar",
+        "english": "to turn off"
+    },
+    {
+        "spanish": "encender",
+        "english": "to turn on"
+    },
+    {
+        "spanish": "llamar",
+        "english": "to call"
+    },
+    {
+        "spanish": "la comunicación",
+        "english": "communication"
+    },
+    {
+        "spanish": "el perfil",
+        "english": "profile"
+    },
+    {
+        "spanish": "el me gusta",
+        "english": "like"
+    },
+    {
+        "spanish": "el seguidor",
+        "english": "follower"
+    },
+    {
+        "spanish": "el smartphone",
+        "english": "smartphone"
+    },
+    {
+        "spanish": "la red social",
+        "english": "social network"
+    },
+    {
+        "spanish": "ver en streaming",
+        "english": "to stream"
+    },
+    {
+        "spanish": "descargar",
+        "english": "to download"
+    },
+    {
+        "spanish": "subir",
+        "english": "to upload"
+    },
+    {
+        "spanish": "compartir",
+        "english": "to share"
+    },
+    {
+        "spanish": "el/la wifi",
+        "english": "Wi-Fi"
+    },
+    {
+        "spanish": "wireless",
+        "english": "wireless"
+    },
+    {
+        "spanish": "el cable",
+        "english": "cable"
+    },
+    {
+        "spanish": "el radio",
+        "english": "radio"
+    },
+    {
+        "spanish": "el programador",
+        "english": "programmer"
+    },
+    {
+        "spanish": "en la nube",
+        "english": "cloud"
+    },
+    {
+        "spanish": "el servidor",
+        "english": "server"
+    },
+    {
+        "spanish": "la consola",
+        "english": "console"
+    },
+    {
+        "spanish": "el videojuego",
+        "english": "video game"
+    },
+    {
+        "spanish": "contestar",
+        "english": "to answer"
+    },
+    {
+        "spanish": "el juego",
+        "english": "game"
+    },
+    {
+        "spanish": "la televisión",
+        "english": "television"
+    },
+    {
+        "spanish": "la red",
+        "english": "network"
+    },
+    {
+        "spanish": "el SMS",
+        "english": "SMS"
+    },
+    {
+        "spanish": "el mensaje de texto",
+        "english": "text message"
+    },
+    {
+        "spanish": "la dirección de correo electrónico",
+        "english": "email address"
+    },
+    {
+        "spanish": "enviar por correo electrónico",
+        "english": "to email"
+    },
+    {
+        "spanish": "cerrar sesión",
+        "english": "to log out"
+    },
+    {
+        "spanish": "inicia sesión",
+        "english": "log in"
+    },
+    {
+        "spanish": "el amigo",
+        "english": "friend"
+    },
+    {
+        "spanish": "seguir",
+        "english": "to follow"
+    },
+    {
+        "spanish": "el celular",
+        "english": "cellphone"
+    },
+    {
+        "spanish": "el móvil",
+        "english": "cellphone"
+    },
+    {
+        "spanish": "la tableta",
+        "english": "tablet"
+    },
+    {
+        "spanish": "el/la portátil",
+        "english": "laptop"
+    },
+    {
+        "spanish": "la laptop",
+        "english": "laptop"
+    },
+    {
+        "spanish": "el ordenador",
+        "english": "computer"
+    },
+    {
+        "spanish": "el/la Internet",
+        "english": "Internet"
+    },
+    {
+        "spanish": "la tecnología",
+        "english": "technology"
+    }
+]

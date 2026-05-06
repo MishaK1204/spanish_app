@@ -1,0 +1,562 @@
+[
+    {
+        "spanish": "el corredor de bolsa",
+        "english": "stockbroker"
+    },
+    {
+        "spanish": "el sueldo",
+        "english": "salary"
+    },
+    {
+        "spanish": "el salario",
+        "english": "wages"
+    },
+    {
+        "spanish": "la remuneración",
+        "english": "pay"
+    },
+    {
+        "spanish": "la paga",
+        "english": "pay"
+    },
+    {
+        "spanish": "el aumento",
+        "english": "rise"
+    },
+    {
+        "spanish": "el aumento",
+        "english": "raise"
+    },
+    {
+        "spanish": "el portamonedas",
+        "english": "coin purse"
+    },
+    {
+        "spanish": "la cartera",
+        "english": "wallet"
+    },
+    {
+        "spanish": "la carencia",
+        "english": "exclusion period"
+    },
+    {
+        "spanish": "prestar",
+        "english": "to lend"
+    },
+    {
+        "spanish": "el crédito",
+        "english": "loan"
+    },
+    {
+        "spanish": "el préstamo",
+        "english": "loan"
+    },
+    {
+        "spanish": "la letra",
+        "english": "installment"
+    },
+    {
+        "spanish": "sustentarse",
+        "english": "to support oneself"
+    },
+    {
+        "spanish": "la recesión",
+        "english": "recession"
+    },
+    {
+        "spanish": "la depresión",
+        "english": "depression"
+    },
+    {
+        "spanish": "margen de beneficios",
+        "english": "margin"
+    },
+    {
+        "spanish": "margen de ganancias",
+        "english": "margin"
+    },
+    {
+        "spanish": "el principal",
+        "english": "capital"
+    },
+    {
+        "spanish": "el gravamen",
+        "english": "tax"
+    },
+    {
+        "spanish": "la tributación",
+        "english": "taxes"
+    },
+    {
+        "spanish": "el arancel",
+        "english": "tariff"
+    },
+    {
+        "spanish": "la crisis",
+        "english": "crisis"
+    },
+    {
+        "spanish": "la tarifa",
+        "english": "fare"
+    },
+    {
+        "spanish": "el precio",
+        "english": "fare"
+    },
+    {
+        "spanish": "cargar",
+        "english": "to charge"
+    },
+    {
+        "spanish": "la tarifa",
+        "english": "rate"
+    },
+    {
+        "spanish": "el arancel",
+        "english": "fee"
+    },
+    {
+        "spanish": "el canon",
+        "english": "levy"
+    },
+    {
+        "spanish": "la hipoteca",
+        "english": "mortgage"
+    },
+    {
+        "spanish": "el punto",
+        "english": "point"
+    },
+    {
+        "spanish": "alcista",
+        "english": "bull"
+    },
+    {
+        "spanish": "la cuenta corriente",
+        "english": "current account"
+    },
+    {
+        "spanish": "la cuenta corriente",
+        "english": "checking account"
+    },
+    {
+        "spanish": "la cuenta de ahorros",
+        "english": "savings account"
+    },
+    {
+        "spanish": "el cajero automático",
+        "english": "ATM"
+    },
+    {
+        "spanish": "la quita",
+        "english": "release"
+    },
+    {
+        "spanish": "pelado",
+        "english": "broke"
+    },
+    {
+        "spanish": "generoso",
+        "english": "generous"
+    },
+    {
+        "spanish": "empeñar",
+        "english": "to pawn"
+    },
+    {
+        "spanish": "las ganancias",
+        "english": "earnings"
+    },
+    {
+        "spanish": "la caridad",
+        "english": "charity"
+    },
+    {
+        "spanish": "la moneda",
+        "english": "currency"
+    },
+    {
+        "spanish": "gastar",
+        "english": "to spend"
+    },
+    {
+        "spanish": "la donación",
+        "english": "donation"
+    },
+    {
+        "spanish": "el pago",
+        "english": "reward"
+    },
+    {
+        "spanish": "la cotización",
+        "english": "quote"
+    },
+    {
+        "spanish": "el presupuesto",
+        "english": "estimate"
+    },
+    {
+        "spanish": "el presupuesto",
+        "english": "budget"
+    },
+    {
+        "spanish": "la transacción",
+        "english": "transaction"
+    },
+    {
+        "spanish": "el derecho de aduana",
+        "english": "customs"
+    },
+    {
+        "spanish": "la aduana",
+        "english": "customs"
+    },
+    {
+        "spanish": "débil",
+        "english": "weak"
+    },
+    {
+        "spanish": "el precio",
+        "english": "price"
+    },
+    {
+        "spanish": "engañar",
+        "english": "to cheat"
+    },
+    {
+        "spanish": "tacaño",
+        "english": "mean"
+    },
+    {
+        "spanish": "tacaño",
+        "english": "stingy"
+    },
+    {
+        "spanish": "el depósito",
+        "english": "deposit"
+    },
+    {
+        "spanish": "entrega inicial",
+        "english": "down payment"
+    },
+    {
+        "spanish": "la renta",
+        "english": "income"
+    },
+    {
+        "spanish": "el ingreso",
+        "english": "income"
+    },
+    {
+        "spanish": "el total",
+        "english": "total"
+    },
+    {
+        "spanish": "la suma",
+        "english": "sum"
+    },
+    {
+        "spanish": "el impuesto",
+        "english": "levy"
+    },
+    {
+        "spanish": "el impuesto",
+        "english": "tax"
+    },
+    {
+        "spanish": "la propina",
+        "english": "tip"
+    },
+    {
+        "spanish": "valorar",
+        "english": "to assess"
+    },
+    {
+        "spanish": "tasar",
+        "english": "to value"
+    },
+    {
+        "spanish": "valorar",
+        "english": "to value"
+    },
+    {
+        "spanish": "la extraordinaria",
+        "english": "bonus pay"
+    },
+    {
+        "spanish": "el plus",
+        "english": "bonus"
+    },
+    {
+        "spanish": "mantener",
+        "english": "to support"
+    },
+    {
+        "spanish": "tomar en arriendo",
+        "english": "to lease"
+    },
+    {
+        "spanish": "el encaje",
+        "english": "reserve"
+    },
+    {
+        "spanish": "el alquiler",
+        "english": "rent"
+    },
+    {
+        "spanish": "ahorrar",
+        "english": "to save"
+    },
+    {
+        "spanish": "deber",
+        "english": "to owe"
+    },
+    {
+        "spanish": "el debe",
+        "english": "debit"
+    },
+    {
+        "spanish": "la deuda",
+        "english": "debt"
+    },
+    {
+        "spanish": "el interés",
+        "english": "interest"
+    },
+    {
+        "spanish": "el/la contable",
+        "english": "accountant"
+    },
+    {
+        "spanish": "codicioso",
+        "english": "greedy"
+    },
+    {
+        "spanish": "la banca",
+        "english": "banking"
+    },
+    {
+        "spanish": "el robo",
+        "english": "robbery"
+    },
+    {
+        "spanish": "gratis",
+        "english": "free"
+    },
+    {
+        "spanish": "bursátil",
+        "english": "stock market"
+    },
+    {
+        "spanish": "la bolsa de valores",
+        "english": "stock exchange"
+    },
+    {
+        "spanish": "invertir",
+        "english": "to invest"
+    },
+    {
+        "spanish": "el valor",
+        "english": "security"
+    },
+    {
+        "spanish": "el bono",
+        "english": "bond"
+    },
+    {
+        "spanish": "el mercado",
+        "english": "market"
+    },
+    {
+        "spanish": "el valor",
+        "english": "value"
+    },
+    {
+        "spanish": "el fondo",
+        "english": "fund"
+    },
+    {
+        "spanish": "la fortuna",
+        "english": "fortune"
+    },
+    {
+        "spanish": "la pasta",
+        "english": "dosh"
+    },
+    {
+        "spanish": "la plata",
+        "english": "dough"
+    },
+    {
+        "spanish": "el efectivo",
+        "english": "cash"
+    },
+    {
+        "spanish": "indigente",
+        "english": "needy"
+    },
+    {
+        "spanish": "adinerado",
+        "english": "wealthy"
+    },
+    {
+        "spanish": "el banco",
+        "english": "bank"
+    },
+    {
+        "spanish": "la riqueza",
+        "english": "wealth"
+    },
+    {
+        "spanish": "el haber",
+        "english": "asset"
+    },
+    {
+        "spanish": "la hacienda",
+        "english": "estate"
+    },
+    {
+        "spanish": "el trust",
+        "english": "trust"
+    },
+    {
+        "spanish": "la economía",
+        "english": "economy"
+    },
+    {
+        "spanish": "la bancarrota",
+        "english": "bankruptcy"
+    },
+    {
+        "spanish": "quebrado",
+        "english": "bankrupt"
+    },
+    {
+        "spanish": "el albarán",
+        "english": "invoice"
+    },
+    {
+        "spanish": "la factura",
+        "english": "invoice"
+    },
+    {
+        "spanish": "contar",
+        "english": "to count"
+    },
+    {
+        "spanish": "la cuenta",
+        "english": "account"
+    },
+    {
+        "spanish": "el pago",
+        "english": "payment"
+    },
+    {
+        "spanish": "el cheque",
+        "english": "check"
+    },
+    {
+        "spanish": "el billete",
+        "english": "bill"
+    },
+    {
+        "spanish": "cuentas por pagar",
+        "english": "bills to pay"
+    },
+    {
+        "spanish": "la tarjeta de débito",
+        "english": "debit card"
+    },
+    {
+        "spanish": "la tarjeta de crédito",
+        "english": "credit card"
+    },
+    {
+        "spanish": "económico",
+        "english": "economical"
+    },
+    {
+        "spanish": "barato",
+        "english": "cheap"
+    },
+    {
+        "spanish": "caro",
+        "english": "expensive"
+    },
+    {
+        "spanish": "el precio",
+        "english": "worth"
+    },
+    {
+        "spanish": "el stock",
+        "english": "stock"
+    },
+    {
+        "spanish": "la caja",
+        "english": "take"
+    },
+    {
+        "spanish": "la caja",
+        "english": "till"
+    },
+    {
+        "spanish": "la caja",
+        "english": "cash register"
+    },
+    {
+        "spanish": "pobre",
+        "english": "poor"
+    },
+    {
+        "spanish": "rico",
+        "english": "rich"
+    },
+    {
+        "spanish": "el peso",
+        "english": "peso"
+    },
+    {
+        "spanish": "la libra",
+        "english": "pound"
+    },
+    {
+        "spanish": "el dólar",
+        "english": "dollar"
+    },
+    {
+        "spanish": "el euro",
+        "english": "euro"
+    },
+    {
+        "spanish": "la caja fuerte",
+        "english": "safe"
+    },
+    {
+        "spanish": "el capital",
+        "english": "capital"
+    },
+    {
+        "spanish": "el molido",
+        "english": "loose change"
+    },
+    {
+        "spanish": "el suelto",
+        "english": "loose change"
+    },
+    {
+        "spanish": "el vuelto",
+        "english": "change"
+    },
+    {
+        "spanish": "las finanzas",
+        "english": "finance"
+    },
+    {
+        "spanish": "cobrar",
+        "english": "to charge"
+    },
+    {
+        "spanish": "el dinero",
+        "english": "money"
+    }
+]

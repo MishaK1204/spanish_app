@@ -1,0 +1,25 @@
+<div class="study-shell">
+  <header class="study-head">
+    <a routerLink="/" class="back">← All categories</a>
+    <div class="title-block">
+      <h1 class="title">{{ words.activeCategoryName() || 'Category' }}</h1>
+      @if (words.count()) {
+        <p class="meta">{{ words.count() }} words in this set</p>
+      }
+    </div>
+    <nav class="tabs" aria-label="Study modes">
+      <a routerLink="flashcards" routerLinkActive="active">Flashcards</a>
+      <a routerLink="quiz" routerLinkActive="active">Quiz</a>
+    </nav>
+  </header>
+
+  @if (words.loadingWords()) {
+    <p class="state">Loading words…</p>
+  } @else if (words.error(); as err) {
+    <p class="state error" role="alert">{{ err }}</p>
+  } @else if (!words.count()) {
+    <p class="state">No words in this category.</p>
+  } @else {
+    <router-outlet />
+  }
+</div>

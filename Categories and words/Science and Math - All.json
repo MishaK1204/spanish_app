@@ -1,0 +1,762 @@
+[
+    {
+        "spanish": "la molécula",
+        "english": "molecule"
+    },
+    {
+        "spanish": "el neutrón",
+        "english": "neutron"
+    },
+    {
+        "spanish": "el núcleo",
+        "english": "nucleus"
+    },
+    {
+        "spanish": "el átomo",
+        "english": "atom"
+    },
+    {
+        "spanish": "el azufre",
+        "english": "sulfur"
+    },
+    {
+        "spanish": "el fósforo",
+        "english": "phosphorus"
+    },
+    {
+        "spanish": "el oxígeno",
+        "english": "oxygen"
+    },
+    {
+        "spanish": "el nitrógeno",
+        "english": "nitrogen"
+    },
+    {
+        "spanish": "el hidrógeno",
+        "english": "hydrogen"
+    },
+    {
+        "spanish": "el carbono",
+        "english": "carbon"
+    },
+    {
+        "spanish": "el elemento",
+        "english": "element"
+    },
+    {
+        "spanish": "el pájaro",
+        "english": "bird"
+    },
+    {
+        "spanish": "el anfibio",
+        "english": "amphibian"
+    },
+    {
+        "spanish": "el pez",
+        "english": "fish"
+    },
+    {
+        "spanish": "invertebrado",
+        "english": "invertebrate"
+    },
+    {
+        "spanish": "el virus",
+        "english": "virus"
+    },
+    {
+        "spanish": "la especie",
+        "english": "species"
+    },
+    {
+        "spanish": "el reptil",
+        "english": "reptile"
+    },
+    {
+        "spanish": "reproducirse",
+        "english": "to reproduce"
+    },
+    {
+        "spanish": "el organismo",
+        "english": "organism"
+    },
+    {
+        "spanish": "el mamífero",
+        "english": "mammal"
+    },
+    {
+        "spanish": "el insecto",
+        "english": "insect"
+    },
+    {
+        "spanish": "heredar",
+        "english": "to inherit"
+    },
+    {
+        "spanish": "hereditario",
+        "english": "hereditary"
+    },
+    {
+        "spanish": "genético",
+        "english": "genetic"
+    },
+    {
+        "spanish": "el gene",
+        "english": "gene"
+    },
+    {
+        "spanish": "extinto",
+        "english": "extinct"
+    },
+    {
+        "spanish": "evolucionar",
+        "english": "to evolve"
+    },
+    {
+        "spanish": "el medioambiente",
+        "english": "environment"
+    },
+    {
+        "spanish": "el ecosistema",
+        "english": "ecosystem"
+    },
+    {
+        "spanish": "ADN",
+        "english": "DNA"
+    },
+    {
+        "spanish": "clasificar",
+        "english": "to classify"
+    },
+    {
+        "spanish": "el clon",
+        "english": "clone"
+    },
+    {
+        "spanish": "el herbívoro",
+        "english": "herbivore"
+    },
+    {
+        "spanish": "el omnívoro",
+        "english": "omnivore"
+    },
+    {
+        "spanish": "el/la carnívoro",
+        "english": "carnivore"
+    },
+    {
+        "spanish": "el hueso",
+        "english": "bone"
+    },
+    {
+        "spanish": "el cuerpo",
+        "english": "body"
+    },
+    {
+        "spanish": "el biólogo",
+        "english": "biologist"
+    },
+    {
+        "spanish": "muerto",
+        "english": "dead"
+    },
+    {
+        "spanish": "vivo",
+        "english": "alive"
+    },
+    {
+        "spanish": "el animal",
+        "english": "animal"
+    },
+    {
+        "spanish": "el/la astronauta",
+        "english": "astronaut"
+    },
+    {
+        "spanish": "el telescopio",
+        "english": "telescope"
+    },
+    {
+        "spanish": "la galaxia",
+        "english": "galaxy"
+    },
+    {
+        "spanish": "el eclipse",
+        "english": "eclipse"
+    },
+    {
+        "spanish": "Plutón",
+        "english": "Pluto"
+    },
+    {
+        "spanish": "Neptuno",
+        "english": "Neptune"
+    },
+    {
+        "spanish": "el Urano",
+        "english": "Uranus"
+    },
+    {
+        "spanish": "Saturno",
+        "english": "Saturn"
+    },
+    {
+        "spanish": "Júpiter",
+        "english": "Jupiter"
+    },
+    {
+        "spanish": "Marte",
+        "english": "Mars"
+    },
+    {
+        "spanish": "la Tierra",
+        "english": "Earth"
+    },
+    {
+        "spanish": "Venus",
+        "english": "Venus"
+    },
+    {
+        "spanish": "Mercurio",
+        "english": "Mercury"
+    },
+    {
+        "spanish": "la constelación",
+        "english": "constellation"
+    },
+    {
+        "spanish": "la órbita",
+        "english": "orbit"
+    },
+    {
+        "spanish": "la cuantía",
+        "english": "quantity"
+    },
+    {
+        "spanish": "el largo",
+        "english": "length"
+    },
+    {
+        "spanish": "la altura",
+        "english": "height"
+    },
+    {
+        "spanish": "numeral",
+        "english": "numeral"
+    },
+    {
+        "spanish": "más grande que",
+        "english": "greater than"
+    },
+    {
+        "spanish": "el cilindro",
+        "english": "cylinder"
+    },
+    {
+        "spanish": "más que",
+        "english": "more than"
+    },
+    {
+        "spanish": "menos que",
+        "english": "less than"
+    },
+    {
+        "spanish": "menos",
+        "english": "fewer"
+    },
+    {
+        "spanish": "igual",
+        "english": "equal"
+    },
+    {
+        "spanish": "el conteo",
+        "english": "count"
+    },
+    {
+        "spanish": "el álgebra",
+        "english": "algebra"
+    },
+    {
+        "spanish": "la directriz",
+        "english": "directrix"
+    },
+    {
+        "spanish": "el asteroide",
+        "english": "asteroid"
+    },
+    {
+        "spanish": "el cometa",
+        "english": "comet"
+    },
+    {
+        "spanish": "el dinosaurio",
+        "english": "dinosaur"
+    },
+    {
+        "spanish": "la ingeniería",
+        "english": "engineering"
+    },
+    {
+        "spanish": "estático",
+        "english": "static"
+    },
+    {
+        "spanish": "el compás",
+        "english": "compass"
+    },
+    {
+        "spanish": "pH",
+        "english": "pH"
+    },
+    {
+        "spanish": "la base",
+        "english": "base"
+    },
+    {
+        "spanish": "el ácido",
+        "english": "acid"
+    },
+    {
+        "spanish": "la desaparición",
+        "english": "extinction"
+    },
+    {
+        "spanish": "la geometría",
+        "english": "geometry"
+    },
+    {
+        "spanish": "obtuso",
+        "english": "obtuse"
+    },
+    {
+        "spanish": "recto",
+        "english": "right"
+    },
+    {
+        "spanish": "agudo",
+        "english": "acute"
+    },
+    {
+        "spanish": "la solución",
+        "english": "solution"
+    },
+    {
+        "spanish": "decimal",
+        "english": "decimal"
+    },
+    {
+        "spanish": "la fracción",
+        "english": "fraction"
+    },
+    {
+        "spanish": "dividir",
+        "english": "to divide"
+    },
+    {
+        "spanish": "las matemáticas",
+        "english": "mathematics"
+    },
+    {
+        "spanish": "la mate",
+        "english": "maths"
+    },
+    {
+        "spanish": "multiplicar",
+        "english": "to multiply"
+    },
+    {
+        "spanish": "restar",
+        "english": "to subtract"
+    },
+    {
+        "spanish": "sustraer",
+        "english": "to subtract"
+    },
+    {
+        "spanish": "sumar",
+        "english": "to add"
+    },
+    {
+        "spanish": "las matemáticas",
+        "english": "math"
+    },
+    {
+        "spanish": "la estadística",
+        "english": "statistics"
+    },
+    {
+        "spanish": "la prueba",
+        "english": "proof"
+    },
+    {
+        "spanish": "acuático",
+        "english": "aquatic"
+    },
+    {
+        "spanish": "la solución",
+        "english": "solution"
+    },
+    {
+        "spanish": "el hertz",
+        "english": "hertz"
+    },
+    {
+        "spanish": "el cráter",
+        "english": "crater"
+    },
+    {
+        "spanish": "el protón",
+        "english": "proton"
+    },
+    {
+        "spanish": "el electrón",
+        "english": "electron"
+    },
+    {
+        "spanish": "el mesón",
+        "english": "meson"
+    },
+    {
+        "spanish": "el cultivo",
+        "english": "culture"
+    },
+    {
+        "spanish": "la velocidad",
+        "english": "velocity"
+    },
+    {
+        "spanish": "la investigación",
+        "english": "research"
+    },
+    {
+        "spanish": "la informática",
+        "english": "computer science"
+    },
+    {
+        "spanish": "la computación",
+        "english": "computer science"
+    },
+    {
+        "spanish": "dividirse",
+        "english": "to divide"
+    },
+    {
+        "spanish": "la hipótesis",
+        "english": "hypothesis"
+    },
+    {
+        "spanish": "la condensación",
+        "english": "condensation"
+    },
+    {
+        "spanish": "el órgano",
+        "english": "organ"
+    },
+    {
+        "spanish": "órganos del cuerpo humano",
+        "english": "organs of the human body"
+    },
+    {
+        "spanish": "la musculatura",
+        "english": "muscles"
+    },
+    {
+        "spanish": "el esqueleto",
+        "english": "skeleton"
+    },
+    {
+        "spanish": "el enlace",
+        "english": "bond"
+    },
+    {
+        "spanish": "la partícula",
+        "english": "particle"
+    },
+    {
+        "spanish": "el experimento",
+        "english": "experiment"
+    },
+    {
+        "spanish": "menguar",
+        "english": "to wane"
+    },
+    {
+        "spanish": "crecer",
+        "english": "to wax"
+    },
+    {
+        "spanish": "el veneno",
+        "english": "venom"
+    },
+    {
+        "spanish": "el halo",
+        "english": "halo"
+    },
+    {
+        "spanish": "el espacio",
+        "english": "space"
+    },
+    {
+        "spanish": "el proceso",
+        "english": "process"
+    },
+    {
+        "spanish": "el compuesto",
+        "english": "compound"
+    },
+    {
+        "spanish": "el transbordador",
+        "english": "shuttle"
+    },
+    {
+        "spanish": "el cohete",
+        "english": "rocket"
+    },
+    {
+        "spanish": "conductor",
+        "english": "conductive"
+    },
+    {
+        "spanish": "el conductor",
+        "english": "conductor"
+    },
+    {
+        "spanish": "la electricidad",
+        "english": "electricity"
+    },
+    {
+        "spanish": "la materia",
+        "english": "matter"
+    },
+    {
+        "spanish": "el foco",
+        "english": "focus"
+    },
+    {
+        "spanish": "el ego",
+        "english": "ego"
+    },
+    {
+        "spanish": "el id",
+        "english": "id"
+    },
+    {
+        "spanish": "la psicología",
+        "english": "psychology"
+    },
+    {
+        "spanish": "la masa",
+        "english": "mass"
+    },
+    {
+        "spanish": "el símbolo",
+        "english": "symbol"
+    },
+    {
+        "spanish": "excavar",
+        "english": "to excavate"
+    },
+    {
+        "spanish": "la investigación arqueológica",
+        "english": "dig"
+    },
+    {
+        "spanish": "la reacción",
+        "english": "reaction"
+    },
+    {
+        "spanish": "la atmósfera",
+        "english": "atmosphere"
+    },
+    {
+        "spanish": "el parásito",
+        "english": "parasite"
+    },
+    {
+        "spanish": "el huésped",
+        "english": "host"
+    },
+    {
+        "spanish": "la Luna",
+        "english": "Moon"
+    },
+    {
+        "spanish": "el gusto",
+        "english": "taste"
+    },
+    {
+        "spanish": "el olfato",
+        "english": "smell"
+    },
+    {
+        "spanish": "la audición",
+        "english": "hearing"
+    },
+    {
+        "spanish": "la visión",
+        "english": "sight"
+    },
+    {
+        "spanish": "el tacto",
+        "english": "touch"
+    },
+    {
+        "spanish": "el gas",
+        "english": "gas"
+    },
+    {
+        "spanish": "líquido",
+        "english": "liquid"
+    },
+    {
+        "spanish": "sólido",
+        "english": "solid"
+    },
+    {
+        "spanish": "el estado",
+        "english": "state"
+    },
+    {
+        "spanish": "el satélite",
+        "english": "satellite"
+    },
+    {
+        "spanish": "la estrella",
+        "english": "star"
+    },
+    {
+        "spanish": "el sentido",
+        "english": "sense"
+    },
+    {
+        "spanish": "el paleontólogo",
+        "english": "paleontologist"
+    },
+    {
+        "spanish": "el fósil",
+        "english": "fossil"
+    },
+    {
+        "spanish": "la fosilización",
+        "english": "fossilization"
+    },
+    {
+        "spanish": "la medicina",
+        "english": "medicine"
+    },
+    {
+        "spanish": "la genética",
+        "english": "genetics"
+    },
+    {
+        "spanish": "la ecología",
+        "english": "ecology"
+    },
+    {
+        "spanish": "la astronomía",
+        "english": "astronomy"
+    },
+    {
+        "spanish": "la meteorología",
+        "english": "meteorology"
+    },
+    {
+        "spanish": "la física",
+        "english": "physics"
+    },
+    {
+        "spanish": "la geología",
+        "english": "geology"
+    },
+    {
+        "spanish": "la biología",
+        "english": "biology"
+    },
+    {
+        "spanish": "la química",
+        "english": "chemistry"
+    },
+    {
+        "spanish": "la energía",
+        "english": "energy"
+    },
+    {
+        "spanish": "la energía solar",
+        "english": "solar energy"
+    },
+    {
+        "spanish": "térmico",
+        "english": "thermal"
+    },
+    {
+        "spanish": "el planeta",
+        "english": "planet"
+    },
+    {
+        "spanish": "el mundo",
+        "english": "world"
+    },
+    {
+        "spanish": "la joya",
+        "english": "gem"
+    },
+    {
+        "spanish": "la gravedad",
+        "english": "gravity"
+    },
+    {
+        "spanish": "el hierro",
+        "english": "iron"
+    },
+    {
+        "spanish": "la ciencia",
+        "english": "science"
+    },
+    {
+        "spanish": "el océano",
+        "english": "ocean"
+    },
+    {
+        "spanish": "la roca",
+        "english": "rock"
+    },
+    {
+        "spanish": "la playa",
+        "english": "beach"
+    },
+    {
+        "spanish": "el desierto",
+        "english": "desert"
+    },
+    {
+        "spanish": "la tierra",
+        "english": "land"
+    },
+    {
+        "spanish": "el/la mar",
+        "english": "sea"
+    },
+    {
+        "spanish": "el lago",
+        "english": "lake"
+    },
+    {
+        "spanish": "el río",
+        "english": "river"
+    },
+    {
+        "spanish": "la montaña",
+        "english": "mountain"
+    },
+    {
+        "spanish": "el litoral",
+        "english": "coast"
+    },
+    {
+        "spanish": "la isla",
+        "english": "island"
+    },
+    {
+        "spanish": "árido",
+        "english": "arid"
+    }
+]

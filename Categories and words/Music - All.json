@@ -1,0 +1,438 @@
+[
+    {
+        "spanish": "la partitura",
+        "english": "score"
+    },
+    {
+        "spanish": "la pauta",
+        "english": "staff"
+    },
+    {
+        "spanish": "la letra",
+        "english": "lyrics"
+    },
+    {
+        "spanish": "rasguear",
+        "english": "to strum"
+    },
+    {
+        "spanish": "el flautín",
+        "english": "piccolo"
+    },
+    {
+        "spanish": "el director de orquesta",
+        "english": "conductor"
+    },
+    {
+        "spanish": "el plato",
+        "english": "turntable"
+    },
+    {
+        "spanish": "la redonda",
+        "english": "semibreve"
+    },
+    {
+        "spanish": "la redonda",
+        "english": "whole note"
+    },
+    {
+        "spanish": "la intro",
+        "english": "intro"
+    },
+    {
+        "spanish": "la cuadrada",
+        "english": "breve"
+    },
+    {
+        "spanish": "el maestro",
+        "english": "maestro"
+    },
+    {
+        "spanish": "la composición",
+        "english": "piece"
+    },
+    {
+        "spanish": "el cover",
+        "english": "cover"
+    },
+    {
+        "spanish": "el/la pianista",
+        "english": "pianist"
+    },
+    {
+        "spanish": "perrear",
+        "english": "to twerk"
+    },
+    {
+        "spanish": "el dúo",
+        "english": "duo"
+    },
+    {
+        "spanish": "el solo",
+        "english": "solo"
+    },
+    {
+        "spanish": "el terceto",
+        "english": "trio"
+    },
+    {
+        "spanish": "el álbum",
+        "english": "album"
+    },
+    {
+        "spanish": "la cumbia",
+        "english": "cumbia"
+    },
+    {
+        "spanish": "el saxofón",
+        "english": "saxophone"
+    },
+    {
+        "spanish": "la performance",
+        "english": "performance"
+    },
+    {
+        "spanish": "el tenor",
+        "english": "tenor"
+    },
+    {
+        "spanish": "el/la soprano",
+        "english": "soprano"
+    },
+    {
+        "spanish": "agudo",
+        "english": "high"
+    },
+    {
+        "spanish": "grave",
+        "english": "low"
+    },
+    {
+        "spanish": "el tango",
+        "english": "tango"
+    },
+    {
+        "spanish": "menor",
+        "english": "minor"
+    },
+    {
+        "spanish": "la bachata",
+        "english": "bachata"
+    },
+    {
+        "spanish": "musical",
+        "english": "musical"
+    },
+    {
+        "spanish": "el musical",
+        "english": "musical"
+    },
+    {
+        "spanish": "la blanca",
+        "english": "minim"
+    },
+    {
+        "spanish": "la blanca",
+        "english": "half note"
+    },
+    {
+        "spanish": "el flamenco",
+        "english": "flamenco"
+    },
+    {
+        "spanish": "la tecla",
+        "english": "key"
+    },
+    {
+        "spanish": "la clave",
+        "english": "clef"
+    },
+    {
+        "spanish": "ejecutar",
+        "english": "to perform"
+    },
+    {
+        "spanish": "la nota",
+        "english": "note"
+    },
+    {
+        "spanish": "el compás",
+        "english": "rhythm"
+    },
+    {
+        "spanish": "el tempo",
+        "english": "tempo"
+    },
+    {
+        "spanish": "el movimiento",
+        "english": "movement"
+    },
+    {
+        "spanish": "el público",
+        "english": "listeners"
+    },
+    {
+        "spanish": "el público",
+        "english": "audience"
+    },
+    {
+        "spanish": "la mezcla",
+        "english": "mix"
+    },
+    {
+        "spanish": "la armonía",
+        "english": "harmony"
+    },
+    {
+        "spanish": "la modulación",
+        "english": "modulation"
+    },
+    {
+        "spanish": "la salsa",
+        "english": "salsa"
+    },
+    {
+        "spanish": "el teclado",
+        "english": "keyboard"
+    },
+    {
+        "spanish": "el piano",
+        "english": "piano"
+    },
+    {
+        "spanish": "el rap",
+        "english": "rap"
+    },
+    {
+        "spanish": "la percusión",
+        "english": "percussión"
+    },
+    {
+        "spanish": "la batería",
+        "english": "drum kit"
+    },
+    {
+        "spanish": "escuchar",
+        "english": "to listen"
+    },
+    {
+        "spanish": "la pista",
+        "english": "track"
+    },
+    {
+        "spanish": "la estrofa",
+        "english": "stanza"
+    },
+    {
+        "spanish": "la estrofa",
+        "english": "verse"
+    },
+    {
+        "spanish": "el rock",
+        "english": "rock"
+    },
+    {
+        "spanish": "el MP3",
+        "english": "MP3"
+    },
+    {
+        "spanish": "CD",
+        "english": "CD"
+    },
+    {
+        "spanish": "el director",
+        "english": "conductor"
+    },
+    {
+        "spanish": "instrumento musical",
+        "english": "musical instrument"
+    },
+    {
+        "spanish": "la voz",
+        "english": "voice"
+    },
+    {
+        "spanish": "la escala",
+        "english": "scale"
+    },
+    {
+        "spanish": "el género",
+        "english": "genre"
+    },
+    {
+        "spanish": "la estrella",
+        "english": "star"
+    },
+    {
+        "spanish": "el éxito",
+        "english": "hit"
+    },
+    {
+        "spanish": "el hit",
+        "english": "hit"
+    },
+    {
+        "spanish": "el swing",
+        "english": "swing"
+    },
+    {
+        "spanish": "el/la fan",
+        "english": "fan"
+    },
+    {
+        "spanish": "el coro",
+        "english": "choir"
+    },
+    {
+        "spanish": "el estribillo",
+        "english": "chorus"
+    },
+    {
+        "spanish": "el estudio",
+        "english": "studio"
+    },
+    {
+        "spanish": "el concierto",
+        "english": "concert"
+    },
+    {
+        "spanish": "el silencio",
+        "english": "rest"
+    },
+    {
+        "spanish": "la caja",
+        "english": "soundbox"
+    },
+    {
+        "spanish": "el tambor",
+        "english": "drum"
+    },
+    {
+        "spanish": "el pop",
+        "english": "pop"
+    },
+    {
+        "spanish": "el instrumento",
+        "english": "instrument"
+    },
+    {
+        "spanish": "el baile",
+        "english": "dance"
+    },
+    {
+        "spanish": "el/la cantante",
+        "english": "singer"
+    },
+    {
+        "spanish": "el arpa",
+        "english": "harp"
+    },
+    {
+        "spanish": "la trompeta",
+        "english": "trumpet"
+    },
+    {
+        "spanish": "el clarinete",
+        "english": "clarinet"
+    },
+    {
+        "spanish": "el cello",
+        "english": "cello"
+    },
+    {
+        "spanish": "la flauta",
+        "english": "flute"
+    },
+    {
+        "spanish": "el órgano",
+        "english": "organ"
+    },
+    {
+        "spanish": "el la",
+        "english": "la"
+    },
+    {
+        "spanish": "el sol",
+        "english": "G"
+    },
+    {
+        "spanish": "el fa",
+        "english": "F"
+    },
+    {
+        "spanish": "el mi",
+        "english": "E"
+    },
+    {
+        "spanish": "el re",
+        "english": "D"
+    },
+    {
+        "spanish": "el do",
+        "english": "C"
+    },
+    {
+        "spanish": "el bajo",
+        "english": "bass"
+    },
+    {
+        "spanish": "la música",
+        "english": "music"
+    },
+    {
+        "spanish": "tocar",
+        "english": "to play"
+    },
+    {
+        "spanish": "cantar",
+        "english": "to sing"
+    },
+    {
+        "spanish": "afinar",
+        "english": "to tune"
+    },
+    {
+        "spanish": "grabar",
+        "english": "to record"
+    },
+    {
+        "spanish": "acompañar",
+        "english": "to accompany"
+    },
+    {
+        "spanish": "hacer los arreglos de",
+        "english": "to arrange"
+    },
+    {
+        "spanish": "componer",
+        "english": "to compose"
+    },
+    {
+        "spanish": "dirigir",
+        "english": "to conduct"
+    },
+    {
+        "spanish": "tararear",
+        "english": "to hum"
+    },
+    {
+        "spanish": "afinar",
+        "english": "to sing in tune"
+    },
+    {
+        "spanish": "puntear",
+        "english": "to pluck"
+    },
+    {
+        "spanish": "tañer",
+        "english": "to strum"
+    },
+    {
+        "spanish": "pisar",
+        "english": "to strike"
+    },
+    {
+        "spanish": "tamborilear",
+        "english": "to drum"
+    }
+]

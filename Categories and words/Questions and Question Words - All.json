@@ -1,0 +1,366 @@
+[
+    {
+        "spanish": "¿De qué color son tus ojos?",
+        "english": "What color are your eyes?"
+    },
+    {
+        "spanish": "cómo se escribe",
+        "english": "how do you write"
+    },
+    {
+        "spanish": "¿Dónde estás?",
+        "english": "Where are you?"
+    },
+    {
+        "spanish": "¿Cuánto dinero tienes?",
+        "english": "How much money do you have?"
+    },
+    {
+        "spanish": "quieres decir",
+        "english": "do you mean"
+    },
+    {
+        "spanish": "¿Qué tiempo hace?",
+        "english": "What's the weather like?"
+    },
+    {
+        "spanish": "¿Adónde vas?",
+        "english": "Where are you going?"
+    },
+    {
+        "spanish": "¿Hablas español?",
+        "english": "Do you speak Spanish?"
+    },
+    {
+        "spanish": "¿Hablas inglés?",
+        "english": "Do you speak English?"
+    },
+    {
+        "spanish": "¿Qué te gusta hacer?",
+        "english": "What do you like to do?"
+    },
+    {
+        "spanish": "¿Qué tal tu día?",
+        "english": "How was your day?"
+    },
+    {
+        "spanish": "cuánto cuesta",
+        "english": "how much is it"
+    },
+    {
+        "spanish": "¿Cuánto cuesta?",
+        "english": "How much does it cost?"
+    },
+    {
+        "spanish": "¿Cuánto vale?",
+        "english": "How much does it cost?"
+    },
+    {
+        "spanish": "¿Qué hay para cenar?",
+        "english": "What's for dinner?"
+    },
+    {
+        "spanish": "¿Cómo estás?",
+        "english": "How are you?"
+    },
+    {
+        "spanish": "¿Dónde naciste?",
+        "english": "Where were you born?"
+    },
+    {
+        "spanish": "¿Qué clases tomas?",
+        "english": "What classes do you take?"
+    },
+    {
+        "spanish": "¿Qué día es hoy?",
+        "english": "What day is it today?"
+    },
+    {
+        "spanish": "¿Dónde estoy?",
+        "english": "Where am I?"
+    },
+    {
+        "spanish": "¿Estás lista?",
+        "english": "Are you ready?"
+    },
+    {
+        "spanish": "estás disponible",
+        "english": "are you free"
+    },
+    {
+        "spanish": "¿Qué día de la semana es hoy?",
+        "english": "What day is today?"
+    },
+    {
+        "spanish": "quieres que",
+        "english": "do you want"
+    },
+    {
+        "spanish": "¿Cuándo vienes?",
+        "english": "When are you coming?"
+    },
+    {
+        "spanish": "¿Quién eres?",
+        "english": "Who are you?"
+    },
+    {
+        "spanish": "¿Qué haces?",
+        "english": "What are you doing?"
+    },
+    {
+        "spanish": "¿Durmió bien?",
+        "english": "Did you sleep well?"
+    },
+    {
+        "spanish": "¿Qué tal vas?",
+        "english": "How are you doing?"
+    },
+    {
+        "spanish": "¿Cómo se dice ... ?",
+        "english": "How do you say ... ?"
+    },
+    {
+        "spanish": "¿Qué hora es?",
+        "english": "What time is it?"
+    },
+    {
+        "spanish": "¿Qué hay de nuevo?",
+        "english": "What's new?"
+    },
+    {
+        "spanish": "¿De dónde es usted?",
+        "english": "Where are you from?"
+    },
+    {
+        "spanish": "¿Cómo te sientes?",
+        "english": "How do you feel?"
+    },
+    {
+        "spanish": "¿Cuándo es tu cumpleaños?",
+        "english": "When is your birthday?"
+    },
+    {
+        "spanish": "¿Dónde vives?",
+        "english": "Where do you live?"
+    },
+    {
+        "spanish": "¿A qué te dedicas?",
+        "english": "What do you do for a living?"
+    },
+    {
+        "spanish": "¿Cuál es tu nombre?",
+        "english": "What's your name?"
+    },
+    {
+        "spanish": "quién es",
+        "english": "who is he"
+    },
+    {
+        "spanish": "¿Qué aspecto tienes?",
+        "english": "What do you look like?"
+    },
+    {
+        "spanish": "¿Cómo es?",
+        "english": "What are you like?"
+    },
+    {
+        "spanish": "¿Cómo te llamas?",
+        "english": "What's your name?"
+    },
+    {
+        "spanish": "¿Cómo eres físicamente?",
+        "english": "What do you look like?"
+    },
+    {
+        "spanish": "¿Cómo eres?",
+        "english": "What are you like?"
+    },
+    {
+        "spanish": "cuántos años tiene usted",
+        "english": "how old are you"
+    },
+    {
+        "spanish": "qué tal estás",
+        "english": "how are you"
+    },
+    {
+        "spanish": "el examen tipo test",
+        "english": "multiple-choice exam"
+    },
+    {
+        "spanish": "contestar",
+        "english": "to answer"
+    },
+    {
+        "spanish": "preguntar",
+        "english": "to ask"
+    },
+    {
+        "spanish": "la respuesta",
+        "english": "answer"
+    },
+    {
+        "spanish": "la pregunta",
+        "english": "question"
+    },
+    {
+        "spanish": "qué",
+        "english": "what"
+    },
+    {
+        "spanish": "quién",
+        "english": "who"
+    },
+    {
+        "spanish": "cuándo",
+        "english": "when"
+    },
+    {
+        "spanish": "cómo",
+        "english": "Come again?"
+    },
+    {
+        "spanish": "cómo",
+        "english": "how"
+    },
+    {
+        "spanish": "cuánto",
+        "english": "how much"
+    },
+    {
+        "spanish": "cuán",
+        "english": "how"
+    },
+    {
+        "spanish": "adónde",
+        "english": "where"
+    },
+    {
+        "spanish": "dónde",
+        "english": "where"
+    },
+    {
+        "spanish": "para qué",
+        "english": "what ... for"
+    },
+    {
+        "spanish": "cuál",
+        "english": "which"
+    },
+    {
+        "spanish": "de dónde",
+        "english": "from where"
+    },
+    {
+        "spanish": "quién",
+        "english": "whom"
+    },
+    {
+        "spanish": "hacia dónde",
+        "english": "where"
+    },
+    {
+        "spanish": "¿Para quién?",
+        "english": "For whom?"
+    },
+    {
+        "spanish": "de qué manera",
+        "english": "in what way"
+    },
+    {
+        "spanish": "con quién",
+        "english": "with whom"
+    },
+    {
+        "spanish": "desde cuándo",
+        "english": "since when"
+    },
+    {
+        "spanish": "cuánto tiempo hace",
+        "english": "how long ago"
+    },
+    {
+        "spanish": "por dónde",
+        "english": "which way"
+    },
+    {
+        "spanish": "con qué frecuencia",
+        "english": "how often"
+    },
+    {
+        "spanish": "qué es",
+        "english": "what is"
+    },
+    {
+        "spanish": "qué lleva puesto",
+        "english": "what...is wearing"
+    },
+    {
+        "spanish": "qué hace",
+        "english": "what...is doing"
+    },
+    {
+        "spanish": "quién es",
+        "english": "who's"
+    },
+    {
+        "spanish": "cómo es",
+        "english": "what's it like"
+    },
+    {
+        "spanish": "hace cuánto tiempo",
+        "english": "how long"
+    },
+    {
+        "spanish": "cuánto tiempo",
+        "english": "how long"
+    },
+    {
+        "spanish": "es verdad que",
+        "english": "is it true that"
+    },
+    {
+        "spanish": "cuándo y dónde ocurrió",
+        "english": "when and where did it happen"
+    },
+    {
+        "spanish": "de qué está hecho",
+        "english": "what is it made of"
+    },
+    {
+        "spanish": "qué tal",
+        "english": "how is"
+    },
+    {
+        "spanish": "qué día",
+        "english": "what day"
+    },
+    {
+        "spanish": "qué día",
+        "english": "what date"
+    },
+    {
+        "spanish": "qué hora",
+        "english": "what time"
+    },
+    {
+        "spanish": "en que",
+        "english": "on which"
+    },
+    {
+        "spanish": "cómo se dice",
+        "english": "how do you say"
+    },
+    {
+        "spanish": "a qué",
+        "english": "what"
+    },
+    {
+        "spanish": "de qué se trata",
+        "english": "what's ... about"
+    },
+    {
+        "spanish": "por qué",
+        "english": "why"
+    }
+]

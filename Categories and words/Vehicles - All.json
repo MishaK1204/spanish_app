@@ -1,0 +1,838 @@
+[
+    {
+        "spanish": "el avión",
+        "english": "plane"
+    },
+    {
+        "spanish": "el coche",
+        "english": "car"
+    },
+    {
+        "spanish": "atravesar",
+        "english": "to go through"
+    },
+    {
+        "spanish": "cerca",
+        "english": "near"
+    },
+    {
+        "spanish": "al lado de",
+        "english": "beside"
+    },
+    {
+        "spanish": "delante de",
+        "english": "in front of"
+    },
+    {
+        "spanish": "pasar por encima de",
+        "english": "to go over"
+    },
+    {
+        "spanish": "detrás de",
+        "english": "behind"
+    },
+    {
+        "spanish": "entre",
+        "english": "between"
+    },
+    {
+        "spanish": "a la vuelta de la esquina",
+        "english": "around the corner"
+    },
+    {
+        "spanish": "ir por",
+        "english": "to go along"
+    },
+    {
+        "spanish": "atravesar",
+        "english": "to cross"
+    },
+    {
+        "spanish": "pasar por",
+        "english": "to go past"
+    },
+    {
+        "spanish": "signos convencionales",
+        "english": "legend"
+    },
+    {
+        "spanish": "el desecho",
+        "english": "side path"
+    },
+    {
+        "spanish": "el atajo",
+        "english": "shortcut"
+    },
+    {
+        "spanish": "a la derecha",
+        "english": "on the right"
+    },
+    {
+        "spanish": "a mano izquierda",
+        "english": "on the left"
+    },
+    {
+        "spanish": "dar la vuelta",
+        "english": "to turn around"
+    },
+    {
+        "spanish": "seguir derecho",
+        "english": "to go straight"
+    },
+    {
+        "spanish": "doblar a la derecha",
+        "english": "to turn right"
+    },
+    {
+        "spanish": "doblar a la izquierda",
+        "english": "to turn left"
+    },
+    {
+        "spanish": "el suroeste",
+        "english": "southwest"
+    },
+    {
+        "spanish": "el sureste",
+        "english": "southeast"
+    },
+    {
+        "spanish": "el noroeste",
+        "english": "northwest"
+    },
+    {
+        "spanish": "el noreste",
+        "english": "northeast"
+    },
+    {
+        "spanish": "el oeste",
+        "english": "west"
+    },
+    {
+        "spanish": "el este",
+        "english": "east"
+    },
+    {
+        "spanish": "el sur",
+        "english": "south"
+    },
+    {
+        "spanish": "el norte",
+        "english": "north"
+    },
+    {
+        "spanish": "la escala",
+        "english": "port of call"
+    },
+    {
+        "spanish": "la escala",
+        "english": "layover"
+    },
+    {
+        "spanish": "la escala",
+        "english": "stopover"
+    },
+    {
+        "spanish": "la valla protectora",
+        "english": "barrier"
+    },
+    {
+        "spanish": "el paso subterráneo",
+        "english": "underpass"
+    },
+    {
+        "spanish": "el atasco",
+        "english": "traffic jam"
+    },
+    {
+        "spanish": "el astillero",
+        "english": "shipyard"
+    },
+    {
+        "spanish": "pesar",
+        "english": "to weigh"
+    },
+    {
+        "spanish": "el cinturón de seguridad",
+        "english": "seat belt"
+    },
+    {
+        "spanish": "la batalla",
+        "english": "wheelbase"
+    },
+    {
+        "spanish": "el arcén",
+        "english": "berm"
+    },
+    {
+        "spanish": "el jefe de tren",
+        "english": "conductor"
+    },
+    {
+        "spanish": "el furgón",
+        "english": "boxcar"
+    },
+    {
+        "spanish": "el vagón",
+        "english": "freight car"
+    },
+    {
+        "spanish": "el mofle",
+        "english": "exhaust pipe"
+    },
+    {
+        "spanish": "el tubo de escape",
+        "english": "exhaust"
+    },
+    {
+        "spanish": "el surtidor",
+        "english": "petrol station"
+    },
+    {
+        "spanish": "la gasolinera",
+        "english": "gas station"
+    },
+    {
+        "spanish": "salir de",
+        "english": "to get out of"
+    },
+    {
+        "spanish": "montarse en",
+        "english": "to get in"
+    },
+    {
+        "spanish": "subir",
+        "english": "to get in"
+    },
+    {
+        "spanish": "el/la maquinista",
+        "english": "engineer"
+    },
+    {
+        "spanish": "el remolcador",
+        "english": "tugboat"
+    },
+    {
+        "spanish": "el/la piloto",
+        "english": "pilot"
+    },
+    {
+        "spanish": "el/la práctico",
+        "english": "pilot"
+    },
+    {
+        "spanish": "el casco",
+        "english": "hull"
+    },
+    {
+        "spanish": "el elevado",
+        "english": "overhead railway"
+    },
+    {
+        "spanish": "el elevado",
+        "english": "overpass"
+    },
+    {
+        "spanish": "el sitio",
+        "english": "taxi stand"
+    },
+    {
+        "spanish": "estación de ferrocarril",
+        "english": "train station"
+    },
+    {
+        "spanish": "la estación de autobuses",
+        "english": "bus station"
+    },
+    {
+        "spanish": "la máquina",
+        "english": "machine"
+    },
+    {
+        "spanish": "encallar",
+        "english": "to run aground"
+    },
+    {
+        "spanish": "el rin",
+        "english": "rim"
+    },
+    {
+        "spanish": "la corbeta",
+        "english": "corvette"
+    },
+    {
+        "spanish": "la autopista",
+        "english": "freeway"
+    },
+    {
+        "spanish": "el gato",
+        "english": "jack"
+    },
+    {
+        "spanish": "la gata",
+        "english": "jack"
+    },
+    {
+        "spanish": "el estribor",
+        "english": "starboard"
+    },
+    {
+        "spanish": "el babor",
+        "english": "port"
+    },
+    {
+        "spanish": "la popa",
+        "english": "stern"
+    },
+    {
+        "spanish": "la proa",
+        "english": "bow"
+    },
+    {
+        "spanish": "marinero",
+        "english": "seaworthy"
+    },
+    {
+        "spanish": "el maletero",
+        "english": "trunk"
+    },
+    {
+        "spanish": "el velamen",
+        "english": "sails"
+    },
+    {
+        "spanish": "el portaaviones",
+        "english": "aircraft carrier"
+    },
+    {
+        "spanish": "el barco de vela",
+        "english": "sailboat"
+    },
+    {
+        "spanish": "el dron",
+        "english": "drone"
+    },
+    {
+        "spanish": "el helicóptero",
+        "english": "helicopter"
+    },
+    {
+        "spanish": "el ferrocarril",
+        "english": "railroad"
+    },
+    {
+        "spanish": "el taller",
+        "english": "repair shop"
+    },
+    {
+        "spanish": "la cochera",
+        "english": "garage"
+    },
+    {
+        "spanish": "el garaje",
+        "english": "garage"
+    },
+    {
+        "spanish": "el portaequipajes",
+        "english": "carrier"
+    },
+    {
+        "spanish": "la baca",
+        "english": "roof rack"
+    },
+    {
+        "spanish": "la rueda",
+        "english": "wheel"
+    },
+    {
+        "spanish": "el neumático",
+        "english": "tire"
+    },
+    {
+        "spanish": "la llanta",
+        "english": "tire"
+    },
+    {
+        "spanish": "el inflador",
+        "english": "pump"
+    },
+    {
+        "spanish": "el semáforo",
+        "english": "traffic light"
+    },
+    {
+        "spanish": "la señal",
+        "english": "sign"
+    },
+    {
+        "spanish": "automóvil",
+        "english": "automotive"
+    },
+    {
+        "spanish": "la aeronave",
+        "english": "aircraft"
+    },
+    {
+        "spanish": "colisionar",
+        "english": "to collide"
+    },
+    {
+        "spanish": "el choque",
+        "english": "crash"
+    },
+    {
+        "spanish": "la banda",
+        "english": "belt"
+    },
+    {
+        "spanish": "el conductor",
+        "english": "driver"
+    },
+    {
+        "spanish": "el árbol",
+        "english": "shaft"
+    },
+    {
+        "spanish": "el árbol",
+        "english": "mast"
+    },
+    {
+        "spanish": "el aceite",
+        "english": "oil"
+    },
+    {
+        "spanish": "llevar",
+        "english": "to give a ride"
+    },
+    {
+        "spanish": "andar en",
+        "english": "to take"
+    },
+    {
+        "spanish": "la vía de salida",
+        "english": "off-ramp"
+    },
+    {
+        "spanish": "la vía de acceso",
+        "english": "on-ramp"
+    },
+    {
+        "spanish": "el enlace",
+        "english": "junction"
+    },
+    {
+        "spanish": "el cruce",
+        "english": "intersection"
+    },
+    {
+        "spanish": "la batería",
+        "english": "battery"
+    },
+    {
+        "spanish": "la distancia",
+        "english": "distance"
+    },
+    {
+        "spanish": "el accidente",
+        "english": "accident"
+    },
+    {
+        "spanish": "la boya",
+        "english": "buoy"
+    },
+    {
+        "spanish": "la larga",
+        "english": "high beam"
+    },
+    {
+        "spanish": "el puerto deportivo",
+        "english": "marina"
+    },
+    {
+        "spanish": "el puerto",
+        "english": "port"
+    },
+    {
+        "spanish": "la avenida",
+        "english": "avenue"
+    },
+    {
+        "spanish": "el taxi",
+        "english": "taxi"
+    },
+    {
+        "spanish": "botar",
+        "english": "to launch"
+    },
+    {
+        "spanish": "atropellar",
+        "english": "to run over"
+    },
+    {
+        "spanish": "girar",
+        "english": "to turn"
+    },
+    {
+        "spanish": "doblar",
+        "english": "to turn"
+    },
+    {
+        "spanish": "la rural",
+        "english": "station wagon"
+    },
+    {
+        "spanish": "la motora",
+        "english": "motorboat"
+    },
+    {
+        "spanish": "la canoa",
+        "english": "canoe"
+    },
+    {
+        "spanish": "el kayak",
+        "english": "kayak"
+    },
+    {
+        "spanish": "la senda",
+        "english": "track"
+    },
+    {
+        "spanish": "la rodada",
+        "english": "track"
+    },
+    {
+        "spanish": "el camión",
+        "english": "lorry"
+    },
+    {
+        "spanish": "la reserva",
+        "english": "reserve tank"
+    },
+    {
+        "spanish": "el rumbo",
+        "english": "direction"
+    },
+    {
+        "spanish": "andar en moto todo terreno",
+        "english": "to dirt bike"
+    },
+    {
+        "spanish": "la moto",
+        "english": "motorcycle"
+    },
+    {
+        "spanish": "arrancar",
+        "english": "to start"
+    },
+    {
+        "spanish": "acelerar",
+        "english": "to accelerate"
+    },
+    {
+        "spanish": "el paradero",
+        "english": "stop"
+    },
+    {
+        "spanish": "el/la taxista",
+        "english": "taxi driver"
+    },
+    {
+        "spanish": "la estación",
+        "english": "station"
+    },
+    {
+        "spanish": "el subterráneo",
+        "english": "subway"
+    },
+    {
+        "spanish": "el metro",
+        "english": "subway"
+    },
+    {
+        "spanish": "descarrilar",
+        "english": "to derail"
+    },
+    {
+        "spanish": "el freno",
+        "english": "brake"
+    },
+    {
+        "spanish": "la nave",
+        "english": "vessel"
+    },
+    {
+        "spanish": "la nave",
+        "english": "ship"
+    },
+    {
+        "spanish": "el caballo",
+        "english": "horsepower"
+    },
+    {
+        "spanish": "las señales de tránsito",
+        "english": "traffic signs"
+    },
+    {
+        "spanish": "volar",
+        "english": "to fly"
+    },
+    {
+        "spanish": "el viaje",
+        "english": "trip"
+    },
+    {
+        "spanish": "paseo en coche",
+        "english": "ride"
+    },
+    {
+        "spanish": "la área de servicio",
+        "english": "rest area"
+    },
+    {
+        "spanish": "el refugio",
+        "english": "traffic island"
+    },
+    {
+        "spanish": "despegar",
+        "english": "to take off"
+    },
+    {
+        "spanish": "aterrizar",
+        "english": "to land"
+    },
+    {
+        "spanish": "la cadena",
+        "english": "chain"
+    },
+    {
+        "spanish": "la emanación",
+        "english": "emission"
+    },
+    {
+        "spanish": "GPS",
+        "english": "GPS"
+    },
+    {
+        "spanish": "el mapa",
+        "english": "map"
+    },
+    {
+        "spanish": "la luna",
+        "english": "windscreen"
+    },
+    {
+        "spanish": "el parabrisas",
+        "english": "windshield"
+    },
+    {
+        "spanish": "el exceso de velocidad",
+        "english": "speeding"
+    },
+    {
+        "spanish": "exceder el límite de velocidad",
+        "english": "to speed"
+    },
+    {
+        "spanish": "la velocidad",
+        "english": "speed"
+    },
+    {
+        "spanish": "la casa rodante",
+        "english": "camper"
+    },
+    {
+        "spanish": "la caravana",
+        "english": "RV"
+    },
+    {
+        "spanish": "el acoplado",
+        "english": "trailer"
+    },
+    {
+        "spanish": "el tractor",
+        "english": "tractor"
+    },
+    {
+        "spanish": "el camión",
+        "english": "truck"
+    },
+    {
+        "spanish": "la vuelta",
+        "english": "bend"
+    },
+    {
+        "spanish": "el bus escolar",
+        "english": "school bus"
+    },
+    {
+        "spanish": "el bus",
+        "english": "bus"
+    },
+    {
+        "spanish": "interestatal",
+        "english": "interstate"
+    },
+    {
+        "spanish": "la calzada",
+        "english": "carriageway"
+    },
+    {
+        "spanish": "la energia solar",
+        "english": "solar energy"
+    },
+    {
+        "spanish": "la autovía",
+        "english": "highway"
+    },
+    {
+        "spanish": "eléctrico",
+        "english": "electric"
+    },
+    {
+        "spanish": "el gas",
+        "english": "petrol"
+    },
+    {
+        "spanish": "el gasóleo",
+        "english": "diesel"
+    },
+    {
+        "spanish": "el tren",
+        "english": "train"
+    },
+    {
+        "spanish": "exprés",
+        "english": "express"
+    },
+    {
+        "spanish": "rápido",
+        "english": "fast"
+    },
+    {
+        "spanish": "el carro de combate",
+        "english": "tank"
+    },
+    {
+        "spanish": "el estanque",
+        "english": "tank"
+    },
+    {
+        "spanish": "el carruaje",
+        "english": "carriage"
+    },
+    {
+        "spanish": "el autocar",
+        "english": "coach"
+    },
+    {
+        "spanish": "la carreta",
+        "english": "cart"
+    },
+    {
+        "spanish": "el tráfico",
+        "english": "traffic"
+    },
+    {
+        "spanish": "la pick-up",
+        "english": "pickup"
+    },
+    {
+        "spanish": "el intermitente",
+        "english": "turn signal"
+    },
+    {
+        "spanish": "el faro",
+        "english": "headlight"
+    },
+    {
+        "spanish": "la luz",
+        "english": "light"
+    },
+    {
+        "spanish": "el crucero",
+        "english": "cruise ship"
+    },
+    {
+        "spanish": "el crucero",
+        "english": "cruise"
+    },
+    {
+        "spanish": "el vuelo",
+        "english": "flight"
+    },
+    {
+        "spanish": "el jet",
+        "english": "jet"
+    },
+    {
+        "spanish": "el viaje",
+        "english": "journey"
+    },
+    {
+        "spanish": "la ruta",
+        "english": "route"
+    },
+    {
+        "spanish": "el camino",
+        "english": "way"
+    },
+    {
+        "spanish": "el caminito",
+        "english": "path"
+    },
+    {
+        "spanish": "el camino",
+        "english": "track"
+    },
+    {
+        "spanish": "el radio",
+        "english": "radio"
+    },
+    {
+        "spanish": "el sonar",
+        "english": "sonar"
+    },
+    {
+        "spanish": "la marcha",
+        "english": "gear"
+    },
+    {
+        "spanish": "el barco",
+        "english": "boat"
+    },
+    {
+        "spanish": "el avión",
+        "english": "airplane"
+    },
+    {
+        "spanish": "manejar",
+        "english": "to drive"
+    },
+    {
+        "spanish": "conducir",
+        "english": "to drive"
+    },
+    {
+        "spanish": "la calle",
+        "english": "road"
+    },
+    {
+        "spanish": "el carril",
+        "english": "lane"
+    },
+    {
+        "spanish": "la calle",
+        "english": "street"
+    },
+    {
+        "spanish": "el transporte",
+        "english": "transportation"
+    },
+    {
+        "spanish": "el transporte",
+        "english": "transport"
+    },
+    {
+        "spanish": "la conducción",
+        "english": "driving"
+    }
+]

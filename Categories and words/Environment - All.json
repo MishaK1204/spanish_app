@@ -1,0 +1,590 @@
+[
+    {
+        "spanish": "el terremoto",
+        "english": "earthquake"
+    },
+    {
+        "spanish": "el glaciar",
+        "english": "glacier"
+    },
+    {
+        "spanish": "la vida silvestre",
+        "english": "wildlife"
+    },
+    {
+        "spanish": "el smog",
+        "english": "smog"
+    },
+    {
+        "spanish": "autosuficiente",
+        "english": "self-sufficient"
+    },
+    {
+        "spanish": "depender de",
+        "english": "to rely on"
+    },
+    {
+        "spanish": "la reforestación",
+        "english": "reforestation"
+    },
+    {
+        "spanish": "la protesta",
+        "english": "protest"
+    },
+    {
+        "spanish": "proteger",
+        "english": "to protect"
+    },
+    {
+        "spanish": "el pesticida",
+        "english": "pesticide"
+    },
+    {
+        "spanish": "el contaminante",
+        "english": "pollutant"
+    },
+    {
+        "spanish": "cadena alimentaria",
+        "english": "food chain"
+    },
+    {
+        "spanish": "el ecosistema",
+        "english": "ecosystem"
+    },
+    {
+        "spanish": "ecológico",
+        "english": "eco-friendly"
+    },
+    {
+        "spanish": "el vertedero",
+        "english": "dump"
+    },
+    {
+        "spanish": "donar",
+        "english": "to donate"
+    },
+    {
+        "spanish": "el país en desarrollo",
+        "english": "developing country"
+    },
+    {
+        "spanish": "viciado",
+        "english": "contaminated"
+    },
+    {
+        "spanish": "consumir",
+        "english": "to consume"
+    },
+    {
+        "spanish": "el compost",
+        "english": "compost"
+    },
+    {
+        "spanish": "la tala",
+        "english": "felling"
+    },
+    {
+        "spanish": "personas que comparten vehículo",
+        "english": "carpool"
+    },
+    {
+        "spanish": "la prohibición",
+        "english": "ban"
+    },
+    {
+        "spanish": "los combustibles fósiles",
+        "english": "fossil fuels"
+    },
+    {
+        "spanish": "la preservación",
+        "english": "preservation"
+    },
+    {
+        "spanish": "mareomotriz",
+        "english": "tidal"
+    },
+    {
+        "spanish": "la energía solar",
+        "english": "solar energy"
+    },
+    {
+        "spanish": "tóxico",
+        "english": "toxic"
+    },
+    {
+        "spanish": "amenazar",
+        "english": "to threaten"
+    },
+    {
+        "spanish": "aguas residuales",
+        "english": "sewage"
+    },
+    {
+        "spanish": "reutilizable",
+        "english": "reusable"
+    },
+    {
+        "spanish": "bosque lluvioso",
+        "english": "rainforest"
+    },
+    {
+        "spanish": "purificar",
+        "english": "to purify"
+    },
+    {
+        "spanish": "la precipitación",
+        "english": "precipitation"
+    },
+    {
+        "spanish": "venenoso",
+        "english": "poisonous"
+    },
+    {
+        "spanish": "el veneno",
+        "english": "poison"
+    },
+    {
+        "spanish": "el gas natural",
+        "english": "natural gas"
+    },
+    {
+        "spanish": "la fuga",
+        "english": "leak"
+    },
+    {
+        "spanish": "el metal pesado",
+        "english": "heavy metal"
+    },
+    {
+        "spanish": "el hidrocarburo",
+        "english": "hydrocarbon"
+    },
+    {
+        "spanish": "la ola de calor",
+        "english": "heat wave"
+    },
+    {
+        "spanish": "el perjuicio",
+        "english": "harm"
+    },
+    {
+        "spanish": "el humo",
+        "english": "fumes"
+    },
+    {
+        "spanish": "el abono",
+        "english": "fertilizer"
+    },
+    {
+        "spanish": "erosionar",
+        "english": "to erode"
+    },
+    {
+        "spanish": "el/la ecologista",
+        "english": "environmentalist"
+    },
+    {
+        "spanish": "extinguirse",
+        "english": "to die out"
+    },
+    {
+        "spanish": "el animal",
+        "english": "animal"
+    },
+    {
+        "spanish": "el bicho",
+        "english": "creature"
+    },
+    {
+        "spanish": "la catástrofe",
+        "english": "catastrophe"
+    },
+    {
+        "spanish": "la biosfera",
+        "english": "biosphere"
+    },
+    {
+        "spanish": "el derrame de petróleo",
+        "english": "oil spill"
+    },
+    {
+        "spanish": "gastar",
+        "english": "to use up"
+    },
+    {
+        "spanish": "el desarrollo sostenible",
+        "english": "sustainable development"
+    },
+    {
+        "spanish": "la energía renovable",
+        "english": "renewable energy"
+    },
+    {
+        "spanish": "el efecto invernadero",
+        "english": "greenhouse effect"
+    },
+    {
+        "spanish": "extinto",
+        "english": "extinct"
+    },
+    {
+        "spanish": "la extinción",
+        "english": "extinction"
+    },
+    {
+        "spanish": "la conservación",
+        "english": "conservation"
+    },
+    {
+        "spanish": "la energía",
+        "english": "energy"
+    },
+    {
+        "spanish": "especies en peligro de extinción",
+        "english": "endangered species"
+    },
+    {
+        "spanish": "desechable",
+        "english": "disposable"
+    },
+    {
+        "spanish": "la desertización",
+        "english": "desertification"
+    },
+    {
+        "spanish": "la deforestación",
+        "english": "deforestation"
+    },
+    {
+        "spanish": "el dióxido de carbono",
+        "english": "carbon dioxide"
+    },
+    {
+        "spanish": "el monóxido de carbono",
+        "english": "carbon monoxide"
+    },
+    {
+        "spanish": "la biodiversidad",
+        "english": "biodiversity"
+    },
+    {
+        "spanish": "biodegradable",
+        "english": "biodegradable"
+    },
+    {
+        "spanish": "el incentivo",
+        "english": "incentive"
+    },
+    {
+        "spanish": "la política",
+        "english": "politics"
+    },
+    {
+        "spanish": "la política",
+        "english": "policy"
+    },
+    {
+        "spanish": "tirar",
+        "english": "to throw away"
+    },
+    {
+        "spanish": "reciclar",
+        "english": "to recycle"
+    },
+    {
+        "spanish": "reutilizar",
+        "english": "to reuse"
+    },
+    {
+        "spanish": "el reciclaje",
+        "english": "recycling"
+    },
+    {
+        "spanish": "renovable",
+        "english": "renewable"
+    },
+    {
+        "spanish": "el agotamiento",
+        "english": "depletion"
+    },
+    {
+        "spanish": "el recurso natural",
+        "english": "natural resource"
+    },
+    {
+        "spanish": "la basura",
+        "english": "litter"
+    },
+    {
+        "spanish": "la sequía",
+        "english": "drought"
+    },
+    {
+        "spanish": "seco",
+        "english": "dry"
+    },
+    {
+        "spanish": "húmedo",
+        "english": "humid"
+    },
+    {
+        "spanish": "el desastre natural",
+        "english": "natural disaster"
+    },
+    {
+        "spanish": "huella de carbono",
+        "english": "carbon footprint"
+    },
+    {
+        "spanish": "el volcán",
+        "english": "volcano"
+    },
+    {
+        "spanish": "la lava",
+        "english": "lava"
+    },
+    {
+        "spanish": "la atmósfera",
+        "english": "atmosphere"
+    },
+    {
+        "spanish": "el/la ecologista",
+        "english": "ecologist"
+    },
+    {
+        "spanish": "la ecología",
+        "english": "ecology"
+    },
+    {
+        "spanish": "global",
+        "english": "global"
+    },
+    {
+        "spanish": "la emanación",
+        "english": "emission"
+    },
+    {
+        "spanish": "el cambio climático",
+        "english": "climate change"
+    },
+    {
+        "spanish": "el calentamiento global",
+        "english": "global warming"
+    },
+    {
+        "spanish": "la montaña",
+        "english": "mountain"
+    },
+    {
+        "spanish": "el cielo",
+        "english": "sky"
+    },
+    {
+        "spanish": "el aguacero",
+        "english": "downpour"
+    },
+    {
+        "spanish": "el diluvio",
+        "english": "deluge"
+    },
+    {
+        "spanish": "la inundación",
+        "english": "flood"
+    },
+    {
+        "spanish": "el alud",
+        "english": "landslide"
+    },
+    {
+        "spanish": "la tromba",
+        "english": "waterspout"
+    },
+    {
+        "spanish": "el tifón",
+        "english": "typhoon"
+    },
+    {
+        "spanish": "el huracán",
+        "english": "hurricane"
+    },
+    {
+        "spanish": "el tornado",
+        "english": "tornado"
+    },
+    {
+        "spanish": "la tormenta",
+        "english": "storm"
+    },
+    {
+        "spanish": "frío",
+        "english": "cold"
+    },
+    {
+        "spanish": "el calor",
+        "english": "heat"
+    },
+    {
+        "spanish": "la nieve",
+        "english": "snow"
+    },
+    {
+        "spanish": "el sol",
+        "english": "sun"
+    },
+    {
+        "spanish": "la ola",
+        "english": "wave"
+    },
+    {
+        "spanish": "la poza",
+        "english": "pool"
+    },
+    {
+        "spanish": "la base",
+        "english": "base"
+    },
+    {
+        "spanish": "ácido",
+        "english": "acidic"
+    },
+    {
+        "spanish": "el mundo",
+        "english": "world"
+    },
+    {
+        "spanish": "la química",
+        "english": "chemistry"
+    },
+    {
+        "spanish": "la biología",
+        "english": "biology"
+    },
+    {
+        "spanish": "la hierba",
+        "english": "grass"
+    },
+    {
+        "spanish": "la Tierra",
+        "english": "Earth"
+    },
+    {
+        "spanish": "la capa de ozono",
+        "english": "ozone layer"
+    },
+    {
+        "spanish": "el ozono",
+        "english": "ozone"
+    },
+    {
+        "spanish": "el carbono",
+        "english": "carbon"
+    },
+    {
+        "spanish": "la lluvia ácida",
+        "english": "acid rain"
+    },
+    {
+        "spanish": "la lluvia",
+        "english": "rain"
+    },
+    {
+        "spanish": "el acuífero",
+        "english": "aquifer"
+    },
+    {
+        "spanish": "el suelo",
+        "english": "ground"
+    },
+    {
+        "spanish": "la tierra",
+        "english": "dirt"
+    },
+    {
+        "spanish": "ecologista",
+        "english": "green"
+    },
+    {
+        "spanish": "el cenagal",
+        "english": "bog"
+    },
+    {
+        "spanish": "el pantano",
+        "english": "swamp"
+    },
+    {
+        "spanish": "el golfo",
+        "english": "gulf"
+    },
+    {
+        "spanish": "el delta",
+        "english": "delta"
+    },
+    {
+        "spanish": "el afluente",
+        "english": "tributary"
+    },
+    {
+        "spanish": "el riachuelo",
+        "english": "brook"
+    },
+    {
+        "spanish": "el arroyo",
+        "english": "stream"
+    },
+    {
+        "spanish": "el río",
+        "english": "river"
+    },
+    {
+        "spanish": "el lago",
+        "english": "lake"
+    },
+    {
+        "spanish": "el océano",
+        "english": "ocean"
+    },
+    {
+        "spanish": "el/la mar",
+        "english": "sea"
+    },
+    {
+        "spanish": "la contaminación",
+        "english": "contamination"
+    },
+    {
+        "spanish": "la contaminación",
+        "english": "pollution"
+    },
+    {
+        "spanish": "el aire",
+        "english": "air"
+    },
+    {
+        "spanish": "el agua",
+        "english": "water"
+    },
+    {
+        "spanish": "el árbol",
+        "english": "tree"
+    },
+    {
+        "spanish": "fuera",
+        "english": "outside"
+    },
+    {
+        "spanish": "el tiempo",
+        "english": "weather"
+    },
+    {
+        "spanish": "la planta",
+        "english": "plant"
+    },
+    {
+        "spanish": "el clima",
+        "english": "climate"
+    },
+    {
+        "spanish": "el medio ambiente",
+        "english": "environment"
+    }
+]

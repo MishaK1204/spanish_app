@@ -1,0 +1,634 @@
+[
+    {
+        "spanish": "el censo",
+        "english": "register"
+    },
+    {
+        "spanish": "elegir",
+        "english": "to elect"
+    },
+    {
+        "spanish": "electo",
+        "english": "elect"
+    },
+    {
+        "spanish": "el derrocamiento",
+        "english": "overthrow"
+    },
+    {
+        "spanish": "el veto",
+        "english": "veto"
+    },
+    {
+        "spanish": "el debate",
+        "english": "debate"
+    },
+    {
+        "spanish": "el plan",
+        "english": "plan"
+    },
+    {
+        "spanish": "dar un discurso",
+        "english": "to give a speech"
+    },
+    {
+        "spanish": "el público",
+        "english": "public"
+    },
+    {
+        "spanish": "internacional",
+        "english": "international"
+    },
+    {
+        "spanish": "sin ánimo de lucro",
+        "english": "nonprofit"
+    },
+    {
+        "spanish": "gubernamental",
+        "english": "governmental"
+    },
+    {
+        "spanish": "económico",
+        "english": "economic"
+    },
+    {
+        "spanish": "social",
+        "english": "social"
+    },
+    {
+        "spanish": "cultural",
+        "english": "cultural"
+    },
+    {
+        "spanish": "demócrata",
+        "english": "Democratic"
+    },
+    {
+        "spanish": "democrático",
+        "english": "democratic"
+    },
+    {
+        "spanish": "el republicano",
+        "english": "Republican"
+    },
+    {
+        "spanish": "republicano",
+        "english": "republican"
+    },
+    {
+        "spanish": "fascista",
+        "english": "fascist"
+    },
+    {
+        "spanish": "refugiado",
+        "english": "refugee"
+    },
+    {
+        "spanish": "el compañero",
+        "english": "comrade"
+    },
+    {
+        "spanish": "el/la camarada",
+        "english": "comrade"
+    },
+    {
+        "spanish": "leal",
+        "english": "loyal"
+    },
+    {
+        "spanish": "la censura",
+        "english": "censorship"
+    },
+    {
+        "spanish": "el escaño",
+        "english": "seat"
+    },
+    {
+        "spanish": "la Junta",
+        "english": "regional government"
+    },
+    {
+        "spanish": "la campaña",
+        "english": "campaign"
+    },
+    {
+        "spanish": "la misión",
+        "english": "mission"
+    },
+    {
+        "spanish": "verde",
+        "english": "green"
+    },
+    {
+        "spanish": "sublevarse",
+        "english": "to rise up"
+    },
+    {
+        "spanish": "progresista",
+        "english": "progressive"
+    },
+    {
+        "spanish": "la sentada",
+        "english": "sit-in"
+    },
+    {
+        "spanish": "la convención",
+        "english": "convention"
+    },
+    {
+        "spanish": "la manifestación",
+        "english": "demonstration"
+    },
+    {
+        "spanish": "la votación",
+        "english": "vote"
+    },
+    {
+        "spanish": "el empate",
+        "english": "tie"
+    },
+    {
+        "spanish": "abdicar",
+        "english": "to abdicate"
+    },
+    {
+        "spanish": "el expositor",
+        "english": "speaker"
+    },
+    {
+        "spanish": "conquistar",
+        "english": "to conquer"
+    },
+    {
+        "spanish": "el candidato",
+        "english": "candidate"
+    },
+    {
+        "spanish": "el enchufe",
+        "english": "connections"
+    },
+    {
+        "spanish": "la palanca",
+        "english": "contact"
+    },
+    {
+        "spanish": "yo también",
+        "english": "me too"
+    },
+    {
+        "spanish": "Las vidas negras importan",
+        "english": "Black Lives Matter"
+    },
+    {
+        "spanish": "el racismo",
+        "english": "racism"
+    },
+    {
+        "spanish": "idealista",
+        "english": "idealistic"
+    },
+    {
+        "spanish": "realista",
+        "english": "realistic"
+    },
+    {
+        "spanish": "regir",
+        "english": "to govern"
+    },
+    {
+        "spanish": "gobernar",
+        "english": "to govern"
+    },
+    {
+        "spanish": "la migración",
+        "english": "migration"
+    },
+    {
+        "spanish": "sublevarse",
+        "english": "to rebel"
+    },
+    {
+        "spanish": "la libertad",
+        "english": "freedom"
+    },
+    {
+        "spanish": "el lobby",
+        "english": "lobby"
+    },
+    {
+        "spanish": "aprobar",
+        "english": "to pass"
+    },
+    {
+        "spanish": "afiliado",
+        "english": "member"
+    },
+    {
+        "spanish": "Revolución francesa",
+        "english": "French Revolution"
+    },
+    {
+        "spanish": "la revolución",
+        "english": "revolution"
+    },
+    {
+        "spanish": "el poder",
+        "english": "power"
+    },
+    {
+        "spanish": "la revuelta",
+        "english": "riot"
+    },
+    {
+        "spanish": "la máquina",
+        "english": "machine"
+    },
+    {
+        "spanish": "la prohibición",
+        "english": "ban"
+    },
+    {
+        "spanish": "la trata",
+        "english": "human trafficking"
+    },
+    {
+        "spanish": "el secretariado",
+        "english": "secretariat"
+    },
+    {
+        "spanish": "el conflicto",
+        "english": "conflict"
+    },
+    {
+        "spanish": "los derechos humanos",
+        "english": "human rights"
+    },
+    {
+        "spanish": "la lealtad",
+        "english": "loyalty"
+    },
+    {
+        "spanish": "la paloma",
+        "english": "dove"
+    },
+    {
+        "spanish": "la ley",
+        "english": "law"
+    },
+    {
+        "spanish": "el ciudadano",
+        "english": "citizen"
+    },
+    {
+        "spanish": "el/la dirigente",
+        "english": "leader"
+    },
+    {
+        "spanish": "el palacio",
+        "english": "palace"
+    },
+    {
+        "spanish": "la protesta",
+        "english": "protest"
+    },
+    {
+        "spanish": "la batalla",
+        "english": "battle"
+    },
+    {
+        "spanish": "el opositor",
+        "english": "opponent"
+    },
+    {
+        "spanish": "el liderazgo",
+        "english": "leadership"
+    },
+    {
+        "spanish": "proyecto de ley",
+        "english": "bill"
+    },
+    {
+        "spanish": "el devenir",
+        "english": "development"
+    },
+    {
+        "spanish": "el ejército",
+        "english": "army"
+    },
+    {
+        "spanish": "el voto",
+        "english": "vote"
+    },
+    {
+        "spanish": "la desigualdad",
+        "english": "inequality"
+    },
+    {
+        "spanish": "la diputación",
+        "english": "council"
+    },
+    {
+        "spanish": "la reacción",
+        "english": "reaction"
+    },
+    {
+        "spanish": "el espionaje",
+        "english": "espionage"
+    },
+    {
+        "spanish": "la candidatura",
+        "english": "candidacy"
+    },
+    {
+        "spanish": "la fórmula",
+        "english": "ticket"
+    },
+    {
+        "spanish": "la marcha",
+        "english": "march"
+    },
+    {
+        "spanish": "global",
+        "english": "global"
+    },
+    {
+        "spanish": "la lucha",
+        "english": "struggle"
+    },
+    {
+        "spanish": "la dictadura",
+        "english": "dictatorship"
+    },
+    {
+        "spanish": "el dictador",
+        "english": "dictator"
+    },
+    {
+        "spanish": "autoritario",
+        "english": "authoritarian"
+    },
+    {
+        "spanish": "ocupado",
+        "english": "occupied"
+    },
+    {
+        "spanish": "la independencia",
+        "english": "independence"
+    },
+    {
+        "spanish": "el nombramiento",
+        "english": "nomination"
+    },
+    {
+        "spanish": "las elecciones",
+        "english": "election"
+    },
+    {
+        "spanish": "el consejero",
+        "english": "advisor"
+    },
+    {
+        "spanish": "el ministro",
+        "english": "minister"
+    },
+    {
+        "spanish": "el secretario",
+        "english": "minister"
+    },
+    {
+        "spanish": "el consejero",
+        "english": "minister"
+    },
+    {
+        "spanish": "el gabinete",
+        "english": "cabinet"
+    },
+    {
+        "spanish": "el consejo de ministros",
+        "english": "cabinet"
+    },
+    {
+        "spanish": "el/la canciller",
+        "english": "chancellor"
+    },
+    {
+        "spanish": "el primer ministro",
+        "english": "prime minister"
+    },
+    {
+        "spanish": "el presidente",
+        "english": "president"
+    },
+    {
+        "spanish": "la alcaldesa",
+        "english": "mayor"
+    },
+    {
+        "spanish": "el alcalde",
+        "english": "mayor"
+    },
+    {
+        "spanish": "el diputado",
+        "english": "representative"
+    },
+    {
+        "spanish": "el senador",
+        "english": "senator"
+    },
+    {
+        "spanish": "el político",
+        "english": "politician"
+    },
+    {
+        "spanish": "el rey",
+        "english": "king"
+    },
+    {
+        "spanish": "la reina",
+        "english": "queen"
+    },
+    {
+        "spanish": "la posición",
+        "english": "position"
+    },
+    {
+        "spanish": "la postura",
+        "english": "position"
+    },
+    {
+        "spanish": "el cargo",
+        "english": "position"
+    },
+    {
+        "spanish": "la economía",
+        "english": "economy"
+    },
+    {
+        "spanish": "la tribu",
+        "english": "tribe"
+    },
+    {
+        "spanish": "el derecho",
+        "english": "right"
+    },
+    {
+        "spanish": "la bandera",
+        "english": "flag"
+    },
+    {
+        "spanish": "el movimiento",
+        "english": "movement"
+    },
+    {
+        "spanish": "la población",
+        "english": "population"
+    },
+    {
+        "spanish": "el cambio",
+        "english": "change"
+    },
+    {
+        "spanish": "el país en desarrollo",
+        "english": "developing country"
+    },
+    {
+        "spanish": "el estado del bienestar",
+        "english": "welfare state"
+    },
+    {
+        "spanish": "la asistencia sanitaria",
+        "english": "health care"
+    },
+    {
+        "spanish": "el estado",
+        "english": "state"
+    },
+    {
+        "spanish": "la nación",
+        "english": "nation"
+    },
+    {
+        "spanish": "la paz",
+        "english": "peace"
+    },
+    {
+        "spanish": "el arma",
+        "english": "weapon"
+    },
+    {
+        "spanish": "el estado",
+        "english": "state"
+    },
+    {
+        "spanish": "el partido",
+        "english": "party"
+    },
+    {
+        "spanish": "la guerra",
+        "english": "war"
+    },
+    {
+        "spanish": "la política",
+        "english": "policy"
+    },
+    {
+        "spanish": "el mandato",
+        "english": "mandate"
+    },
+    {
+        "spanish": "concurrir",
+        "english": "to run"
+    },
+    {
+        "spanish": "las noticias",
+        "english": "news"
+    },
+    {
+        "spanish": "el comité",
+        "english": "committee"
+    },
+    {
+        "spanish": "regio",
+        "english": "royal"
+    },
+    {
+        "spanish": "el/la miembro de la familia real",
+        "english": "royal"
+    },
+    {
+        "spanish": "la constitución",
+        "english": "constitution"
+    },
+    {
+        "spanish": "la república",
+        "english": "republic"
+    },
+    {
+        "spanish": "la monarquía",
+        "english": "monarchy"
+    },
+    {
+        "spanish": "el trono",
+        "english": "crown"
+    },
+    {
+        "spanish": "la lucha",
+        "english": "fight"
+    },
+    {
+        "spanish": "político",
+        "english": "political"
+    },
+    {
+        "spanish": "socialista",
+        "english": "socialist"
+    },
+    {
+        "spanish": "comunista",
+        "english": "Communist"
+    },
+    {
+        "spanish": "el/la anarquista",
+        "english": "anarchist"
+    },
+    {
+        "spanish": "el libertario",
+        "english": "libertarian"
+    },
+    {
+        "spanish": "liberal",
+        "english": "liberal"
+    },
+    {
+        "spanish": "conservador",
+        "english": "conservative"
+    },
+    {
+        "spanish": "la derecha",
+        "english": "right"
+    },
+    {
+        "spanish": "la izquierda",
+        "english": "left"
+    },
+    {
+        "spanish": "la opinión",
+        "english": "opinion"
+    },
+    {
+        "spanish": "el mapa",
+        "english": "map"
+    },
+    {
+        "spanish": "la inmigración",
+        "english": "immigration"
+    },
+    {
+        "spanish": "el gobierno",
+        "english": "government"
+    },
+    {
+        "spanish": "la política",
+        "english": "politics"
+    }
+]

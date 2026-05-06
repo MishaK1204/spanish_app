@@ -1,0 +1,290 @@
+[
+    {
+        "spanish": "seguro",
+        "english": "sure"
+    },
+    {
+        "spanish": "la envidia",
+        "english": "envy"
+    },
+    {
+        "spanish": "el desprecio",
+        "english": "contempt"
+    },
+    {
+        "spanish": "depre",
+        "english": "low"
+    },
+    {
+        "spanish": "exasperado",
+        "english": "exasperated"
+    },
+    {
+        "spanish": "tranquilo",
+        "english": "calm"
+    },
+    {
+        "spanish": "rabioso",
+        "english": "furious"
+    },
+    {
+        "spanish": "intranquilo",
+        "english": "uneasy"
+    },
+    {
+        "spanish": "enfadado",
+        "english": "cross"
+    },
+    {
+        "spanish": "¿Cómo estás?",
+        "english": "How are you?"
+    },
+    {
+        "spanish": "¿Cómo te sientes?",
+        "english": "How do you feel?"
+    },
+    {
+        "spanish": "la soledad",
+        "english": "loneliness"
+    },
+    {
+        "spanish": "paralizado",
+        "english": "numb"
+    },
+    {
+        "spanish": "la empatía",
+        "english": "empathy"
+    },
+    {
+        "spanish": "la pena",
+        "english": "sorrow"
+    },
+    {
+        "spanish": "la pena",
+        "english": "pity"
+    },
+    {
+        "spanish": "conmocionado",
+        "english": "shocked"
+    },
+    {
+        "spanish": "enojado",
+        "english": "angry"
+    },
+    {
+        "spanish": "regocijado",
+        "english": "joyful"
+    },
+    {
+        "spanish": "encumbrado",
+        "english": "exalted"
+    },
+    {
+        "spanish": "inquieto",
+        "english": "anxious"
+    },
+    {
+        "spanish": "aburrido",
+        "english": "bored"
+    },
+    {
+        "spanish": "deprimido",
+        "english": "depressed"
+    },
+    {
+        "spanish": "emocionado",
+        "english": "excited"
+    },
+    {
+        "spanish": "temeroso",
+        "english": "fearful"
+    },
+    {
+        "spanish": "ilusionado",
+        "english": "hopeful"
+    },
+    {
+        "spanish": "impactado",
+        "english": "impressed"
+    },
+    {
+        "spanish": "horrorizado",
+        "english": "horrified"
+    },
+    {
+        "spanish": "indignado",
+        "english": "indignant"
+    },
+    {
+        "spanish": "nervioso",
+        "english": "nervous"
+    },
+    {
+        "spanish": "envidioso",
+        "english": "jealous"
+    },
+    {
+        "spanish": "triste",
+        "english": "sad"
+    },
+    {
+        "spanish": "sorprendido",
+        "english": "surprised"
+    },
+    {
+        "spanish": "estresado",
+        "english": "stressed"
+    },
+    {
+        "spanish": "tenso",
+        "english": "tense"
+    },
+    {
+        "spanish": "preocupado",
+        "english": "worried"
+    },
+    {
+        "spanish": "cansado",
+        "english": "tired"
+    },
+    {
+        "spanish": "agotado",
+        "english": "exhausted"
+    },
+    {
+        "spanish": "contento",
+        "english": "happy"
+    },
+    {
+        "spanish": "feliz",
+        "english": "happy"
+    },
+    {
+        "spanish": "alegre",
+        "english": "happy"
+    },
+    {
+        "spanish": "de mal humor",
+        "english": "in a bad mood"
+    },
+    {
+        "spanish": "de buen humor",
+        "english": "in a good mood"
+    },
+    {
+        "spanish": "satisfecho",
+        "english": "satisfied"
+    },
+    {
+        "spanish": "asustado",
+        "english": "scared"
+    },
+    {
+        "spanish": "avergonzado",
+        "english": "ashamed"
+    },
+    {
+        "spanish": "molesto",
+        "english": "upset"
+    },
+    {
+        "spanish": "orgulloso",
+        "english": "proud"
+    },
+    {
+        "spanish": "mareado",
+        "english": "dizzy"
+    },
+    {
+        "spanish": "perdido",
+        "english": "lost"
+    },
+    {
+        "spanish": "agobiado",
+        "english": "overwhelmed"
+    },
+    {
+        "spanish": "hambriento",
+        "english": "hungry"
+    },
+    {
+        "spanish": "enamorado",
+        "english": "in love"
+    },
+    {
+        "spanish": "harto",
+        "english": "fed up"
+    },
+    {
+        "spanish": "el adormecimiento",
+        "english": "sleepiness"
+    },
+    {
+        "spanish": "el estupor",
+        "english": "astonishment"
+    },
+    {
+        "spanish": "el asco",
+        "english": "disgust"
+    },
+    {
+        "spanish": "la decepción",
+        "english": "disappointment"
+    },
+    {
+        "spanish": "la ira",
+        "english": "anger"
+    },
+    {
+        "spanish": "la ansiedad",
+        "english": "anxiety"
+    },
+    {
+        "spanish": "el aburrimiento",
+        "english": "boredom"
+    },
+    {
+        "spanish": "la felicidad",
+        "english": "happiness"
+    },
+    {
+        "spanish": "la depresión",
+        "english": "depression"
+    },
+    {
+        "spanish": "el entusiasmo",
+        "english": "enthusiasm"
+    },
+    {
+        "spanish": "la esperanza",
+        "english": "hope"
+    },
+    {
+        "spanish": "la alegría",
+        "english": "joy"
+    },
+    {
+        "spanish": "los celos",
+        "english": "jealousy"
+    },
+    {
+        "spanish": "el miedo",
+        "english": "fear"
+    },
+    {
+        "spanish": "la exaltación",
+        "english": "elation"
+    },
+    {
+        "spanish": "el asombro",
+        "english": "fright"
+    },
+    {
+        "spanish": "la tristeza",
+        "english": "sadness"
+    },
+    {
+        "spanish": "la preocupación",
+        "english": "concern"
+    }
+]

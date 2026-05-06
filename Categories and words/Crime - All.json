@@ -1,0 +1,334 @@
+[
+    {
+        "spanish": "asaltar",
+        "english": "to hold up"
+    },
+    {
+        "spanish": "ultrajar",
+        "english": "to offend"
+    },
+    {
+        "spanish": "hurtar",
+        "english": "to steal"
+    },
+    {
+        "spanish": "interrogar",
+        "english": "to question"
+    },
+    {
+        "spanish": "enjuiciar",
+        "english": "to indict"
+    },
+    {
+        "spanish": "condenar",
+        "english": "to convict"
+    },
+    {
+        "spanish": "delinquir",
+        "english": "to commit a crime"
+    },
+    {
+        "spanish": "asesinar",
+        "english": "to assassinate"
+    },
+    {
+        "spanish": "violar",
+        "english": "to rape"
+    },
+    {
+        "spanish": "atacar",
+        "english": "to attack"
+    },
+    {
+        "spanish": "asaltar",
+        "english": "to mug"
+    },
+    {
+        "spanish": "robar",
+        "english": "to steal"
+    },
+    {
+        "spanish": "demandar",
+        "english": "to sue"
+    },
+    {
+        "spanish": "procesar",
+        "english": "to prosecute"
+    },
+    {
+        "spanish": "encausar",
+        "english": "to prosecute"
+    },
+    {
+        "spanish": "someter a interrogatorio",
+        "english": "to interrogate"
+    },
+    {
+        "spanish": "condenar",
+        "english": "to sentence"
+    },
+    {
+        "spanish": "juzgar",
+        "english": "to judge"
+    },
+    {
+        "spanish": "apelar",
+        "english": "to appeal"
+    },
+    {
+        "spanish": "multar",
+        "english": "to fine"
+    },
+    {
+        "spanish": "escapar",
+        "english": "to escape"
+    },
+    {
+        "spanish": "encerrado",
+        "english": "locked up"
+    },
+    {
+        "spanish": "violentar",
+        "english": "to break into"
+    },
+    {
+        "spanish": "forense",
+        "english": "forensic"
+    },
+    {
+        "spanish": "sobornar",
+        "english": "to bribe"
+    },
+    {
+        "spanish": "la acusación",
+        "english": "charge"
+    },
+    {
+        "spanish": "la cárcel",
+        "english": "prison"
+    },
+    {
+        "spanish": "la cárcel",
+        "english": "jail"
+    },
+    {
+        "spanish": "la pena de muerte",
+        "english": "death penalty"
+    },
+    {
+        "spanish": "la horca",
+        "english": "gallows"
+    },
+    {
+        "spanish": "huir",
+        "english": "to escape"
+    },
+    {
+        "spanish": "se busca",
+        "english": "wanted"
+    },
+    {
+        "spanish": "la evidencia",
+        "english": "evidence"
+    },
+    {
+        "spanish": "falsificar",
+        "english": "to counterfeit"
+    },
+    {
+        "spanish": "en secreto",
+        "english": "undercover"
+    },
+    {
+        "spanish": "destapar",
+        "english": "to uncover"
+    },
+    {
+        "spanish": "el camello",
+        "english": "dealer"
+    },
+    {
+        "spanish": "el/la traficante de drogas",
+        "english": "drug dealer"
+    },
+    {
+        "spanish": "denunciar",
+        "english": "to report"
+    },
+    {
+        "spanish": "presenciar",
+        "english": "to witness"
+    },
+    {
+        "spanish": "el/la testigo",
+        "english": "witness"
+    },
+    {
+        "spanish": "matar",
+        "english": "to kill"
+    },
+    {
+        "spanish": "la trama",
+        "english": "plot"
+    },
+    {
+        "spanish": "la entrevista",
+        "english": "interview"
+    },
+    {
+        "spanish": "la investigación",
+        "english": "investigation"
+    },
+    {
+        "spanish": "el delito",
+        "english": "crime"
+    },
+    {
+        "spanish": "el apaño",
+        "english": "fix"
+    },
+    {
+        "spanish": "la barrida",
+        "english": "sweep"
+    },
+    {
+        "spanish": "el fierro",
+        "english": "knife"
+    },
+    {
+        "spanish": "el caso",
+        "english": "case"
+    },
+    {
+        "spanish": "excarcelar",
+        "english": "to release"
+    },
+    {
+        "spanish": "el ladrón",
+        "english": "thief"
+    },
+    {
+        "spanish": "engañoso",
+        "english": "deceitful"
+    },
+    {
+        "spanish": "absolver",
+        "english": "to acquit"
+    },
+    {
+        "spanish": "inculpar",
+        "english": "to charge"
+    },
+    {
+        "spanish": "la fianza",
+        "english": "bail"
+    },
+    {
+        "spanish": "el pecado",
+        "english": "sin"
+    },
+    {
+        "spanish": "el interrogatorio",
+        "english": "questioning"
+    },
+    {
+        "spanish": "atracar",
+        "english": "to mug"
+    },
+    {
+        "spanish": "asaltar",
+        "english": "to rob"
+    },
+    {
+        "spanish": "arrestar",
+        "english": "to arrest"
+    },
+    {
+        "spanish": "apresar",
+        "english": "to apprehend"
+    },
+    {
+        "spanish": "el/la asaltante",
+        "english": "robber"
+    },
+    {
+        "spanish": "el cleptómano",
+        "english": "kleptomaniac"
+    },
+    {
+        "spanish": "la pandilla",
+        "english": "gang"
+    },
+    {
+        "spanish": "asesinar",
+        "english": "to murder"
+    },
+    {
+        "spanish": "traicionar",
+        "english": "to betray"
+    },
+    {
+        "spanish": "el sádico",
+        "english": "sadist"
+    },
+    {
+        "spanish": "lastimar",
+        "english": "to hurt"
+    },
+    {
+        "spanish": "el secuestro",
+        "english": "kidnapping"
+    },
+    {
+        "spanish": "raptar",
+        "english": "to kidnap"
+    },
+    {
+        "spanish": "el ataque",
+        "english": "attack"
+    },
+    {
+        "spanish": "el rifle",
+        "english": "rifle"
+    },
+    {
+        "spanish": "el arma",
+        "english": "weapon"
+    },
+    {
+        "spanish": "el accidente",
+        "english": "accident"
+    },
+    {
+        "spanish": "el asalto",
+        "english": "robbery"
+    },
+    {
+        "spanish": "el robo",
+        "english": "robbery"
+    },
+    {
+        "spanish": "la cuerda",
+        "english": "rope"
+    },
+    {
+        "spanish": "el levantamiento",
+        "english": "uprising"
+    },
+    {
+        "spanish": "la pistola",
+        "english": "pistol"
+    },
+    {
+        "spanish": "el/la pirata",
+        "english": "pirate"
+    },
+    {
+        "spanish": "hacer aparecer como culpable",
+        "english": "to frame"
+    },
+    {
+        "spanish": "el crimen",
+        "english": "crime"
+    }
+]

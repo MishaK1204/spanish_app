@@ -1,0 +1,42 @@
+<div class="auth-page">
+  <h1>Create account</h1>
+  <p class="lede">Pick a username and a password (at least 8 characters).</p>
+
+  @if (error(); as err) {
+    <p class="banner error" role="alert">{{ err }}</p>
+  }
+
+  <form class="auth-form" (ngSubmit)="submit()">
+    <label class="field">
+      <span class="label">Username</span>
+      <input
+        name="username"
+        type="text"
+        autocomplete="username"
+        [(ngModel)]="modelUsername"
+        [disabled]="loading()"
+        required
+      />
+    </label>
+    <label class="field">
+      <span class="label">Password</span>
+      <input
+        name="password"
+        type="password"
+        autocomplete="new-password"
+        [(ngModel)]="modelPassword"
+        [disabled]="loading()"
+        required
+        minlength="8"
+      />
+    </label>
+    <button type="submit" class="btn primary" [disabled]="loading()">
+      {{ loading() ? 'Creating…' : 'Register' }}
+    </button>
+  </form>
+
+  <p class="footer-link">
+    Already have an account?
+    <a routerLink="/login">Log in</a>
+  </p>
+</div>

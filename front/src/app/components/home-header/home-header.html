@@ -1,0 +1,30 @@
+<header class="hero">
+  <h1>Spanish vocabulary</h1>
+  <p class="lede">
+    Choose a category to study. Words load from the API (PostgreSQL).
+    @if (auth.isLoggedIn()) {
+      Mark words as known to focus on what is left — progress is saved per account across categories.
+    } @else {
+      <a routerLink="/login">Log in</a> or <a routerLink="/register">register</a> to save words you know (per
+      account).
+    }
+  </p>
+  @if (words.error(); as err) {
+    <p class="banner error" role="alert">{{ err }}</p>
+  } @else if (words.loadingCategories()) {
+    <p class="banner">Loading categories…</p>
+  } @else if (!(words.categories()?.length)) {
+    <p class="banner">No categories returned. Seed the database and ensure the backend is running.</p>
+  } @else {
+    <p class="stats">
+      <span class="stat"
+        ><strong>{{ words.categories()!.length }}</strong> categories</span
+      >
+      @if (auth.isLoggedIn()) {
+        <span class="stat"
+          ><strong>{{ progress.masteredCount() }}</strong> words marked as known</span
+        >
+      }
+    </p>
+  }
+</header>

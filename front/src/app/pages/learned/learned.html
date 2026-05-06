@@ -1,0 +1,73 @@
+<div class="learned">
+  <header class="hero">
+    <h1>Known words</h1>
+    <p class="lede">
+      Words you have marked as known while logged in. Open a category or remove a word from this list.
+    </p>
+    <label class="search">
+      <span class="visually-hidden">Filter words</span>
+      <input
+        type="search"
+        placeholder="Filter by Spanish, English, or category…"
+        [value]="query()"
+        (input)="onQueryInput($event)"
+        [disabled]="loading() || !items()?.length"
+      />
+    </label>
+  </header>
+
+  @if (loadError(); as err) {
+    <p class="banner error" role="alert">{{ err }}</p>
+  } @else if (loading()) {
+    <p class="banner">Loading known words…</p>
+  } @else if (!(items()?.length)) {
+    @if (!auth.isLoggedIn()) {
+      <p class="banner">Log in to save and review words you mark as known.</p>
+      <p class="footer-actions">
+        <a routerLink="/login" class="home-link">Log in</a>
+        ·
+        <a routerLink="/register" class="home-link">Register</a>
+        ·
+        <a routerLink="/" class="home-link">Categories</a>
+      </p>
+    } @else {
+      <p class="banner">No known words yet. Study a category and mark words as known to see them here.</p>
+      <p class="footer-actions">
+        <a routerLink="/" class="home-link">← Back to categories</a>
+      </p>
+    }
+  } @else {
+    <p class="stats">
+      <span class="stat"
+        ><strong>{{ filtered().length }}</strong> shown</span
+      >
+      @if (filtered().length !== items()!.length) {
+        <span class="stat muted">of {{ items()!.length }} total</span>
+      }
+    </p>
+
+    <section aria-label="Known words">
+      <ul class="word-grid" role="list">
+        @for (w of filtered(); track w.id) {
+          <li class="word-card">
+            <div class="word-main">
+              <span class="spanish">{{ w.spanish }}</span>
+              <span class="english">{{ w.english }}</span>
+              <a class="cat-link" [routerLink]="['/category', w.categoryId, 'browse']">{{ w.categoryName }}</a>
+            </div>
+            <div class="word-actions">
+              <a class="study-link" [routerLink]="['/category', w.categoryId, 'flashcards']">Study →</a>
+              <button type="button" class="link-btn danger" (click)="unmark(w.id)">
+                Remove from known
+              </button>
+            </div>
+          </li>
+        }
+      </ul>
+    </section>
+
+    <p class="footer-actions">
+      <a routerLink="/" class="home-link">← Back to categories</a>
+    </p>
+  }
+</div>

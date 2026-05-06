@@ -1,0 +1,132 @@
+.card-shell {
+  position: relative;
+}
+
+.card-face {
+  width: 100%;
+  min-height: 16rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.65rem;
+  padding: 1.75rem 1.5rem 1.5rem;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border);
+  background:
+    linear-gradient(
+      145deg,
+      color-mix(in oklab, var(--surface) 100%, transparent) 0%,
+      var(--surface-2) 100%
+    );
+  box-shadow:
+    0 1px 0 oklch(0% 0 0 / 0.04),
+    0 12px 40px oklch(0% 0 0 / 0.08);
+  cursor: pointer;
+  font: inherit;
+  color: inherit;
+  transition:
+    box-shadow 0.2s ease,
+    border-color 0.2s ease,
+    transform 0.15s ease;
+}
+
+@media (prefers-color-scheme: dark) {
+  .card-face {
+    box-shadow:
+      0 1px 0 oklch(100% 0 0 / 0.04),
+      0 16px 48px oklch(0% 0 0 / 0.35);
+  }
+}
+
+.card-face:hover {
+  border-color: color-mix(in oklab, var(--accent) 38%, var(--border));
+  box-shadow:
+    0 1px 0 oklch(0% 0 0 / 0.06),
+    0 16px 44px oklch(0% 0 0 / 0.12);
+}
+
+.card-face:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+}
+
+.card-face:active {
+  transform: scale(0.992);
+}
+
+.side-pill {
+  display: inline-block;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: var(--accent);
+  padding: 0.25rem 0.55rem;
+  border-radius: 999px;
+  background: color-mix(in oklab, var(--accent) 14%, var(--surface));
+  border: 1px solid color-mix(in oklab, var(--accent) 28%, var(--border));
+}
+
+.word {
+  font-size: clamp(1.55rem, 5.5vw, 2.05rem);
+  font-weight: 650;
+  text-align: center;
+  line-height: 1.28;
+  max-width: 100%;
+  word-break: break-word;
+}
+
+.word--es {
+  font-family: var(--font-display);
+}
+
+.word--en {
+  font-weight: 600;
+}
+
+.card-hint {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  margin-top: 0.25rem;
+}
+
+.speak-btn {
+  position: absolute;
+  top: 0.75rem;
+  right: 0.75rem;
+  z-index: 2;
+  width: 2.5rem;
+  height: 2.5rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: color-mix(in oklab, var(--surface) 90%, transparent);
+  backdrop-filter: blur(10px);
+  color: var(--accent);
+  cursor: pointer;
+  transition:
+    border-color 0.15s ease,
+    box-shadow 0.15s ease,
+    background 0.15s ease;
+}
+
+.speak-btn:hover {
+  border-color: color-mix(in oklab, var(--accent) 45%, var(--border));
+  background: color-mix(in oklab, var(--accent) 10%, var(--surface));
+  box-shadow: 0 4px 16px oklch(0% 0 0 / 0.1);
+}
+
+.speak-btn:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+.speak-svg {
+  width: 1.2rem;
+  height: 1.2rem;
+  display: block;
+}

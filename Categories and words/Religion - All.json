@@ -1,0 +1,486 @@
+[
+    {
+        "spanish": "la teología",
+        "english": "theology"
+    },
+    {
+        "spanish": "pagano",
+        "english": "pagan"
+    },
+    {
+        "spanish": "el salmo",
+        "english": "psalm"
+    },
+    {
+        "spanish": "moral",
+        "english": "moral"
+    },
+    {
+        "spanish": "el demonio",
+        "english": "demon"
+    },
+    {
+        "spanish": "el culto",
+        "english": "worship"
+    },
+    {
+        "spanish": "la secta",
+        "english": "sect"
+    },
+    {
+        "spanish": "la misa",
+        "english": "mass"
+    },
+    {
+        "spanish": "la confesión",
+        "english": "confession"
+    },
+    {
+        "spanish": "la doctrina",
+        "english": "doctrine"
+    },
+    {
+        "spanish": "la pila bautismal",
+        "english": "font"
+    },
+    {
+        "spanish": "la dedicación",
+        "english": "dedication"
+    },
+    {
+        "spanish": "la misión",
+        "english": "mission"
+    },
+    {
+        "spanish": "el capítulo",
+        "english": "chapter"
+    },
+    {
+        "spanish": "los fieles",
+        "english": "faithful"
+    },
+    {
+        "spanish": "el cardenal",
+        "english": "cardinal"
+    },
+    {
+        "spanish": "Jesús",
+        "english": "Jesus"
+    },
+    {
+        "spanish": "el versículo",
+        "english": "verse"
+    },
+    {
+        "spanish": "la obra",
+        "english": "deed"
+    },
+    {
+        "spanish": "la sede",
+        "english": "see"
+    },
+    {
+        "spanish": "la llamada",
+        "english": "call"
+    },
+    {
+        "spanish": "el capellán",
+        "english": "chaplain"
+    },
+    {
+        "spanish": "el hábito",
+        "english": "habit"
+    },
+    {
+        "spanish": "convertir",
+        "english": "to convert"
+    },
+    {
+        "spanish": "la bula",
+        "english": "bull"
+    },
+    {
+        "spanish": "el judaísmo",
+        "english": "Judaism"
+    },
+    {
+        "spanish": "el taoísmo",
+        "english": "Taoism"
+    },
+    {
+        "spanish": "el budismo",
+        "english": "Buddhism"
+    },
+    {
+        "spanish": "el hinduismo",
+        "english": "Hinduism"
+    },
+    {
+        "spanish": "el islam",
+        "english": "Islam"
+    },
+    {
+        "spanish": "el cristianismo",
+        "english": "Christianity"
+    },
+    {
+        "spanish": "el/la budista",
+        "english": "Buddhist"
+    },
+    {
+        "spanish": "el judío",
+        "english": "Jew"
+    },
+    {
+        "spanish": "el musulmán",
+        "english": "Muslim"
+    },
+    {
+        "spanish": "el/la hindú",
+        "english": "Hindu"
+    },
+    {
+        "spanish": "el mormón",
+        "english": "Mormon"
+    },
+    {
+        "spanish": "la hostia",
+        "english": "host"
+    },
+    {
+        "spanish": "el diablo",
+        "english": "devil"
+    },
+    {
+        "spanish": "la Semana Santa",
+        "english": "Holy Week"
+    },
+    {
+        "spanish": "el cepillo",
+        "english": "collection plate"
+    },
+    {
+        "spanish": "la adoración",
+        "english": "worship"
+    },
+    {
+        "spanish": "absolver",
+        "english": "to absolve"
+    },
+    {
+        "spanish": "la ofrenda",
+        "english": "offering"
+    },
+    {
+        "spanish": "la orden",
+        "english": "order"
+    },
+    {
+        "spanish": "el padrino",
+        "english": "godfather"
+    },
+    {
+        "spanish": "la madrina",
+        "english": "godmother"
+    },
+    {
+        "spanish": "la ahijada",
+        "english": "goddaughter"
+    },
+    {
+        "spanish": "el ahijado",
+        "english": "godson"
+    },
+    {
+        "spanish": "el servicio",
+        "english": "service"
+    },
+    {
+        "spanish": "cristiano",
+        "english": "Christian"
+    },
+    {
+        "spanish": "la creencia",
+        "english": "belief"
+    },
+    {
+        "spanish": "el laico",
+        "english": "layperson"
+    },
+    {
+        "spanish": "lego",
+        "english": "lay"
+    },
+    {
+        "spanish": "arrepentirse",
+        "english": "to repent"
+    },
+    {
+        "spanish": "ordenar",
+        "english": "to ordain"
+    },
+    {
+        "spanish": "la gracia",
+        "english": "grace"
+    },
+    {
+        "spanish": "la bendición de la mesa",
+        "english": "grace"
+    },
+    {
+        "spanish": "la bendición",
+        "english": "blessing"
+    },
+    {
+        "spanish": "el halo",
+        "english": "halo"
+    },
+    {
+        "spanish": "el clérigo",
+        "english": "clergyman"
+    },
+    {
+        "spanish": "la cruz",
+        "english": "cross"
+    },
+    {
+        "spanish": "el gentil",
+        "english": "gentile"
+    },
+    {
+        "spanish": "la anunciación",
+        "english": "Annunciation"
+    },
+    {
+        "spanish": "el voto",
+        "english": "vow"
+    },
+    {
+        "spanish": "beato",
+        "english": "blessed"
+    },
+    {
+        "spanish": "bienaventurado",
+        "english": "blessed"
+    },
+    {
+        "spanish": "el velorio",
+        "english": "wake"
+    },
+    {
+        "spanish": "la imagen",
+        "english": "image"
+    },
+    {
+        "spanish": "creer",
+        "english": "to believe"
+    },
+    {
+        "spanish": "el gospel",
+        "english": "gospel"
+    },
+    {
+        "spanish": "el padre",
+        "english": "father"
+    },
+    {
+        "spanish": "la madre",
+        "english": "mother"
+    },
+    {
+        "spanish": "el Papa",
+        "english": "Pope"
+    },
+    {
+        "spanish": "el Sión",
+        "english": "Zion"
+    },
+    {
+        "spanish": "el sagrario",
+        "english": "tabernacle"
+    },
+    {
+        "spanish": "el funeral",
+        "english": "funeral"
+    },
+    {
+        "spanish": "la limpieza",
+        "english": "purity"
+    },
+    {
+        "spanish": "la peregrinación",
+        "english": "pilgrimage"
+    },
+    {
+        "spanish": "el ayuno",
+        "english": "fasting"
+    },
+    {
+        "spanish": "la limosna",
+        "english": "alms"
+    },
+    {
+        "spanish": "la circuncisión",
+        "english": "circumcision"
+    },
+    {
+        "spanish": "el matrimonio",
+        "english": "marriage"
+    },
+    {
+        "spanish": "la unción",
+        "english": "anointing"
+    },
+    {
+        "spanish": "la confirmación",
+        "english": "confirmation"
+    },
+    {
+        "spanish": "la eucaristía",
+        "english": "Eucharist"
+    },
+    {
+        "spanish": "el bautizo",
+        "english": "baptism"
+    },
+    {
+        "spanish": "el/la profeta",
+        "english": "prophet"
+    },
+    {
+        "spanish": "el curandero",
+        "english": "healer"
+    },
+    {
+        "spanish": "el pastor",
+        "english": "minister"
+    },
+    {
+        "spanish": "el pastor",
+        "english": "pastor"
+    },
+    {
+        "spanish": "el cura",
+        "english": "priest"
+    },
+    {
+        "spanish": "el sacerdote",
+        "english": "priest"
+    },
+    {
+        "spanish": "el ídolo",
+        "english": "idol"
+    },
+    {
+        "spanish": "el imán",
+        "english": "imam"
+    },
+    {
+        "spanish": "piadoso",
+        "english": "devout"
+    },
+    {
+        "spanish": "la monja",
+        "english": "nun"
+    },
+    {
+        "spanish": "el monje",
+        "english": "monk"
+    },
+    {
+        "spanish": "el bautizo",
+        "english": "christening"
+    },
+    {
+        "spanish": "el apóstol",
+        "english": "apostle"
+    },
+    {
+        "spanish": "el ángel",
+        "english": "angel"
+    },
+    {
+        "spanish": "el rabino",
+        "english": "rabbi"
+    },
+    {
+        "spanish": "el chamán",
+        "english": "shaman"
+    },
+    {
+        "spanish": "secular",
+        "english": "secular"
+    },
+    {
+        "spanish": "Corán",
+        "english": "Koran"
+    },
+    {
+        "spanish": "Torá",
+        "english": "Torah"
+    },
+    {
+        "spanish": "la fe",
+        "english": "faith"
+    },
+    {
+        "spanish": "la Biblia",
+        "english": "Bible"
+    },
+    {
+        "spanish": "el Dios",
+        "english": "God"
+    },
+    {
+        "spanish": "la catedral",
+        "english": "cathedral"
+    },
+    {
+        "spanish": "el cielo",
+        "english": "heaven"
+    },
+    {
+        "spanish": "el infierno",
+        "english": "hell"
+    },
+    {
+        "spanish": "sagrado",
+        "english": "holy"
+    },
+    {
+        "spanish": "la iglesia",
+        "english": "church"
+    },
+    {
+        "spanish": "el templo",
+        "english": "temple"
+    },
+    {
+        "spanish": "la mezquita",
+        "english": "mosque"
+    },
+    {
+        "spanish": "la oración",
+        "english": "prayer"
+    },
+    {
+        "spanish": "la religión",
+        "english": "religion"
+    },
+    {
+        "spanish": "el pecado",
+        "english": "sin"
+    },
+    {
+        "spanish": "el santo",
+        "english": "saint"
+    },
+    {
+        "spanish": "el alma",
+        "english": "soul"
+    },
+    {
+        "spanish": "la sinagoga",
+        "english": "synagogue"
+    }
+]

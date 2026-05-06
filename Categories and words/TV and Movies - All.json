@@ -1,0 +1,458 @@
+[
+    {
+        "spanish": "la parodia",
+        "english": "parody"
+    },
+    {
+        "spanish": "la sátira",
+        "english": "satire"
+    },
+    {
+        "spanish": "vulgar",
+        "english": "crude"
+    },
+    {
+        "spanish": "el sentido del humor",
+        "english": "sense of humor"
+    },
+    {
+        "spanish": "el humor",
+        "english": "humor"
+    },
+    {
+        "spanish": "la risa",
+        "english": "laughter"
+    },
+    {
+        "spanish": "tener gracia",
+        "english": "to be funny"
+    },
+    {
+        "spanish": "la diablura",
+        "english": "prank"
+    },
+    {
+        "spanish": "reír",
+        "english": "to laugh"
+    },
+    {
+        "spanish": "el aparato de televisión",
+        "english": "TV set"
+    },
+    {
+        "spanish": "la obra maestra",
+        "english": "masterpiece"
+    },
+    {
+        "spanish": "el efecto especial",
+        "english": "special effect"
+    },
+    {
+        "spanish": "los avances",
+        "english": "trailer"
+    },
+    {
+        "spanish": "la banda sonora",
+        "english": "soundtrack"
+    },
+    {
+        "spanish": "la cinematografía",
+        "english": "cinematography"
+    },
+    {
+        "spanish": "la reseña",
+        "english": "review"
+    },
+    {
+        "spanish": "el/la extra",
+        "english": "extra"
+    },
+    {
+        "spanish": "los créditos",
+        "english": "credits"
+    },
+    {
+        "spanish": "la adaptación",
+        "english": "adaptation"
+    },
+    {
+        "spanish": "la película épica",
+        "english": "epic"
+    },
+    {
+        "spanish": "la película de dibujos animados",
+        "english": "cartoon"
+    },
+    {
+        "spanish": "animado",
+        "english": "animated"
+    },
+    {
+        "spanish": "el/la guionista",
+        "english": "screenwriter"
+    },
+    {
+        "spanish": "la pantalla",
+        "english": "screen"
+    },
+    {
+        "spanish": "la estrella de cine",
+        "english": "movie star"
+    },
+    {
+        "spanish": "el elenco",
+        "english": "cast"
+    },
+    {
+        "spanish": "el documental",
+        "english": "documentary"
+    },
+    {
+        "spanish": "película de acción",
+        "english": "action movie"
+    },
+    {
+        "spanish": "el disfraz",
+        "english": "costume"
+    },
+    {
+        "spanish": "el censor",
+        "english": "censor"
+    },
+    {
+        "spanish": "la censura",
+        "english": "censorship"
+    },
+    {
+        "spanish": "el fotograma",
+        "english": "still"
+    },
+    {
+        "spanish": "el frame",
+        "english": "frame"
+    },
+    {
+        "spanish": "la película de miedo",
+        "english": "scary movie"
+    },
+    {
+        "spanish": "el productor",
+        "english": "producer"
+    },
+    {
+        "spanish": "montar",
+        "english": "to edit"
+    },
+    {
+        "spanish": "la trama",
+        "english": "plot"
+    },
+    {
+        "spanish": "el programa piloto",
+        "english": "pilot"
+    },
+    {
+        "spanish": "medios de comunicación",
+        "english": "media"
+    },
+    {
+        "spanish": "la toma",
+        "english": "take"
+    },
+    {
+        "spanish": "la toma",
+        "english": "shot"
+    },
+    {
+        "spanish": "el papel",
+        "english": "role"
+    },
+    {
+        "spanish": "el corto",
+        "english": "short"
+    },
+    {
+        "spanish": "la imagen",
+        "english": "picture"
+    },
+    {
+        "spanish": "ver una película",
+        "english": "to watch a movie"
+    },
+    {
+        "spanish": "ver la tele",
+        "english": "to watch TV"
+    },
+    {
+        "spanish": "el/la suplente",
+        "english": "substitute"
+    },
+    {
+        "spanish": "el/la doble",
+        "english": "double"
+    },
+    {
+        "spanish": "el anuncio",
+        "english": "advertisement"
+    },
+    {
+        "spanish": "la cuña",
+        "english": "ad"
+    },
+    {
+        "spanish": "el spot",
+        "english": "commercial"
+    },
+    {
+        "spanish": "el talk show",
+        "english": "talk show"
+    },
+    {
+        "spanish": "el concurso de televisión",
+        "english": "quiz show"
+    },
+    {
+        "spanish": "el espacio",
+        "english": "slot"
+    },
+    {
+        "spanish": "el locutor",
+        "english": "newsreader"
+    },
+    {
+        "spanish": "el conductor",
+        "english": "presenter"
+    },
+    {
+        "spanish": "el episodio",
+        "english": "episode"
+    },
+    {
+        "spanish": "situarse",
+        "english": "to be set"
+    },
+    {
+        "spanish": "la serie de televisión",
+        "english": "TV show"
+    },
+    {
+        "spanish": "el subtítulo",
+        "english": "subtitle"
+    },
+    {
+        "spanish": "doblado",
+        "english": "dubbed"
+    },
+    {
+        "spanish": "doblar",
+        "english": "to dub"
+    },
+    {
+        "spanish": "el animador",
+        "english": "host"
+    },
+    {
+        "spanish": "la actuación",
+        "english": "acting"
+    },
+    {
+        "spanish": "filmar",
+        "english": "to film"
+    },
+    {
+        "spanish": "el director",
+        "english": "director"
+    },
+    {
+        "spanish": "la imagen",
+        "english": "image"
+    },
+    {
+        "spanish": "la proyección",
+        "english": "showing"
+    },
+    {
+        "spanish": "el set",
+        "english": "set"
+    },
+    {
+        "spanish": "la escena",
+        "english": "scene"
+    },
+    {
+        "spanish": "el género",
+        "english": "genre"
+    },
+    {
+        "spanish": "la reproducción",
+        "english": "view"
+    },
+    {
+        "spanish": "la estrella",
+        "english": "star"
+    },
+    {
+        "spanish": "el programa de concursos",
+        "english": "game show"
+    },
+    {
+        "spanish": "el musical",
+        "english": "musical"
+    },
+    {
+        "spanish": "la telenovela",
+        "english": "soap opera"
+    },
+    {
+        "spanish": "la película de animación",
+        "english": "animation"
+    },
+    {
+        "spanish": "el wéstern",
+        "english": "western"
+    },
+    {
+        "spanish": "el thriller",
+        "english": "thriller"
+    },
+    {
+        "spanish": "la ciencia ficción",
+        "english": "science fiction"
+    },
+    {
+        "spanish": "el romance",
+        "english": "romance"
+    },
+    {
+        "spanish": "la biografía",
+        "english": "biography"
+    },
+    {
+        "spanish": "el relato",
+        "english": "story"
+    },
+    {
+        "spanish": "la película de misterio",
+        "english": "mystery"
+    },
+    {
+        "spanish": "policiaco",
+        "english": "crime"
+    },
+    {
+        "spanish": "el humorismo",
+        "english": "comedy"
+    },
+    {
+        "spanish": "la acción",
+        "english": "action"
+    },
+    {
+        "spanish": "el drama",
+        "english": "drama"
+    },
+    {
+        "spanish": "la emisora",
+        "english": "station"
+    },
+    {
+        "spanish": "la cadena",
+        "english": "channel"
+    },
+    {
+        "spanish": "la retransmisión",
+        "english": "broadcast"
+    },
+    {
+        "spanish": "la difusión",
+        "english": "broadcasting"
+    },
+    {
+        "spanish": "el/la fan",
+        "english": "fan"
+    },
+    {
+        "spanish": "la butaca",
+        "english": "seat"
+    },
+    {
+        "spanish": "el ticket",
+        "english": "ticket"
+    },
+    {
+        "spanish": "el cartel",
+        "english": "poster"
+    },
+    {
+        "spanish": "el cortometraje",
+        "english": "short film"
+    },
+    {
+        "spanish": "Harry Potter",
+        "english": "Harry Potter"
+    },
+    {
+        "spanish": "las noticias",
+        "english": "news"
+    },
+    {
+        "spanish": "el show",
+        "english": "show"
+    },
+    {
+        "spanish": "ver",
+        "english": "to watch"
+    },
+    {
+        "spanish": "la actriz",
+        "english": "actress"
+    },
+    {
+        "spanish": "el actor",
+        "english": "actor"
+    },
+    {
+        "spanish": "el papel",
+        "english": "part"
+    },
+    {
+        "spanish": "el personaje principal",
+        "english": "main character"
+    },
+    {
+        "spanish": "el/la antagonista",
+        "english": "antagonist"
+    },
+    {
+        "spanish": "el/la protagonista",
+        "english": "protagonist"
+    },
+    {
+        "spanish": "el carácter",
+        "english": "character"
+    },
+    {
+        "spanish": "la temporada",
+        "english": "season"
+    },
+    {
+        "spanish": "la serie",
+        "english": "series"
+    },
+    {
+        "spanish": "el programa",
+        "english": "program"
+    },
+    {
+        "spanish": "el cinema",
+        "english": "movie theater"
+    },
+    {
+        "spanish": "la TV",
+        "english": "TV"
+    },
+    {
+        "spanish": "la película",
+        "english": "movie"
+    }
+]

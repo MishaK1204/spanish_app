@@ -1,0 +1,874 @@
+[
+    {
+        "spanish": "la estación",
+        "english": "season"
+    },
+    {
+        "spanish": "anoche",
+        "english": "last night"
+    },
+    {
+        "spanish": "el lunes",
+        "english": "Monday"
+    },
+    {
+        "spanish": "el domingo",
+        "english": "Sunday"
+    },
+    {
+        "spanish": "en",
+        "english": "in"
+    },
+    {
+        "spanish": "ha pasado mucho tiempo",
+        "english": "it's been a long time"
+    },
+    {
+        "spanish": "hace mucho tiempo",
+        "english": "it's been a long time"
+    },
+    {
+        "spanish": "la vigencia",
+        "english": "period of validity"
+    },
+    {
+        "spanish": "la duración",
+        "english": "duration"
+    },
+    {
+        "spanish": "la vigencia",
+        "english": "duration"
+    },
+    {
+        "spanish": "el plazo de duración",
+        "english": "duration"
+    },
+    {
+        "spanish": "la semana pasada",
+        "english": "last week"
+    },
+    {
+        "spanish": "la próxima semana",
+        "english": "next week"
+    },
+    {
+        "spanish": "la semana que viene",
+        "english": "next week"
+    },
+    {
+        "spanish": "el tiempo",
+        "english": "moment"
+    },
+    {
+        "spanish": "el momento",
+        "english": "moment"
+    },
+    {
+        "spanish": "el punto",
+        "english": "point"
+    },
+    {
+        "spanish": "algún día",
+        "english": "one day"
+    },
+    {
+        "spanish": "un día",
+        "english": "one day"
+    },
+    {
+        "spanish": "ilimitado",
+        "english": "unlimited"
+    },
+    {
+        "spanish": "indefinido",
+        "english": "indefinite"
+    },
+    {
+        "spanish": "la temporada",
+        "english": "spell"
+    },
+    {
+        "spanish": "desde el principio",
+        "english": "from the beginning"
+    },
+    {
+        "spanish": "durante el día",
+        "english": "during the day"
+    },
+    {
+        "spanish": "hace cinco minutos",
+        "english": "five minutes ago"
+    },
+    {
+        "spanish": "puntual",
+        "english": "on time"
+    },
+    {
+        "spanish": "a su hora",
+        "english": "on time"
+    },
+    {
+        "spanish": "a tiempo",
+        "english": "on time"
+    },
+    {
+        "spanish": "puntual",
+        "english": "punctual"
+    },
+    {
+        "spanish": "tiempo de ocio",
+        "english": "spare time"
+    },
+    {
+        "spanish": "ratos libres",
+        "english": "spare time"
+    },
+    {
+        "spanish": "el retraso",
+        "english": "lag"
+    },
+    {
+        "spanish": "la demora",
+        "english": "delay"
+    },
+    {
+        "spanish": "el retraso",
+        "english": "delay"
+    },
+    {
+        "spanish": "en el futuro",
+        "english": "in the future"
+    },
+    {
+        "spanish": "veces al día",
+        "english": "times a day"
+    },
+    {
+        "spanish": "la salida del sol",
+        "english": "sunrise"
+    },
+    {
+        "spanish": "el albor",
+        "english": "daybreak"
+    },
+    {
+        "spanish": "de vez en cuando",
+        "english": "now and again"
+    },
+    {
+        "spanish": "durar",
+        "english": "to last"
+    },
+    {
+        "spanish": "alguna vez",
+        "english": "once"
+    },
+    {
+        "spanish": "una vez",
+        "english": "once"
+    },
+    {
+        "spanish": "algún día",
+        "english": "someday"
+    },
+    {
+        "spanish": "alguna vez",
+        "english": "sometime"
+    },
+    {
+        "spanish": "nunca",
+        "english": "ever"
+    },
+    {
+        "spanish": "alguna vez",
+        "english": "ever"
+    },
+    {
+        "spanish": "lo antes posible",
+        "english": "as soon as possible"
+    },
+    {
+        "spanish": "cuanto antes",
+        "english": "as soon as possible"
+    },
+    {
+        "spanish": "por fin",
+        "english": "finally"
+    },
+    {
+        "spanish": "finalmente",
+        "english": "finally"
+    },
+    {
+        "spanish": "tarde",
+        "english": "late"
+    },
+    {
+        "spanish": "retrasado",
+        "english": "delayed"
+    },
+    {
+        "spanish": "retrasado",
+        "english": "behind"
+    },
+    {
+        "spanish": "atrasado",
+        "english": "behind"
+    },
+    {
+        "spanish": "tardar",
+        "english": "to take"
+    },
+    {
+        "spanish": "la etapa",
+        "english": "phase"
+    },
+    {
+        "spanish": "la fase",
+        "english": "phase"
+    },
+    {
+        "spanish": "la etapa",
+        "english": "stage"
+    },
+    {
+        "spanish": "más largo",
+        "english": "longest"
+    },
+    {
+        "spanish": "mientras",
+        "english": "while"
+    },
+    {
+        "spanish": "tan pronto como",
+        "english": "as soon as"
+    },
+    {
+        "spanish": "en cuanto",
+        "english": "as soon as"
+    },
+    {
+        "spanish": "en un futuro próximo",
+        "english": "in the near future"
+    },
+    {
+        "spanish": "corto",
+        "english": "short"
+    },
+    {
+        "spanish": "que viene",
+        "english": "next"
+    },
+    {
+        "spanish": "próximo",
+        "english": "next"
+    },
+    {
+        "spanish": "siguiente",
+        "english": "next"
+    },
+    {
+        "spanish": "el calendario",
+        "english": "timetable"
+    },
+    {
+        "spanish": "el horario",
+        "english": "timetable"
+    },
+    {
+        "spanish": "la agenda",
+        "english": "schedule"
+    },
+    {
+        "spanish": "el horario",
+        "english": "schedule"
+    },
+    {
+        "spanish": "a",
+        "english": "at"
+    },
+    {
+        "spanish": "luego",
+        "english": "then"
+    },
+    {
+        "spanish": "entonces",
+        "english": "then"
+    },
+    {
+        "spanish": "la edad",
+        "english": "age"
+    },
+    {
+        "spanish": "el fin de semana",
+        "english": "weekend"
+    },
+    {
+        "spanish": "el día de entre semana",
+        "english": "weekday"
+    },
+    {
+        "spanish": "el futuro",
+        "english": "future"
+    },
+    {
+        "spanish": "presente",
+        "english": "present"
+    },
+    {
+        "spanish": "el pasado",
+        "english": "past"
+    },
+    {
+        "spanish": "la era",
+        "english": "era"
+    },
+    {
+        "spanish": "el tiempo libre",
+        "english": "free time"
+    },
+    {
+        "spanish": "después",
+        "english": "after"
+    },
+    {
+        "spanish": "antes",
+        "english": "before"
+    },
+    {
+        "spanish": "todavía",
+        "english": "yet"
+    },
+    {
+        "spanish": "por una semana",
+        "english": "for a week"
+    },
+    {
+        "spanish": "desde",
+        "english": "since"
+    },
+    {
+        "spanish": "desde hace un año",
+        "english": "for a year"
+    },
+    {
+        "spanish": "el día entero",
+        "english": "all day"
+    },
+    {
+        "spanish": "el año pasado",
+        "english": "last year"
+    },
+    {
+        "spanish": "este año",
+        "english": "this year"
+    },
+    {
+        "spanish": "casi nunca",
+        "english": "rarely"
+    },
+    {
+        "spanish": "casi nunca",
+        "english": "hardly ever"
+    },
+    {
+        "spanish": "raramente",
+        "english": "seldom"
+    },
+    {
+        "spanish": "rara vez",
+        "english": "seldom"
+    },
+    {
+        "spanish": "en ocasiones",
+        "english": "sometimes"
+    },
+    {
+        "spanish": "algunas veces",
+        "english": "sometimes"
+    },
+    {
+        "spanish": "a veces",
+        "english": "sometimes"
+    },
+    {
+        "spanish": "muchas veces",
+        "english": "often"
+    },
+    {
+        "spanish": "a menudo",
+        "english": "often"
+    },
+    {
+        "spanish": "generalmente",
+        "english": "generally"
+    },
+    {
+        "spanish": "normalmente",
+        "english": "normally"
+    },
+    {
+        "spanish": "usualmente",
+        "english": "usually"
+    },
+    {
+        "spanish": "semanalmente",
+        "english": "weekly"
+    },
+    {
+        "spanish": "semanal",
+        "english": "weekly"
+    },
+    {
+        "spanish": "siempre",
+        "english": "always"
+    },
+    {
+        "spanish": "ya",
+        "english": "already"
+    },
+    {
+        "spanish": "frecuentemente",
+        "english": "frequently"
+    },
+    {
+        "spanish": "definitivamente",
+        "english": "permanently"
+    },
+    {
+        "spanish": "actualmente",
+        "english": "currently"
+    },
+    {
+        "spanish": "anteriormente",
+        "english": "previously"
+    },
+    {
+        "spanish": "anteayer",
+        "english": "the day before yesterday"
+    },
+    {
+        "spanish": "ayer",
+        "english": "yesterday"
+    },
+    {
+        "spanish": "ahora",
+        "english": "now"
+    },
+    {
+        "spanish": "ocasionalmente",
+        "english": "occasionally"
+    },
+    {
+        "spanish": "nunca",
+        "english": "never"
+    },
+    {
+        "spanish": "aún",
+        "english": "still"
+    },
+    {
+        "spanish": "todavía",
+        "english": "still"
+    },
+    {
+        "spanish": "diario",
+        "english": "daily"
+    },
+    {
+        "spanish": "brevemente",
+        "english": "briefly"
+    },
+    {
+        "spanish": "recientemente",
+        "english": "recently"
+    },
+    {
+        "spanish": "antenoche",
+        "english": "the night before last"
+    },
+    {
+        "spanish": "anteanoche",
+        "english": "the night before last"
+    },
+    {
+        "spanish": "atrás",
+        "english": "ago"
+    },
+    {
+        "spanish": "el día festivo",
+        "english": "holiday"
+    },
+    {
+        "spanish": "el feriado",
+        "english": "holiday"
+    },
+    {
+        "spanish": "el calendario",
+        "english": "calendar"
+    },
+    {
+        "spanish": "la cita",
+        "english": "appointment"
+    },
+    {
+        "spanish": "la fecha",
+        "english": "date"
+    },
+    {
+        "spanish": "el equinoccio",
+        "english": "equinox"
+    },
+    {
+        "spanish": "el solsticio",
+        "english": "solstice"
+    },
+    {
+        "spanish": "el crepúsculo",
+        "english": "twilight"
+    },
+    {
+        "spanish": "y cuarto",
+        "english": "fifteen"
+    },
+    {
+        "spanish": "y media",
+        "english": "thirty"
+    },
+    {
+        "spanish": "qué hora es ahora",
+        "english": "what time is it now"
+    },
+    {
+        "spanish": "y diez",
+        "english": "ten past"
+    },
+    {
+        "spanish": "menos diez",
+        "english": "ten to"
+    },
+    {
+        "spanish": "la manilla",
+        "english": "hand"
+    },
+    {
+        "spanish": "en punto",
+        "english": "on the dot"
+    },
+    {
+        "spanish": "indicar",
+        "english": "to indicate"
+    },
+    {
+        "spanish": "retrasar",
+        "english": "to put back"
+    },
+    {
+        "spanish": "adelantar",
+        "english": "to gain time"
+    },
+    {
+        "spanish": "el reloj pulsera",
+        "english": "wristwatch"
+    },
+    {
+        "spanish": "¿Qué hora es allá?",
+        "english": "What's the time there?"
+    },
+    {
+        "spanish": "¿Qué hora es en tu país?",
+        "english": "What time is it in your country?"
+    },
+    {
+        "spanish": "qué hora",
+        "english": "what time"
+    },
+    {
+        "spanish": "¿A qué hora te despiertas?",
+        "english": "What time do you wake up?"
+    },
+    {
+        "spanish": "¿A qué hora te acuestas?",
+        "english": "What time do you go to bed?"
+    },
+    {
+        "spanish": "¿A qué hora te levantas?",
+        "english": "What time do you get up?"
+    },
+    {
+        "spanish": "¿A qué hora sales del trabajo?",
+        "english": "What time do you leave work?"
+    },
+    {
+        "spanish": "cuando",
+        "english": "when"
+    },
+    {
+        "spanish": "cuánto tiempo",
+        "english": "how much time"
+    },
+    {
+        "spanish": "a qué hora vuelves a casa",
+        "english": "what time are you coming back home"
+    },
+    {
+        "spanish": "en punto",
+        "english": "sharp"
+    },
+    {
+        "spanish": "el tiempo",
+        "english": "time"
+    },
+    {
+        "spanish": "la hora",
+        "english": "hour"
+    },
+    {
+        "spanish": "el minuto",
+        "english": "minute"
+    },
+    {
+        "spanish": "el segundo",
+        "english": "second"
+    },
+    {
+        "spanish": "¿A qué hora es la clase?",
+        "english": "What time is the class?"
+    },
+    {
+        "spanish": "¿Qué hora es?",
+        "english": "What time is it?"
+    },
+    {
+        "spanish": "el reloj",
+        "english": "watch"
+    },
+    {
+        "spanish": "el reloj",
+        "english": "clock"
+    },
+    {
+        "spanish": "doce y media",
+        "english": "twelve thirty"
+    },
+    {
+        "spanish": "el mediodía",
+        "english": "noon"
+    },
+    {
+        "spanish": "el amanecer",
+        "english": "dawn"
+    },
+    {
+        "spanish": "el atardecer",
+        "english": "dusk"
+    },
+    {
+        "spanish": "la medianoche",
+        "english": "midnight"
+    },
+    {
+        "spanish": "por la mañana",
+        "english": "in the morning"
+    },
+    {
+        "spanish": "por la noche",
+        "english": "at night"
+    },
+    {
+        "spanish": "por la tarde",
+        "english": "in the afternoon"
+    },
+    {
+        "spanish": "p.m.",
+        "english": "p.m."
+    },
+    {
+        "spanish": "a.m.",
+        "english": "a.m."
+    },
+    {
+        "spanish": "una y media",
+        "english": "one thirty"
+    },
+    {
+        "spanish": "la media",
+        "english": "half past"
+    },
+    {
+        "spanish": "ocho y media",
+        "english": "eight thirty"
+    },
+    {
+        "spanish": "dos y media",
+        "english": "half past two"
+    },
+    {
+        "spanish": "tres y media",
+        "english": "three thirty"
+    },
+    {
+        "spanish": "cinco y media",
+        "english": "five thirty"
+    },
+    {
+        "spanish": "seis y media",
+        "english": "six thirty"
+    },
+    {
+        "spanish": "siete y media",
+        "english": "seven thirty"
+    },
+    {
+        "spanish": "diez y media",
+        "english": "ten thirty"
+    },
+    {
+        "spanish": "once y media",
+        "english": "eleven thirty"
+    },
+    {
+        "spanish": "nueve y cuarto",
+        "english": "nine fifteen"
+    },
+    {
+        "spanish": "ocho y cuarto",
+        "english": "eight fifteen"
+    },
+    {
+        "spanish": "siete y cuarto",
+        "english": "seven fifteen"
+    },
+    {
+        "spanish": "seis y cuarto",
+        "english": "six fifteen"
+    },
+    {
+        "spanish": "tres y cuarto",
+        "english": "three fifteen"
+    },
+    {
+        "spanish": "las dos y quince",
+        "english": "two fifteen"
+    },
+    {
+        "spanish": "y cuarto",
+        "english": "a quarter after"
+    },
+    {
+        "spanish": "menos cuarto",
+        "english": "a quarter to"
+    },
+    {
+        "spanish": "es la una",
+        "english": "it's one o'clock"
+    },
+    {
+        "spanish": "son las cinco",
+        "english": "it's five o'clock"
+    },
+    {
+        "spanish": "el enero",
+        "english": "January"
+    },
+    {
+        "spanish": "el febrero",
+        "english": "February"
+    },
+    {
+        "spanish": "el marzo",
+        "english": "March"
+    },
+    {
+        "spanish": "el abril",
+        "english": "April"
+    },
+    {
+        "spanish": "el mayo",
+        "english": "May"
+    },
+    {
+        "spanish": "el junio",
+        "english": "June"
+    },
+    {
+        "spanish": "el julio",
+        "english": "July"
+    },
+    {
+        "spanish": "el agosto",
+        "english": "August"
+    },
+    {
+        "spanish": "el septiembre",
+        "english": "September"
+    },
+    {
+        "spanish": "el octubre",
+        "english": "October"
+    },
+    {
+        "spanish": "el noviembre",
+        "english": "November"
+    },
+    {
+        "spanish": "el diciembre",
+        "english": "December"
+    },
+    {
+        "spanish": "el invierno",
+        "english": "winter"
+    },
+    {
+        "spanish": "la primavera",
+        "english": "spring"
+    },
+    {
+        "spanish": "el verano",
+        "english": "summer"
+    },
+    {
+        "spanish": "el otoño",
+        "english": "fall"
+    },
+    {
+        "spanish": "el día",
+        "english": "day"
+    },
+    {
+        "spanish": "la semana",
+        "english": "week"
+    },
+    {
+        "spanish": "el mes",
+        "english": "month"
+    },
+    {
+        "spanish": "el año",
+        "english": "year"
+    },
+    {
+        "spanish": "la temporada",
+        "english": "season"
+    },
+    {
+        "spanish": "el sábado",
+        "english": "Saturday"
+    },
+    {
+        "spanish": "el martes",
+        "english": "Tuesday"
+    },
+    {
+        "spanish": "el miércoles",
+        "english": "Wednesday"
+    },
+    {
+        "spanish": "el jueves",
+        "english": "Thursday"
+    },
+    {
+        "spanish": "el viernes",
+        "english": "Friday"
+    }
+]

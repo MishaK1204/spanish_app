@@ -1,0 +1,830 @@
+[
+    {
+        "spanish": "el terremoto",
+        "english": "earthquake"
+    },
+    {
+        "spanish": "la enredadera",
+        "english": "creeper"
+    },
+    {
+        "spanish": "la piña",
+        "english": "pine cone"
+    },
+    {
+        "spanish": "la corteza",
+        "english": "bark"
+    },
+    {
+        "spanish": "la vid",
+        "english": "vine"
+    },
+    {
+        "spanish": "el diente de león",
+        "english": "dandelion"
+    },
+    {
+        "spanish": "el tronco",
+        "english": "trunk"
+    },
+    {
+        "spanish": "el polen",
+        "english": "pollen"
+    },
+    {
+        "spanish": "el trigo",
+        "english": "wheat"
+    },
+    {
+        "spanish": "la maravilla",
+        "english": "marigold"
+    },
+    {
+        "spanish": "la petunia",
+        "english": "petunia"
+    },
+    {
+        "spanish": "la primavera",
+        "english": "primrose"
+    },
+    {
+        "spanish": "la caléndula",
+        "english": "calendula"
+    },
+    {
+        "spanish": "la azucena",
+        "english": "Madonna lily"
+    },
+    {
+        "spanish": "la lavanda",
+        "english": "lavender"
+    },
+    {
+        "spanish": "el lirio",
+        "english": "iris"
+    },
+    {
+        "spanish": "el jacinto",
+        "english": "hyacinth"
+    },
+    {
+        "spanish": "el/la azalea",
+        "english": "azalea"
+    },
+    {
+        "spanish": "la madreselva",
+        "english": "honeysuckle"
+    },
+    {
+        "spanish": "la begonia",
+        "english": "begonia"
+    },
+    {
+        "spanish": "el geranio",
+        "english": "geranium"
+    },
+    {
+        "spanish": "el narciso",
+        "english": "daffodil"
+    },
+    {
+        "spanish": "la violeta",
+        "english": "violet"
+    },
+    {
+        "spanish": "el azafrán",
+        "english": "saffron"
+    },
+    {
+        "spanish": "el crisantemo",
+        "english": "chrysanthemum"
+    },
+    {
+        "spanish": "el ajo",
+        "english": "garlic"
+    },
+    {
+        "spanish": "el cactus",
+        "english": "cactus"
+    },
+    {
+        "spanish": "el maíz",
+        "english": "corn"
+    },
+    {
+        "spanish": "la mata",
+        "english": "bush"
+    },
+    {
+        "spanish": "el musgo",
+        "english": "moss"
+    },
+    {
+        "spanish": "la mata",
+        "english": "shrub"
+    },
+    {
+        "spanish": "la hiedra",
+        "english": "ivy"
+    },
+    {
+        "spanish": "el bambú",
+        "english": "bamboo"
+    },
+    {
+        "spanish": "el carrizo",
+        "english": "reed"
+    },
+    {
+        "spanish": "la anea",
+        "english": "cattail"
+    },
+    {
+        "spanish": "el helecho",
+        "english": "fern"
+    },
+    {
+        "spanish": "la seta",
+        "english": "mushroom"
+    },
+    {
+        "spanish": "la hierba",
+        "english": "herb"
+    },
+    {
+        "spanish": "el cardo",
+        "english": "thistle"
+    },
+    {
+        "spanish": "el abono",
+        "english": "fertilizer"
+    },
+    {
+        "spanish": "el nutriente",
+        "english": "nutrient"
+    },
+    {
+        "spanish": "la polinización",
+        "english": "pollination"
+    },
+    {
+        "spanish": "la yuca",
+        "english": "yucca"
+    },
+    {
+        "spanish": "la cascarilla",
+        "english": "husk"
+    },
+    {
+        "spanish": "la vaina",
+        "english": "pod"
+    },
+    {
+        "spanish": "la savia",
+        "english": "sap"
+    },
+    {
+        "spanish": "el huerto",
+        "english": "orchard"
+    },
+    {
+        "spanish": "la espina",
+        "english": "thorn"
+    },
+    {
+        "spanish": "la champa",
+        "english": "sod"
+    },
+    {
+        "spanish": "el nopal",
+        "english": "prickly pear"
+    },
+    {
+        "spanish": "el pétalo",
+        "english": "petal"
+    },
+    {
+        "spanish": "el racimo",
+        "english": "bunch"
+    },
+    {
+        "spanish": "el crecimiento",
+        "english": "growth"
+    },
+    {
+        "spanish": "en flor",
+        "english": "out"
+    },
+    {
+        "spanish": "la cosecha",
+        "english": "crop"
+    },
+    {
+        "spanish": "podar",
+        "english": "to prune"
+    },
+    {
+        "spanish": "sembrar",
+        "english": "to sow"
+    },
+    {
+        "spanish": "el pino",
+        "english": "pine"
+    },
+    {
+        "spanish": "la palmera",
+        "english": "palm tree"
+    },
+    {
+        "spanish": "la támara",
+        "english": "date palm"
+    },
+    {
+        "spanish": "la margarita",
+        "english": "daisy"
+    },
+    {
+        "spanish": "la becerra",
+        "english": "snapdragon"
+    },
+    {
+        "spanish": "el clavel",
+        "english": "carnation"
+    },
+    {
+        "spanish": "el jazmín",
+        "english": "jasmine"
+    },
+    {
+        "spanish": "la magnolia",
+        "english": "magnolia"
+    },
+    {
+        "spanish": "la gardenia",
+        "english": "gardenia"
+    },
+    {
+        "spanish": "la trinitaria",
+        "english": "pansy"
+    },
+    {
+        "spanish": "la amapola",
+        "english": "poppy"
+    },
+    {
+        "spanish": "el nomeolvides",
+        "english": "forget-me-not"
+    },
+    {
+        "spanish": "la rama",
+        "english": "branch"
+    },
+    {
+        "spanish": "el girasol",
+        "english": "sunflower"
+    },
+    {
+        "spanish": "el tallo",
+        "english": "stem"
+    },
+    {
+        "spanish": "la planta",
+        "english": "plant"
+    },
+    {
+        "spanish": "la camelia",
+        "english": "camellia"
+    },
+    {
+        "spanish": "la orquídea",
+        "english": "orchid"
+    },
+    {
+        "spanish": "el hibisco",
+        "english": "hibiscus"
+    },
+    {
+        "spanish": "la hortensia",
+        "english": "hydrangea"
+    },
+    {
+        "spanish": "la lila",
+        "english": "lilac"
+    },
+    {
+        "spanish": "la dalia",
+        "english": "dahlia"
+    },
+    {
+        "spanish": "el tulipán",
+        "english": "tulip"
+    },
+    {
+        "spanish": "la mala hierba",
+        "english": "weed"
+    },
+    {
+        "spanish": "la raíz",
+        "english": "root"
+    },
+    {
+        "spanish": "el capullo",
+        "english": "bud"
+    },
+    {
+        "spanish": "florecer",
+        "english": "to blossom"
+    },
+    {
+        "spanish": "la semilla",
+        "english": "seed"
+    },
+    {
+        "spanish": "la bellota",
+        "english": "acorn"
+    },
+    {
+        "spanish": "oriundo",
+        "english": "native"
+    },
+    {
+        "spanish": "autóctono",
+        "english": "indigenous"
+    },
+    {
+        "spanish": "la tormenta",
+        "english": "storm"
+    },
+    {
+        "spanish": "la sequía",
+        "english": "drought"
+    },
+    {
+        "spanish": "los rápidos",
+        "english": "rapids"
+    },
+    {
+        "spanish": "la corriente",
+        "english": "current"
+    },
+    {
+        "spanish": "profundo",
+        "english": "deep"
+    },
+    {
+        "spanish": "poco profundo",
+        "english": "shallow"
+    },
+    {
+        "spanish": "la faz",
+        "english": "face"
+    },
+    {
+        "spanish": "el ébano",
+        "english": "ebony"
+    },
+    {
+        "spanish": "dulce",
+        "english": "fresh"
+    },
+    {
+        "spanish": "la bajamar",
+        "english": "low tide"
+    },
+    {
+        "spanish": "la pleamar",
+        "english": "high tide"
+    },
+    {
+        "spanish": "el tsunami",
+        "english": "tsunami"
+    },
+    {
+        "spanish": "el arce",
+        "english": "maple"
+    },
+    {
+        "spanish": "el roble",
+        "english": "oak"
+    },
+    {
+        "spanish": "el haya",
+        "english": "beech"
+    },
+    {
+        "spanish": "el cráter",
+        "english": "crater"
+    },
+    {
+        "spanish": "el embalse",
+        "english": "reservoir"
+    },
+    {
+        "spanish": "el pantano",
+        "english": "swamp"
+    },
+    {
+        "spanish": "el cenagal",
+        "english": "bog"
+    },
+    {
+        "spanish": "la fuente",
+        "english": "fountain"
+    },
+    {
+        "spanish": "el manantial",
+        "english": "spring"
+    },
+    {
+        "spanish": "el fiordo",
+        "english": "fjord"
+    },
+    {
+        "spanish": "el abra",
+        "english": "inlet"
+    },
+    {
+        "spanish": "la cala",
+        "english": "cove"
+    },
+    {
+        "spanish": "la ribera",
+        "english": "bank"
+    },
+    {
+        "spanish": "el palo",
+        "english": "stick"
+    },
+    {
+        "spanish": "el desierto",
+        "english": "desert"
+    },
+    {
+        "spanish": "el estrecho",
+        "english": "strait"
+    },
+    {
+        "spanish": "el canal",
+        "english": "channel"
+    },
+    {
+        "spanish": "la tierra",
+        "english": "dirt"
+    },
+    {
+        "spanish": "la arena",
+        "english": "sand"
+    },
+    {
+        "spanish": "el suelo",
+        "english": "soil"
+    },
+    {
+        "spanish": "el mineral",
+        "english": "mineral"
+    },
+    {
+        "spanish": "el panorama",
+        "english": "panorama"
+    },
+    {
+        "spanish": "la orilla del mar",
+        "english": "seashore"
+    },
+    {
+        "spanish": "el paso",
+        "english": "pass"
+    },
+    {
+        "spanish": "orgánico",
+        "english": "organic"
+    },
+    {
+        "spanish": "el arrecife",
+        "english": "reef"
+    },
+    {
+        "spanish": "el cayo",
+        "english": "cay"
+    },
+    {
+        "spanish": "la llanura",
+        "english": "plain"
+    },
+    {
+        "spanish": "la orilla",
+        "english": "shore"
+    },
+    {
+        "spanish": "encrespado",
+        "english": "choppy"
+    },
+    {
+        "spanish": "el arroyo",
+        "english": "stream"
+    },
+    {
+        "spanish": "la fauna",
+        "english": "fauna"
+    },
+    {
+        "spanish": "la flora",
+        "english": "flora"
+    },
+    {
+        "spanish": "agreste",
+        "english": "rough"
+    },
+    {
+        "spanish": "el aire",
+        "english": "air"
+    },
+    {
+        "spanish": "el agua",
+        "english": "water"
+    },
+    {
+        "spanish": "el cabo",
+        "english": "cape"
+    },
+    {
+        "spanish": "el puerto",
+        "english": "harbor"
+    },
+    {
+        "spanish": "el puerto",
+        "english": "port"
+    },
+    {
+        "spanish": "la sabana",
+        "english": "savanna"
+    },
+    {
+        "spanish": "la hoja",
+        "english": "leaf"
+    },
+    {
+        "spanish": "el riachuelo",
+        "english": "brook"
+    },
+    {
+        "spanish": "la evolución",
+        "english": "evolution"
+    },
+    {
+        "spanish": "la piedra",
+        "english": "stone"
+    },
+    {
+        "spanish": "la piedra",
+        "english": "rock"
+    },
+    {
+        "spanish": "la avalancha",
+        "english": "avalanche"
+    },
+    {
+        "spanish": "el alud",
+        "english": "landslide"
+    },
+    {
+        "spanish": "el desastre natural",
+        "english": "natural disaster"
+    },
+    {
+        "spanish": "la agricultura",
+        "english": "agriculture"
+    },
+    {
+        "spanish": "el heno",
+        "english": "hay"
+    },
+    {
+        "spanish": "la paja",
+        "english": "straw"
+    },
+    {
+        "spanish": "huella de carbono",
+        "english": "carbon footprint"
+    },
+    {
+        "spanish": "la estrella",
+        "english": "star"
+    },
+    {
+        "spanish": "la lava",
+        "english": "lava"
+    },
+    {
+        "spanish": "la tierra",
+        "english": "land"
+    },
+    {
+        "spanish": "el retoño",
+        "english": "sprout"
+    },
+    {
+        "spanish": "la contaminación",
+        "english": "pollution"
+    },
+    {
+        "spanish": "el arco iris",
+        "english": "rainbow"
+    },
+    {
+        "spanish": "la ola",
+        "english": "wave"
+    },
+    {
+        "spanish": "el calentamiento global",
+        "english": "global warming"
+    },
+    {
+        "spanish": "el prado",
+        "english": "meadow"
+    },
+    {
+        "spanish": "el campo",
+        "english": "field"
+    },
+    {
+        "spanish": "la hierba",
+        "english": "grass"
+    },
+    {
+        "spanish": "la luna",
+        "english": "moon"
+    },
+    {
+        "spanish": "el campo",
+        "english": "countryside"
+    },
+    {
+        "spanish": "el paisaje",
+        "english": "landscape"
+    },
+    {
+        "spanish": "el cambio climático",
+        "english": "climate change"
+    },
+    {
+        "spanish": "lacio",
+        "english": "wilted"
+    },
+    {
+        "spanish": "la rosa",
+        "english": "rose"
+    },
+    {
+        "spanish": "el loto",
+        "english": "lotus"
+    },
+    {
+        "spanish": "el pico",
+        "english": "peak"
+    },
+    {
+        "spanish": "la ventisca",
+        "english": "blizzard"
+    },
+    {
+        "spanish": "la tromba",
+        "english": "waterspout"
+    },
+    {
+        "spanish": "el huracán",
+        "english": "hurricane"
+    },
+    {
+        "spanish": "el tornado",
+        "english": "tornado"
+    },
+    {
+        "spanish": "la inundación",
+        "english": "flood"
+    },
+    {
+        "spanish": "la nieve",
+        "english": "snow"
+    },
+    {
+        "spanish": "el granizo",
+        "english": "hail"
+    },
+    {
+        "spanish": "el viento",
+        "english": "wind"
+    },
+    {
+        "spanish": "la lluvia",
+        "english": "rain"
+    },
+    {
+        "spanish": "el hielo",
+        "english": "ice"
+    },
+    {
+        "spanish": "el sol",
+        "english": "sun"
+    },
+    {
+        "spanish": "el planeta",
+        "english": "planet"
+    },
+    {
+        "spanish": "el cielo",
+        "english": "sky"
+    },
+    {
+        "spanish": "el incendio forestal",
+        "english": "forest fire"
+    },
+    {
+        "spanish": "el fuego",
+        "english": "fire"
+    },
+    {
+        "spanish": "el árbol",
+        "english": "tree"
+    },
+    {
+        "spanish": "bosque lluvioso",
+        "english": "rainforest"
+    },
+    {
+        "spanish": "la selva",
+        "english": "jungle"
+    },
+    {
+        "spanish": "el bosque",
+        "english": "woods"
+    },
+    {
+        "spanish": "el bosque",
+        "english": "forest"
+    },
+    {
+        "spanish": "la salida del sol",
+        "english": "sunrise"
+    },
+    {
+        "spanish": "el ocaso",
+        "english": "sunset"
+    },
+    {
+        "spanish": "la península",
+        "english": "peninsula"
+    },
+    {
+        "spanish": "la isla",
+        "english": "island"
+    },
+    {
+        "spanish": "el valle",
+        "english": "valley"
+    },
+    {
+        "spanish": "la montaña",
+        "english": "mountain"
+    },
+    {
+        "spanish": "el cerro",
+        "english": "hill"
+    },
+    {
+        "spanish": "el delta",
+        "english": "delta"
+    },
+    {
+        "spanish": "el/la mar",
+        "english": "sea"
+    },
+    {
+        "spanish": "el océano",
+        "english": "ocean"
+    },
+    {
+        "spanish": "el estanque",
+        "english": "pond"
+    },
+    {
+        "spanish": "el lago",
+        "english": "lake"
+    },
+    {
+        "spanish": "el río",
+        "english": "river"
+    },
+    {
+        "spanish": "la meseta",
+        "english": "plateau"
+    },
+    {
+        "spanish": "la flor",
+        "english": "flower"
+    },
+    {
+        "spanish": "la naturaleza",
+        "english": "nature"
+    }
+]

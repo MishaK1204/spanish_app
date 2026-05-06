@@ -1,0 +1,4010 @@
+[
+    {
+        "spanish": "seguro",
+        "english": "sure"
+    },
+    {
+        "spanish": "pequeño",
+        "english": "small"
+    },
+    {
+        "spanish": "gris",
+        "english": "gray"
+    },
+    {
+        "spanish": "bronceado",
+        "english": "tanned"
+    },
+    {
+        "spanish": "mancebo",
+        "english": "young"
+    },
+    {
+        "spanish": "mayor",
+        "english": "older"
+    },
+    {
+        "spanish": "moreno",
+        "english": "dark-skinned"
+    },
+    {
+        "spanish": "moreno",
+        "english": "dark-haired"
+    },
+    {
+        "spanish": "obeso",
+        "english": "obese"
+    },
+    {
+        "spanish": "pálido",
+        "english": "pale"
+    },
+    {
+        "spanish": "pelirrojo",
+        "english": "red-haired"
+    },
+    {
+        "spanish": "medio",
+        "english": "average"
+    },
+    {
+        "spanish": "rubio",
+        "english": "blond"
+    },
+    {
+        "spanish": "amable",
+        "english": "kind"
+    },
+    {
+        "spanish": "arrogante",
+        "english": "arrogant"
+    },
+    {
+        "spanish": "creído",
+        "english": "conceited"
+    },
+    {
+        "spanish": "agresivo",
+        "english": "aggressive"
+    },
+    {
+        "spanish": "bullicioso",
+        "english": "busy"
+    },
+    {
+        "spanish": "cálido",
+        "english": "warm"
+    },
+    {
+        "spanish": "cínico",
+        "english": "cynical"
+    },
+    {
+        "spanish": "comprensivo",
+        "english": "understanding"
+    },
+    {
+        "spanish": "mundano",
+        "english": "worldly"
+    },
+    {
+        "spanish": "odioso",
+        "english": "hateful"
+    },
+    {
+        "spanish": "optimista",
+        "english": "optimistic"
+    },
+    {
+        "spanish": "pesimista",
+        "english": "pessimistic"
+    },
+    {
+        "spanish": "precavido",
+        "english": "cautious"
+    },
+    {
+        "spanish": "sentimental",
+        "english": "sentimental"
+    },
+    {
+        "spanish": "tosco",
+        "english": "crude"
+    },
+    {
+        "spanish": "atrevido",
+        "english": "daring"
+    },
+    {
+        "spanish": "buena onda",
+        "english": "nice"
+    },
+    {
+        "spanish": "trabajador",
+        "english": "hardworking"
+    },
+    {
+        "spanish": "seguro",
+        "english": "safe"
+    },
+    {
+        "spanish": "inseguro",
+        "english": "insecure"
+    },
+    {
+        "spanish": "amoroso",
+        "english": "loving"
+    },
+    {
+        "spanish": "asustadizo",
+        "english": "easily frightened"
+    },
+    {
+        "spanish": "regordete",
+        "english": "chubby"
+    },
+    {
+        "spanish": "rellenito",
+        "english": "plump"
+    },
+    {
+        "spanish": "canoso",
+        "english": "gray-haired"
+    },
+    {
+        "spanish": "atlético",
+        "english": "athletic"
+    },
+    {
+        "spanish": "corpulento",
+        "english": "heavyset"
+    },
+    {
+        "spanish": "robusto",
+        "english": "robust"
+    },
+    {
+        "spanish": "a la plancha",
+        "english": "grilled"
+    },
+    {
+        "spanish": "al horno",
+        "english": "roast"
+    },
+    {
+        "spanish": "salteado",
+        "english": "sautéed"
+    },
+    {
+        "spanish": "dulce",
+        "english": "sweet"
+    },
+    {
+        "spanish": "salado",
+        "english": "salty"
+    },
+    {
+        "spanish": "ácido",
+        "english": "acid"
+    },
+    {
+        "spanish": "picante",
+        "english": "hot"
+    },
+    {
+        "spanish": "refrescante",
+        "english": "refreshing"
+    },
+    {
+        "spanish": "frío",
+        "english": "cold"
+    },
+    {
+        "spanish": "caliente",
+        "english": "hot"
+    },
+    {
+        "spanish": "tibio",
+        "english": "lukewarm"
+    },
+    {
+        "spanish": "sabroso",
+        "english": "tasty"
+    },
+    {
+        "spanish": "verde",
+        "english": "green"
+    },
+    {
+        "spanish": "molestoso",
+        "english": "annoying"
+    },
+    {
+        "spanish": "malo",
+        "english": "bad"
+    },
+    {
+        "spanish": "temible",
+        "english": "fearful"
+    },
+    {
+        "spanish": "enfermo",
+        "english": "sick"
+    },
+    {
+        "spanish": "alto",
+        "english": "tall"
+    },
+    {
+        "spanish": "bajo",
+        "english": "short"
+    },
+    {
+        "spanish": "ancho",
+        "english": "wide"
+    },
+    {
+        "spanish": "mareado",
+        "english": "dizzy"
+    },
+    {
+        "spanish": "formal",
+        "english": "formal"
+    },
+    {
+        "spanish": "de moda",
+        "english": "in fashion"
+    },
+    {
+        "spanish": "desarreglado",
+        "english": "untidy"
+    },
+    {
+        "spanish": "arrugado",
+        "english": "wrinkled"
+    },
+    {
+        "spanish": "a medida",
+        "english": "custom-made"
+    },
+    {
+        "spanish": "de rayas",
+        "english": "striped"
+    },
+    {
+        "spanish": "de cuadros",
+        "english": "checked"
+    },
+    {
+        "spanish": "floral",
+        "english": "floral"
+    },
+    {
+        "spanish": "con lunares",
+        "english": "polka-dot"
+    },
+    {
+        "spanish": "entallado",
+        "english": "fitted"
+    },
+    {
+        "spanish": "en onda",
+        "english": "hip"
+    },
+    {
+        "spanish": "fodongo",
+        "english": "slovenly"
+    },
+    {
+        "spanish": "político",
+        "english": "political"
+    },
+    {
+        "spanish": "sin fines de lucro",
+        "english": "nonprofit"
+    },
+    {
+        "spanish": "gubernamental",
+        "english": "governmental"
+    },
+    {
+        "spanish": "social",
+        "english": "social"
+    },
+    {
+        "spanish": "cultural",
+        "english": "cultural"
+    },
+    {
+        "spanish": "conservador",
+        "english": "conservative"
+    },
+    {
+        "spanish": "democrático",
+        "english": "democratic"
+    },
+    {
+        "spanish": "republicano",
+        "english": "republican"
+    },
+    {
+        "spanish": "verde",
+        "english": "green"
+    },
+    {
+        "spanish": "socialista",
+        "english": "socialist"
+    },
+    {
+        "spanish": "comunista",
+        "english": "Communist"
+    },
+    {
+        "spanish": "fascista",
+        "english": "fascist"
+    },
+    {
+        "spanish": "carnívoro",
+        "english": "carnivorous"
+    },
+    {
+        "spanish": "salvaje",
+        "english": "wild"
+    },
+    {
+        "spanish": "domesticado",
+        "english": "tame"
+    },
+    {
+        "spanish": "manso",
+        "english": "tame"
+    },
+    {
+        "spanish": "apacible",
+        "english": "gentle"
+    },
+    {
+        "spanish": "rabioso",
+        "english": "rabid"
+    },
+    {
+        "spanish": "esponjoso",
+        "english": "fluffy"
+    },
+    {
+        "spanish": "aterrador",
+        "english": "terrifying"
+    },
+    {
+        "spanish": "laboral",
+        "english": "labor"
+    },
+    {
+        "spanish": "larguirucho",
+        "english": "lanky"
+    },
+    {
+        "spanish": "lejano",
+        "english": "distant"
+    },
+    {
+        "spanish": "labrado",
+        "english": "cultivated"
+    },
+    {
+        "spanish": "lacio",
+        "english": "straight"
+    },
+    {
+        "spanish": "lacustre",
+        "english": "lacustrine"
+    },
+    {
+        "spanish": "laico",
+        "english": "lay"
+    },
+    {
+        "spanish": "lambiscón",
+        "english": "bootlicking"
+    },
+    {
+        "spanish": "leonado",
+        "english": "tawny"
+    },
+    {
+        "spanish": "libertador",
+        "english": "liberating"
+    },
+    {
+        "spanish": "legal",
+        "english": "legal"
+    },
+    {
+        "spanish": "lechoso",
+        "english": "milky"
+    },
+    {
+        "spanish": "latino",
+        "english": "Latin"
+    },
+    {
+        "spanish": "lascivo",
+        "english": "lascivious"
+    },
+    {
+        "spanish": "lampiño",
+        "english": "hairless"
+    },
+    {
+        "spanish": "lujurioso",
+        "english": "lecherous"
+    },
+    {
+        "spanish": "ligado",
+        "english": "bound"
+    },
+    {
+        "spanish": "lindo",
+        "english": "pretty"
+    },
+    {
+        "spanish": "ladrón",
+        "english": "thieving"
+    },
+    {
+        "spanish": "lolo",
+        "english": "teenage"
+    },
+    {
+        "spanish": "lloroso",
+        "english": "tearful"
+    },
+    {
+        "spanish": "locuaz",
+        "english": "talkative"
+    },
+    {
+        "spanish": "locochón",
+        "english": "crazy"
+    },
+    {
+        "spanish": "liviano",
+        "english": "light"
+    },
+    {
+        "spanish": "lírico",
+        "english": "lyric"
+    },
+    {
+        "spanish": "límpido",
+        "english": "limpid"
+    },
+    {
+        "spanish": "luchador",
+        "english": "brave"
+    },
+    {
+        "spanish": "lánguido",
+        "english": "listless"
+    },
+    {
+        "spanish": "llamativo",
+        "english": "bright"
+    },
+    {
+        "spanish": "largo",
+        "english": "long"
+    },
+    {
+        "spanish": "lúgubre",
+        "english": "dismal"
+    },
+    {
+        "spanish": "lúdico",
+        "english": "playful"
+    },
+    {
+        "spanish": "lógico",
+        "english": "logical"
+    },
+    {
+        "spanish": "lívido",
+        "english": "pale"
+    },
+    {
+        "spanish": "lícito",
+        "english": "legal"
+    },
+    {
+        "spanish": "lóbrego",
+        "english": "gloomy"
+    },
+    {
+        "spanish": "lunático",
+        "english": "lunatic"
+    },
+    {
+        "spanish": "loable",
+        "english": "laudable"
+    },
+    {
+        "spanish": "jactancioso",
+        "english": "boastful"
+    },
+    {
+        "spanish": "jocoso",
+        "english": "humorous"
+    },
+    {
+        "spanish": "jorobado",
+        "english": "hunchbacked"
+    },
+    {
+        "spanish": "joven",
+        "english": "young"
+    },
+    {
+        "spanish": "jovial",
+        "english": "jovial"
+    },
+    {
+        "spanish": "jovencito",
+        "english": "young"
+    },
+    {
+        "spanish": "jovencísimo",
+        "english": "really young"
+    },
+    {
+        "spanish": "jubiloso",
+        "english": "jubilant"
+    },
+    {
+        "spanish": "jugoso",
+        "english": "juicy"
+    },
+    {
+        "spanish": "jugado",
+        "english": "experienced"
+    },
+    {
+        "spanish": "juicioso",
+        "english": "sensible"
+    },
+    {
+        "spanish": "judicial",
+        "english": "judicial"
+    },
+    {
+        "spanish": "jurídico",
+        "english": "legal"
+    },
+    {
+        "spanish": "kaki",
+        "english": "khaki"
+    },
+    {
+        "spanish": "iberoamericano",
+        "english": "Latin American"
+    },
+    {
+        "spanish": "idiota",
+        "english": "idiotic"
+    },
+    {
+        "spanish": "idealista",
+        "english": "idealistic"
+    },
+    {
+        "spanish": "ignorante",
+        "english": "ignorant"
+    },
+    {
+        "spanish": "igual",
+        "english": "equal"
+    },
+    {
+        "spanish": "igualado",
+        "english": "level"
+    },
+    {
+        "spanish": "ilícito",
+        "english": "illicit"
+    },
+    {
+        "spanish": "ilegal",
+        "english": "illegal"
+    },
+    {
+        "spanish": "ileso",
+        "english": "unharmed"
+    },
+    {
+        "spanish": "igualito",
+        "english": "identical"
+    },
+    {
+        "spanish": "ilegible",
+        "english": "illegible"
+    },
+    {
+        "spanish": "ilimitado",
+        "english": "unlimited"
+    },
+    {
+        "spanish": "iluminado",
+        "english": "enlightened"
+    },
+    {
+        "spanish": "ilustre",
+        "english": "illustrious"
+    },
+    {
+        "spanish": "imaginario",
+        "english": "imaginary"
+    },
+    {
+        "spanish": "imperceptible",
+        "english": "imperceptible"
+    },
+    {
+        "spanish": "imperdonable",
+        "english": "unforgivable"
+    },
+    {
+        "spanish": "impermeable",
+        "english": "impermeable"
+    },
+    {
+        "spanish": "imperfecto",
+        "english": "imperfect"
+    },
+    {
+        "spanish": "implacable",
+        "english": "implacable"
+    },
+    {
+        "spanish": "impetuoso",
+        "english": "impulsive"
+    },
+    {
+        "spanish": "impoluto",
+        "english": "unpolluted"
+    },
+    {
+        "spanish": "impreciso",
+        "english": "imprecise"
+    },
+    {
+        "spanish": "imprevisto",
+        "english": "unexpected"
+    },
+    {
+        "spanish": "impropio",
+        "english": "inappropriate"
+    },
+    {
+        "spanish": "impuntual",
+        "english": "unpunctual"
+    },
+    {
+        "spanish": "imputable",
+        "english": "attributable"
+    },
+    {
+        "spanish": "impávido",
+        "english": "impassive"
+    },
+    {
+        "spanish": "impío",
+        "english": "impious"
+    },
+    {
+        "spanish": "inabarcable",
+        "english": "vast"
+    },
+    {
+        "spanish": "inacabado",
+        "english": "unfinished"
+    },
+    {
+        "spanish": "inadvertido",
+        "english": "unnoticed"
+    },
+    {
+        "spanish": "inalcanzable",
+        "english": "unattainable"
+    },
+    {
+        "spanish": "inagotable",
+        "english": "inexhaustible"
+    },
+    {
+        "spanish": "inalámbrico",
+        "english": "wireless"
+    },
+    {
+        "spanish": "inapelable",
+        "english": "unappealable"
+    },
+    {
+        "spanish": "inapropiado",
+        "english": "inappropriate"
+    },
+    {
+        "spanish": "incauto",
+        "english": "unsuspecting"
+    },
+    {
+        "spanish": "incierto",
+        "english": "uncertain"
+    },
+    {
+        "spanish": "increíble",
+        "english": "incredible"
+    },
+    {
+        "spanish": "inédito",
+        "english": "unpublished"
+    },
+    {
+        "spanish": "inconveniente",
+        "english": "inconvenient"
+    },
+    {
+        "spanish": "incontable",
+        "english": "countless"
+    },
+    {
+        "spanish": "inconfundible",
+        "english": "unmistakable"
+    },
+    {
+        "spanish": "incapaz",
+        "english": "incapable"
+    },
+    {
+        "spanish": "indebido",
+        "english": "improper"
+    },
+    {
+        "spanish": "habano",
+        "english": "tan"
+    },
+    {
+        "spanish": "habilidoso",
+        "english": "skilled"
+    },
+    {
+        "spanish": "hacendado",
+        "english": "land-owning"
+    },
+    {
+        "spanish": "hambriento",
+        "english": "hungry"
+    },
+    {
+        "spanish": "haragán",
+        "english": "lazy"
+    },
+    {
+        "spanish": "harto",
+        "english": "full"
+    },
+    {
+        "spanish": "hecho",
+        "english": "made"
+    },
+    {
+        "spanish": "helado",
+        "english": "freezing"
+    },
+    {
+        "spanish": "heroico",
+        "english": "heroic"
+    },
+    {
+        "spanish": "hidalgo",
+        "english": "generous"
+    },
+    {
+        "spanish": "hinchado",
+        "english": "swollen"
+    },
+    {
+        "spanish": "honorable",
+        "english": "honorable"
+    },
+    {
+        "spanish": "hondo",
+        "english": "deep"
+    },
+    {
+        "spanish": "hirsuto",
+        "english": "wiry"
+    },
+    {
+        "spanish": "hábil",
+        "english": "skillful"
+    },
+    {
+        "spanish": "huraño",
+        "english": "shy"
+    },
+    {
+        "spanish": "huido",
+        "english": "fugitive"
+    },
+    {
+        "spanish": "huesudo",
+        "english": "bony"
+    },
+    {
+        "spanish": "hipotético",
+        "english": "hypothetical"
+    },
+    {
+        "spanish": "hosco",
+        "english": "sullen"
+    },
+    {
+        "spanish": "hostil",
+        "english": "hostile"
+    },
+    {
+        "spanish": "huérfano",
+        "english": "orphaned"
+    },
+    {
+        "spanish": "horroroso",
+        "english": "dreadful"
+    },
+    {
+        "spanish": "honesto",
+        "english": "honest"
+    },
+    {
+        "spanish": "homónimo",
+        "english": "homonymous"
+    },
+    {
+        "spanish": "homólogo",
+        "english": "equivalent"
+    },
+    {
+        "spanish": "homologado",
+        "english": "approved"
+    },
+    {
+        "spanish": "heterogéneo",
+        "english": "heterogeneous"
+    },
+    {
+        "spanish": "hondureño",
+        "english": "Honduran"
+    },
+    {
+        "spanish": "hidratante",
+        "english": "moisturizing"
+    },
+    {
+        "spanish": "hirviente",
+        "english": "boiling"
+    },
+    {
+        "spanish": "hipócrita",
+        "english": "hypocritical"
+    },
+    {
+        "spanish": "hiriente",
+        "english": "hurtful"
+    },
+    {
+        "spanish": "hispanohablante",
+        "english": "Spanish-speaking"
+    },
+    {
+        "spanish": "hispanoparlante",
+        "english": "Spanish-speaking"
+    },
+    {
+        "spanish": "habitado",
+        "english": "inhabited"
+    },
+    {
+        "spanish": "hechizo",
+        "english": "fake"
+    },
+    {
+        "spanish": "macabro",
+        "english": "macabre"
+    },
+    {
+        "spanish": "macaco",
+        "english": "ugly"
+    },
+    {
+        "spanish": "machista",
+        "english": "sexist"
+    },
+    {
+        "spanish": "macho",
+        "english": "tough"
+    },
+    {
+        "spanish": "macizo",
+        "english": "solid"
+    },
+    {
+        "spanish": "magno",
+        "english": "great"
+    },
+    {
+        "spanish": "magnánimo",
+        "english": "magnanimous"
+    },
+    {
+        "spanish": "magnífico",
+        "english": "wonderful"
+    },
+    {
+        "spanish": "magro",
+        "english": "lean"
+    },
+    {
+        "spanish": "majo",
+        "english": "nice"
+    },
+    {
+        "spanish": "majestuoso",
+        "english": "majestic"
+    },
+    {
+        "spanish": "maldito",
+        "english": "wretched"
+    },
+    {
+        "spanish": "malito",
+        "english": "sick"
+    },
+    {
+        "spanish": "malísimo",
+        "english": "awful"
+    },
+    {
+        "spanish": "maravilloso",
+        "english": "marvelous"
+    },
+    {
+        "spanish": "marchito",
+        "english": "withered"
+    },
+    {
+        "spanish": "manco",
+        "english": "one-armed"
+    },
+    {
+        "spanish": "maníaco",
+        "english": "manic"
+    },
+    {
+        "spanish": "manso",
+        "english": "meek"
+    },
+    {
+        "spanish": "marrano",
+        "english": "disgusting"
+    },
+    {
+        "spanish": "masivo",
+        "english": "massive"
+    },
+    {
+        "spanish": "matutino",
+        "english": "morning"
+    },
+    {
+        "spanish": "mañoso",
+        "english": "crafty"
+    },
+    {
+        "spanish": "mendigo",
+        "english": "mean"
+    },
+    {
+        "spanish": "mezquino",
+        "english": "stingy"
+    },
+    {
+        "spanish": "mordaz",
+        "english": "scathing"
+    },
+    {
+        "spanish": "moderno",
+        "english": "modern"
+    },
+    {
+        "spanish": "mono",
+        "english": "cute"
+    },
+    {
+        "spanish": "montado",
+        "english": "mounted"
+    },
+    {
+        "spanish": "mortal",
+        "english": "fatal"
+    },
+    {
+        "spanish": "mosca",
+        "english": "suspicious"
+    },
+    {
+        "spanish": "movido",
+        "english": "blurred"
+    },
+    {
+        "spanish": "la mula",
+        "english": "inconsiderate"
+    },
+    {
+        "spanish": "morado",
+        "english": "purple"
+    },
+    {
+        "spanish": "móvil",
+        "english": "mobile"
+    },
+    {
+        "spanish": "multinacional",
+        "english": "multinational"
+    },
+    {
+        "spanish": "mundial",
+        "english": "worldwide"
+    },
+    {
+        "spanish": "musculoso",
+        "english": "muscular"
+    },
+    {
+        "spanish": "mutuo",
+        "english": "mutual"
+    },
+    {
+        "spanish": "mórbido",
+        "english": "morbid"
+    },
+    {
+        "spanish": "mítico",
+        "english": "mythical"
+    },
+    {
+        "spanish": "musical",
+        "english": "musical"
+    },
+    {
+        "spanish": "máximo",
+        "english": "maximum"
+    },
+    {
+        "spanish": "mínimo",
+        "english": "minimum"
+    },
+    {
+        "spanish": "gacho",
+        "english": "drooping"
+    },
+    {
+        "spanish": "gafe",
+        "english": "jinxed"
+    },
+    {
+        "spanish": "gago",
+        "english": "stammering"
+    },
+    {
+        "spanish": "galano",
+        "english": "smart"
+    },
+    {
+        "spanish": "galante",
+        "english": "gallant"
+    },
+    {
+        "spanish": "gallardo",
+        "english": "gallant"
+    },
+    {
+        "spanish": "gallego",
+        "english": "Galician"
+    },
+    {
+        "spanish": "galo",
+        "english": "French"
+    },
+    {
+        "spanish": "gamberro",
+        "english": "rowdy"
+    },
+    {
+        "spanish": "ganador",
+        "english": "winning"
+    },
+    {
+        "spanish": "gandalla",
+        "english": "jerky"
+    },
+    {
+        "spanish": "gangoso",
+        "english": "nasal"
+    },
+    {
+        "spanish": "ganso",
+        "english": "lazy"
+    },
+    {
+        "spanish": "garboso",
+        "english": "graceful"
+    },
+    {
+        "spanish": "garrafal",
+        "english": "enormous"
+    },
+    {
+        "spanish": "gaseoso",
+        "english": "gaseous"
+    },
+    {
+        "spanish": "gatuno",
+        "english": "catlike"
+    },
+    {
+        "spanish": "goloso",
+        "english": "sweet-toothed"
+    },
+    {
+        "spanish": "goleador",
+        "english": "high-scoring"
+    },
+    {
+        "spanish": "gritón",
+        "english": "loudmouthed"
+    },
+    {
+        "spanish": "greñudo",
+        "english": "tangled"
+    },
+    {
+        "spanish": "gregario",
+        "english": "gregarious"
+    },
+    {
+        "spanish": "gratuito",
+        "english": "free"
+    },
+    {
+        "spanish": "grasoso",
+        "english": "greasy"
+    },
+    {
+        "spanish": "grande",
+        "english": "big"
+    },
+    {
+        "spanish": "grandioso",
+        "english": "magnificent"
+    },
+    {
+        "spanish": "grandote",
+        "english": "huge"
+    },
+    {
+        "spanish": "gigante",
+        "english": "giant"
+    },
+    {
+        "spanish": "gigantesco",
+        "english": "gigantic"
+    },
+    {
+        "spanish": "gordo",
+        "english": "fat"
+    },
+    {
+        "spanish": "gozoso",
+        "english": "joyful"
+    },
+    {
+        "spanish": "güero",
+        "english": "fair-haired"
+    },
+    {
+        "spanish": "gélido",
+        "english": "icy"
+    },
+    {
+        "spanish": "gustoso",
+        "english": "tasty"
+    },
+    {
+        "spanish": "guapo",
+        "english": "handsome"
+    },
+    {
+        "spanish": "guasón",
+        "english": "mocking"
+    },
+    {
+        "spanish": "guapetón",
+        "english": "good-looking"
+    },
+    {
+        "spanish": "guapísimo",
+        "english": "very handsome"
+    },
+    {
+        "spanish": "guarro",
+        "english": "dirty"
+    },
+    {
+        "spanish": "fachoso",
+        "english": "scruffy"
+    },
+    {
+        "spanish": "feo",
+        "english": "ugly"
+    },
+    {
+        "spanish": "factible",
+        "english": "feasible"
+    },
+    {
+        "spanish": "facundo",
+        "english": "eloquent"
+    },
+    {
+        "spanish": "falaz",
+        "english": "false"
+    },
+    {
+        "spanish": "falso",
+        "english": "false"
+    },
+    {
+        "spanish": "faltante",
+        "english": "missing"
+    },
+    {
+        "spanish": "famoso",
+        "english": "famous"
+    },
+    {
+        "spanish": "fantasioso",
+        "english": "imaginative"
+    },
+    {
+        "spanish": "fantasmagórico",
+        "english": "phantasmagoric"
+    },
+    {
+        "spanish": "fanático",
+        "english": "fanatical"
+    },
+    {
+        "spanish": "fantástico",
+        "english": "fantastic"
+    },
+    {
+        "spanish": "fascinante",
+        "english": "fascinating"
+    },
+    {
+        "spanish": "fatalista",
+        "english": "fatalistic"
+    },
+    {
+        "spanish": "fatigado",
+        "english": "tired"
+    },
+    {
+        "spanish": "favorable",
+        "english": "favorable"
+    },
+    {
+        "spanish": "fausto",
+        "english": "happy"
+    },
+    {
+        "spanish": "febril",
+        "english": "feverish"
+    },
+    {
+        "spanish": "fecundo",
+        "english": "prolific"
+    },
+    {
+        "spanish": "feliz",
+        "english": "happy"
+    },
+    {
+        "spanish": "felino",
+        "english": "feline"
+    },
+    {
+        "spanish": "flaco",
+        "english": "thin"
+    },
+    {
+        "spanish": "flipado",
+        "english": "flabbergasted"
+    },
+    {
+        "spanish": "flacucho",
+        "english": "skinny"
+    },
+    {
+        "spanish": "festivo",
+        "english": "festive"
+    },
+    {
+        "spanish": "filoso",
+        "english": "sharp"
+    },
+    {
+        "spanish": "fidedigno",
+        "english": "reliable"
+    },
+    {
+        "spanish": "fiado",
+        "english": "trusting"
+    },
+    {
+        "spanish": "fornido",
+        "english": "well-built"
+    },
+    {
+        "spanish": "fortuito",
+        "english": "fortuitous"
+    },
+    {
+        "spanish": "flagrante",
+        "english": "flagrant"
+    },
+    {
+        "spanish": "fregado",
+        "english": "annoying"
+    },
+    {
+        "spanish": "fútil",
+        "english": "futile"
+    },
+    {
+        "spanish": "fúnebre",
+        "english": "gloomy"
+    },
+    {
+        "spanish": "frugal",
+        "english": "frugal"
+    },
+    {
+        "spanish": "friolento",
+        "english": "sensitive to the cold"
+    },
+    {
+        "spanish": "furibundo",
+        "english": "furious"
+    },
+    {
+        "spanish": "fugaz",
+        "english": "fleeting"
+    },
+    {
+        "spanish": "fuerte",
+        "english": "strong"
+    },
+    {
+        "spanish": "ebrio",
+        "english": "drunk"
+    },
+    {
+        "spanish": "ecuestre",
+        "english": "equestrian"
+    },
+    {
+        "spanish": "económico",
+        "english": "economic"
+    },
+    {
+        "spanish": "educado",
+        "english": "polite"
+    },
+    {
+        "spanish": "eficaz",
+        "english": "effective"
+    },
+    {
+        "spanish": "efímero",
+        "english": "ephemeral"
+    },
+    {
+        "spanish": "egoísta",
+        "english": "selfish"
+    },
+    {
+        "spanish": "elegible",
+        "english": "eligible"
+    },
+    {
+        "spanish": "enamorado",
+        "english": "in love"
+    },
+    {
+        "spanish": "escuálido",
+        "english": "emaciated"
+    },
+    {
+        "spanish": "empedrado",
+        "english": "paved"
+    },
+    {
+        "spanish": "emparentado",
+        "english": "related by marriage"
+    },
+    {
+        "spanish": "encinta",
+        "english": "pregnant"
+    },
+    {
+        "spanish": "endeble",
+        "english": "weak"
+    },
+    {
+        "spanish": "encorvado",
+        "english": "hunched"
+    },
+    {
+        "spanish": "encrespado",
+        "english": "curly"
+    },
+    {
+        "spanish": "enchufado",
+        "english": "well-connected"
+    },
+    {
+        "spanish": "encomiable",
+        "english": "praiseworthy"
+    },
+    {
+        "spanish": "engañoso",
+        "english": "deceitful"
+    },
+    {
+        "spanish": "endémico",
+        "english": "endemic"
+    },
+    {
+        "spanish": "enjuto",
+        "english": "lean"
+    },
+    {
+        "spanish": "enojado",
+        "english": "angry"
+    },
+    {
+        "spanish": "enojoso",
+        "english": "annoying"
+    },
+    {
+        "spanish": "enrollado",
+        "english": "rolled up"
+    },
+    {
+        "spanish": "entreabierto",
+        "english": "half-open"
+    },
+    {
+        "spanish": "escarlata",
+        "english": "scarlet"
+    },
+    {
+        "spanish": "escaso",
+        "english": "scarce"
+    },
+    {
+        "spanish": "escarpado",
+        "english": "steep"
+    },
+    {
+        "spanish": "erudito",
+        "english": "erudite"
+    },
+    {
+        "spanish": "erizado",
+        "english": "spiky"
+    },
+    {
+        "spanish": "escalofriante",
+        "english": "chilling"
+    },
+    {
+        "spanish": "estable",
+        "english": "stable"
+    },
+    {
+        "spanish": "estridente",
+        "english": "strident"
+    },
+    {
+        "spanish": "espumoso",
+        "english": "foaming"
+    },
+    {
+        "spanish": "eterno",
+        "english": "eternal"
+    },
+    {
+        "spanish": "estupefacto",
+        "english": "astonished"
+    },
+    {
+        "spanish": "estupendo",
+        "english": "great"
+    },
+    {
+        "spanish": "exacto",
+        "english": "exact"
+    },
+    {
+        "spanish": "exento",
+        "english": "exempt"
+    },
+    {
+        "spanish": "excesivo",
+        "english": "excessive"
+    },
+    {
+        "spanish": "eólico",
+        "english": "eolian"
+    },
+    {
+        "spanish": "dado",
+        "english": "given"
+    },
+    {
+        "spanish": "daltónico",
+        "english": "color-blind"
+    },
+    {
+        "spanish": "dañoso",
+        "english": "harmful"
+    },
+    {
+        "spanish": "dañino",
+        "english": "harmful"
+    },
+    {
+        "spanish": "defectuoso",
+        "english": "defective"
+    },
+    {
+        "spanish": "definitivo",
+        "english": "final"
+    },
+    {
+        "spanish": "deforme",
+        "english": "deformed"
+    },
+    {
+        "spanish": "dejado",
+        "english": "careless"
+    },
+    {
+        "spanish": "delator",
+        "english": "incriminating"
+    },
+    {
+        "spanish": "delgado",
+        "english": "thin"
+    },
+    {
+        "spanish": "demente",
+        "english": "crazy"
+    },
+    {
+        "spanish": "derivado",
+        "english": "derived"
+    },
+    {
+        "spanish": "depurado",
+        "english": "refined"
+    },
+    {
+        "spanish": "deportivo",
+        "english": "sports"
+    },
+    {
+        "spanish": "deplorable",
+        "english": "deplorable"
+    },
+    {
+        "spanish": "depravado",
+        "english": "depraved"
+    },
+    {
+        "spanish": "derretido",
+        "english": "melted"
+    },
+    {
+        "spanish": "descalzo",
+        "english": "barefoot"
+    },
+    {
+        "spanish": "descolorido",
+        "english": "faded"
+    },
+    {
+        "spanish": "desanimado",
+        "english": "discouraged"
+    },
+    {
+        "spanish": "desatado",
+        "english": "loose"
+    },
+    {
+        "spanish": "desarrollado",
+        "english": "developed"
+    },
+    {
+        "spanish": "desagradable",
+        "english": "unpleasant"
+    },
+    {
+        "spanish": "desquiciado",
+        "english": "deranged"
+    },
+    {
+        "spanish": "disparatado",
+        "english": "crazy"
+    },
+    {
+        "spanish": "desprotegido",
+        "english": "unprotected"
+    },
+    {
+        "spanish": "despectivo",
+        "english": "contemptuous"
+    },
+    {
+        "spanish": "desvalido",
+        "english": "helpless"
+    },
+    {
+        "spanish": "desplazado",
+        "english": "out of place"
+    },
+    {
+        "spanish": "detenido",
+        "english": "arrested"
+    },
+    {
+        "spanish": "determinado",
+        "english": "determined"
+    },
+    {
+        "spanish": "didáctico",
+        "english": "didactic"
+    },
+    {
+        "spanish": "diverso",
+        "english": "diverse"
+    },
+    {
+        "spanish": "diminuto",
+        "english": "tiny"
+    },
+    {
+        "spanish": "dolorido",
+        "english": "sore"
+    },
+    {
+        "spanish": "doloroso",
+        "english": "painful"
+    },
+    {
+        "spanish": "dudoso",
+        "english": "dubious"
+    },
+    {
+        "spanish": "duradero",
+        "english": "lasting"
+    },
+    {
+        "spanish": "dócil",
+        "english": "docile"
+    },
+    {
+        "spanish": "díscolo",
+        "english": "unruly"
+    },
+    {
+        "spanish": "duro",
+        "english": "tough"
+    },
+    {
+        "spanish": "digno",
+        "english": "worthy"
+    },
+    {
+        "spanish": "difuso",
+        "english": "diffuse"
+    },
+    {
+        "spanish": "diáfano",
+        "english": "clear"
+    },
+    {
+        "spanish": "difícil",
+        "english": "difficult"
+    },
+    {
+        "spanish": "docto",
+        "english": "learned"
+    },
+    {
+        "spanish": "difunto",
+        "english": "deceased"
+    },
+    {
+        "spanish": "caballeroso",
+        "english": "gentlemanly"
+    },
+    {
+        "spanish": "cabelludo",
+        "english": "hairy"
+    },
+    {
+        "spanish": "cabezón",
+        "english": "pigheaded"
+    },
+    {
+        "spanish": "cabizbajo",
+        "english": "downcast"
+    },
+    {
+        "spanish": "cabreado",
+        "english": "furious"
+    },
+    {
+        "spanish": "cabrero",
+        "english": "bad-tempered"
+    },
+    {
+        "spanish": "cacarizo",
+        "english": "pitted"
+    },
+    {
+        "spanish": "cafre",
+        "english": "brutish"
+    },
+    {
+        "spanish": "calato",
+        "english": "naked"
+    },
+    {
+        "spanish": "cambiante",
+        "english": "changeable"
+    },
+    {
+        "spanish": "campero",
+        "english": "country"
+    },
+    {
+        "spanish": "canalla",
+        "english": "rotten"
+    },
+    {
+        "spanish": "canijo",
+        "english": "tiny"
+    },
+    {
+        "spanish": "cantante",
+        "english": "singing"
+    },
+    {
+        "spanish": "captor",
+        "english": "capturing"
+    },
+    {
+        "spanish": "cariñoso",
+        "english": "affectionate"
+    },
+    {
+        "spanish": "carmesí",
+        "english": "crimson"
+    },
+    {
+        "spanish": "casposo",
+        "english": "covered in dandruff"
+    },
+    {
+        "spanish": "castellano",
+        "english": "Castilian"
+    },
+    {
+        "spanish": "castañuelo",
+        "english": "chestnut-colored"
+    },
+    {
+        "spanish": "catete",
+        "english": "annoying"
+    },
+    {
+        "spanish": "catrín",
+        "english": "well-dressed"
+    },
+    {
+        "spanish": "cauteloso",
+        "english": "cautious"
+    },
+    {
+        "spanish": "caótico",
+        "english": "chaotic"
+    },
+    {
+        "spanish": "celeste",
+        "english": "sky-blue"
+    },
+    {
+        "spanish": "certero",
+        "english": "well-aimed"
+    },
+    {
+        "spanish": "chafa",
+        "english": "crappy"
+    },
+    {
+        "spanish": "chueco",
+        "english": "crooked"
+    },
+    {
+        "spanish": "chimuelo",
+        "english": "toothless"
+    },
+    {
+        "spanish": "chiquito",
+        "english": "tiny"
+    },
+    {
+        "spanish": "chilango",
+        "english": "from Mexico City"
+    },
+    {
+        "spanish": "chucho",
+        "english": "mean"
+    },
+    {
+        "spanish": "choto",
+        "english": "senile"
+    },
+    {
+        "spanish": "clandestino",
+        "english": "clandestine"
+    },
+    {
+        "spanish": "complejo",
+        "english": "complex"
+    },
+    {
+        "spanish": "cochino",
+        "english": "filthy"
+    },
+    {
+        "spanish": "crocante",
+        "english": "crunchy"
+    },
+    {
+        "spanish": "bacano",
+        "english": "awesome"
+    },
+    {
+        "spanish": "bailador",
+        "english": "dancing"
+    },
+    {
+        "spanish": "barbudo",
+        "english": "bearded"
+    },
+    {
+        "spanish": "beato",
+        "english": "blessed"
+    },
+    {
+        "spanish": "benigno",
+        "english": "benign"
+    },
+    {
+        "spanish": "bienhechor",
+        "english": "beneficial"
+    },
+    {
+        "spanish": "bilingüe",
+        "english": "bilingual"
+    },
+    {
+        "spanish": "bordado",
+        "english": "embroidered"
+    },
+    {
+        "spanish": "bohemio",
+        "english": "bohemian"
+    },
+    {
+        "spanish": "boricua",
+        "english": "Puerto Rican"
+    },
+    {
+        "spanish": "bobo",
+        "english": "silly"
+    },
+    {
+        "spanish": "breve",
+        "english": "brief"
+    },
+    {
+        "spanish": "brillante",
+        "english": "bright"
+    },
+    {
+        "spanish": "brumoso",
+        "english": "misty"
+    },
+    {
+        "spanish": "brioso",
+        "english": "spirited"
+    },
+    {
+        "spanish": "bruto",
+        "english": "stupid"
+    },
+    {
+        "spanish": "bronco",
+        "english": "harsh"
+    },
+    {
+        "spanish": "burlón",
+        "english": "mocking"
+    },
+    {
+        "spanish": "burdo",
+        "english": "crude"
+    },
+    {
+        "spanish": "brujo",
+        "english": "bewitching"
+    },
+    {
+        "spanish": "brusco",
+        "english": "brusque"
+    },
+    {
+        "spanish": "bélico",
+        "english": "warlike"
+    },
+    {
+        "spanish": "bárbaro",
+        "english": "cruel"
+    },
+    {
+        "spanish": "buzo",
+        "english": "alert"
+    },
+    {
+        "spanish": "borracho",
+        "english": "drunk"
+    },
+    {
+        "spanish": "aburrido",
+        "english": "boring"
+    },
+    {
+        "spanish": "abandonado",
+        "english": "deserted"
+    },
+    {
+        "spanish": "abarrotado",
+        "english": "packed"
+    },
+    {
+        "spanish": "abatible",
+        "english": "folding"
+    },
+    {
+        "spanish": "abismal",
+        "english": "vast"
+    },
+    {
+        "spanish": "abnegado",
+        "english": "self-sacrificing"
+    },
+    {
+        "spanish": "abochornado",
+        "english": "embarrassed"
+    },
+    {
+        "spanish": "abombado",
+        "english": "stunned"
+    },
+    {
+        "spanish": "abonado",
+        "english": "fertilized"
+    },
+    {
+        "spanish": "aborrecido",
+        "english": "loathed"
+    },
+    {
+        "spanish": "abovedado",
+        "english": "vaulted"
+    },
+    {
+        "spanish": "abrigado",
+        "english": "sheltered"
+    },
+    {
+        "spanish": "abrupto",
+        "english": "steep"
+    },
+    {
+        "spanish": "ausente",
+        "english": "absent"
+    },
+    {
+        "spanish": "amargo",
+        "english": "bitter"
+    },
+    {
+        "spanish": "alegre",
+        "english": "happy"
+    },
+    {
+        "spanish": "amigable",
+        "english": "friendly"
+    },
+    {
+        "spanish": "abrasador",
+        "english": "burning"
+    },
+    {
+        "spanish": "abatido",
+        "english": "dejected"
+    },
+    {
+        "spanish": "anticuado",
+        "english": "old-fashioned"
+    },
+    {
+        "spanish": "añejo",
+        "english": "mature"
+    },
+    {
+        "spanish": "atolondrado",
+        "english": "scatterbrained"
+    },
+    {
+        "spanish": "angosto",
+        "english": "narrow"
+    },
+    {
+        "spanish": "agradable",
+        "english": "nice"
+    },
+    {
+        "spanish": "acaudalado",
+        "english": "wealthy"
+    },
+    {
+        "spanish": "abultado",
+        "english": "bulky"
+    },
+    {
+        "spanish": "acuoso",
+        "english": "watery"
+    },
+    {
+        "spanish": "acomedido",
+        "english": "obliging"
+    },
+    {
+        "spanish": "acreedor",
+        "english": "worthy of"
+    },
+    {
+        "spanish": "aconsejable",
+        "english": "advisable"
+    },
+    {
+        "spanish": "acorazado",
+        "english": "armoured"
+    },
+    {
+        "spanish": "remoto",
+        "english": "remote"
+    },
+    {
+        "spanish": "vanidoso",
+        "english": "vain"
+    },
+    {
+        "spanish": "tarumba",
+        "english": "goofy"
+    },
+    {
+        "spanish": "encerrado",
+        "english": "shut in"
+    },
+    {
+        "spanish": "pagado",
+        "english": "paid"
+    },
+    {
+        "spanish": "antipático",
+        "english": "unfriendly"
+    },
+    {
+        "spanish": "extraordinario",
+        "english": "extraordinary"
+    },
+    {
+        "spanish": "balanceado",
+        "english": "balanced"
+    },
+    {
+        "spanish": "definido",
+        "english": "definite"
+    },
+    {
+        "spanish": "extrovertido",
+        "english": "outgoing"
+    },
+    {
+        "spanish": "peludo",
+        "english": "furry"
+    },
+    {
+        "spanish": "impresionado",
+        "english": "shocked"
+    },
+    {
+        "spanish": "leal",
+        "english": "loyal"
+    },
+    {
+        "spanish": "puesto",
+        "english": "well-dressed"
+    },
+    {
+        "spanish": "polvoriento",
+        "english": "dusty"
+    },
+    {
+        "spanish": "bullicioso",
+        "english": "noisy"
+    },
+    {
+        "spanish": "regular",
+        "english": "regular"
+    },
+    {
+        "spanish": "contemporáneo",
+        "english": "contemporary"
+    },
+    {
+        "spanish": "arduo",
+        "english": "arduous"
+    },
+    {
+        "spanish": "mal",
+        "english": "bad"
+    },
+    {
+        "spanish": "casado",
+        "english": "married"
+    },
+    {
+        "spanish": "corriente",
+        "english": "common"
+    },
+    {
+        "spanish": "lactante",
+        "english": "nursing"
+    },
+    {
+        "spanish": "fácil",
+        "english": "easy"
+    },
+    {
+        "spanish": "encantador",
+        "english": "charming"
+    },
+    {
+        "spanish": "hueco",
+        "english": "hollow"
+    },
+    {
+        "spanish": "cansado",
+        "english": "tired"
+    },
+    {
+        "spanish": "abstracto",
+        "english": "abstract"
+    },
+    {
+        "spanish": "estático",
+        "english": "static"
+    },
+    {
+        "spanish": "espontáneo",
+        "english": "spontaneous"
+    },
+    {
+        "spanish": "sobrenatural",
+        "english": "supernatural"
+    },
+    {
+        "spanish": "hispano",
+        "english": "Hispanic"
+    },
+    {
+        "spanish": "encargado",
+        "english": "responsible"
+    },
+    {
+        "spanish": "punzante",
+        "english": "sharp"
+    },
+    {
+        "spanish": "amistoso",
+        "english": "friendly"
+    },
+    {
+        "spanish": "adoptado",
+        "english": "adopted"
+    },
+    {
+        "spanish": "escrito",
+        "english": "written"
+    },
+    {
+        "spanish": "pirata",
+        "english": "pirated"
+    },
+    {
+        "spanish": "sensato",
+        "english": "sensible"
+    },
+    {
+        "spanish": "abyecto",
+        "english": "abject"
+    },
+    {
+        "spanish": "subrayado",
+        "english": "underlined"
+    },
+    {
+        "spanish": "agobiado",
+        "english": "overwhelmed"
+    },
+    {
+        "spanish": "electricista",
+        "english": "electrical"
+    },
+    {
+        "spanish": "júnior",
+        "english": "junior"
+    },
+    {
+        "spanish": "brutal",
+        "english": "brutal"
+    },
+    {
+        "spanish": "insensato",
+        "english": "foolish"
+    },
+    {
+        "spanish": "actual",
+        "english": "current"
+    },
+    {
+        "spanish": "solitario",
+        "english": "lonely"
+    },
+    {
+        "spanish": "borroso",
+        "english": "blurred"
+    },
+    {
+        "spanish": "vacío",
+        "english": "shallow"
+    },
+    {
+        "spanish": "infatigable",
+        "english": "tireless"
+    },
+    {
+        "spanish": "impersonal",
+        "english": "impersonal"
+    },
+    {
+        "spanish": "anfibio",
+        "english": "amphibious"
+    },
+    {
+        "spanish": "marítimo",
+        "english": "sea"
+    },
+    {
+        "spanish": "fiel",
+        "english": "faithful"
+    },
+    {
+        "spanish": "siguiente",
+        "english": "following"
+    },
+    {
+        "spanish": "astuto",
+        "english": "shrewd"
+    },
+    {
+        "spanish": "antiguo",
+        "english": "old"
+    },
+    {
+        "spanish": "editorial",
+        "english": "editorial"
+    },
+    {
+        "spanish": "elegante",
+        "english": "elegant"
+    },
+    {
+        "spanish": "liberal",
+        "english": "liberal"
+    },
+    {
+        "spanish": "siguiente",
+        "english": "next"
+    },
+    {
+        "spanish": "excelente",
+        "english": "excellent"
+    },
+    {
+        "spanish": "jubilado",
+        "english": "retired"
+    },
+    {
+        "spanish": "seco",
+        "english": "dry"
+    },
+    {
+        "spanish": "cardinal",
+        "english": "cardinal"
+    },
+    {
+        "spanish": "estatal",
+        "english": "state"
+    },
+    {
+        "spanish": "grato",
+        "english": "pleasant"
+    },
+    {
+        "spanish": "intermedio",
+        "english": "intermediate"
+    },
+    {
+        "spanish": "maestro",
+        "english": "master"
+    },
+    {
+        "spanish": "enorme",
+        "english": "huge"
+    },
+    {
+        "spanish": "perseverante",
+        "english": "persistent"
+    },
+    {
+        "spanish": "vestido",
+        "english": "dressed"
+    },
+    {
+        "spanish": "gaucho",
+        "english": "helpful"
+    },
+    {
+        "spanish": "redondo",
+        "english": "round"
+    },
+    {
+        "spanish": "hecho",
+        "english": "done"
+    },
+    {
+        "spanish": "progresivo",
+        "english": "progressive"
+    },
+    {
+        "spanish": "básico",
+        "english": "basic"
+    },
+    {
+        "spanish": "anarquista",
+        "english": "anarchist"
+    },
+    {
+        "spanish": "encantado",
+        "english": "delighted"
+    },
+    {
+        "spanish": "tentador",
+        "english": "tempting"
+    },
+    {
+        "spanish": "holgado",
+        "english": "loose-fitting"
+    },
+    {
+        "spanish": "gran",
+        "english": "large"
+    },
+    {
+        "spanish": "rayado",
+        "english": "scratched"
+    },
+    {
+        "spanish": "umbroso",
+        "english": "shady"
+    },
+    {
+        "spanish": "entusiasmado",
+        "english": "excited"
+    },
+    {
+        "spanish": "absurdo",
+        "english": "absurd"
+    },
+    {
+        "spanish": "descubierto",
+        "english": "bare"
+    },
+    {
+        "spanish": "negativo",
+        "english": "negative"
+    },
+    {
+        "spanish": "acurrucado",
+        "english": "curled up"
+    },
+    {
+        "spanish": "gordito",
+        "english": "chubby"
+    },
+    {
+        "spanish": "sucio",
+        "english": "dirty"
+    },
+    {
+        "spanish": "socarrón",
+        "english": "sarcastic"
+    },
+    {
+        "spanish": "casual",
+        "english": "chance"
+    },
+    {
+        "spanish": "malvado",
+        "english": "evil"
+    },
+    {
+        "spanish": "desolado",
+        "english": "desolate"
+    },
+    {
+        "spanish": "imprescindible",
+        "english": "essential"
+    },
+    {
+        "spanish": "torpe",
+        "english": "clumsy"
+    },
+    {
+        "spanish": "por Internet",
+        "english": "Internet"
+    },
+    {
+        "spanish": "basto",
+        "english": "coarse"
+    },
+    {
+        "spanish": "moto",
+        "english": "abandoned"
+    },
+    {
+        "spanish": "desinteresado",
+        "english": "selfless"
+    },
+    {
+        "spanish": "echado",
+        "english": "lying down"
+    },
+    {
+        "spanish": "veraniego",
+        "english": "summer"
+    },
+    {
+        "spanish": "sabio",
+        "english": "wise"
+    },
+    {
+        "spanish": "borde",
+        "english": "rude"
+    },
+    {
+        "spanish": "postal",
+        "english": "postal"
+    },
+    {
+        "spanish": "amplio",
+        "english": "wide"
+    },
+    {
+        "spanish": "venidero",
+        "english": "coming"
+    },
+    {
+        "spanish": "absoluto",
+        "english": "total"
+    },
+    {
+        "spanish": "activo",
+        "english": "working"
+    },
+    {
+        "spanish": "equivocado",
+        "english": "wrong"
+    },
+    {
+        "spanish": "delicado",
+        "english": "delicate"
+    },
+    {
+        "spanish": "embarazada",
+        "english": "pregnant"
+    },
+    {
+        "spanish": "soberbio",
+        "english": "arrogant"
+    },
+    {
+        "spanish": "el promedio",
+        "english": "average"
+    },
+    {
+        "spanish": "cursi",
+        "english": "corny"
+    },
+    {
+        "spanish": "cercano",
+        "english": "close"
+    },
+    {
+        "spanish": "opulento",
+        "english": "opulent"
+    },
+    {
+        "spanish": "bienvenido",
+        "english": "welcome"
+    },
+    {
+        "spanish": "relleno",
+        "english": "stuffed"
+    },
+    {
+        "spanish": "parado",
+        "english": "stopped"
+    },
+    {
+        "spanish": "décimo",
+        "english": "tenth"
+    },
+    {
+        "spanish": "interesante",
+        "english": "interesting"
+    },
+    {
+        "spanish": "soleado",
+        "english": "sunny"
+    },
+    {
+        "spanish": "implacable",
+        "english": "relentless"
+    },
+    {
+        "spanish": "viejo",
+        "english": "old"
+    },
+    {
+        "spanish": "barato",
+        "english": "cheap"
+    },
+    {
+        "spanish": "indirecto",
+        "english": "indirect"
+    },
+    {
+        "spanish": "de contacto",
+        "english": "contact"
+    },
+    {
+        "spanish": "espectacular",
+        "english": "spectacular"
+    },
+    {
+        "spanish": "elevado",
+        "english": "high"
+    },
+    {
+        "spanish": "oportuno",
+        "english": "timely"
+    },
+    {
+        "spanish": "mágico",
+        "english": "magic"
+    },
+    {
+        "spanish": "delicioso",
+        "english": "delicious"
+    },
+    {
+        "spanish": "desierto",
+        "english": "deserted"
+    },
+    {
+        "spanish": "probable",
+        "english": "probable"
+    },
+    {
+        "spanish": "pelado",
+        "english": "broke"
+    },
+    {
+        "spanish": "generoso",
+        "english": "generous"
+    },
+    {
+        "spanish": "agudo",
+        "english": "keen"
+    },
+    {
+        "spanish": "cada",
+        "english": "every"
+    },
+    {
+        "spanish": "más pequeño",
+        "english": "smaller"
+    },
+    {
+        "spanish": "sexy",
+        "english": "sexy"
+    },
+    {
+        "spanish": "primordial",
+        "english": "fundamental"
+    },
+    {
+        "spanish": "residente",
+        "english": "resident"
+    },
+    {
+        "spanish": "anular",
+        "english": "ring-shaped"
+    },
+    {
+        "spanish": "perdurable",
+        "english": "abiding"
+    },
+    {
+        "spanish": "acalorado",
+        "english": "hot"
+    },
+    {
+        "spanish": "único",
+        "english": "only"
+    },
+    {
+        "spanish": "desgastante",
+        "english": "wearing"
+    },
+    {
+        "spanish": "farsante",
+        "english": "deceitful"
+    },
+    {
+        "spanish": "ruidoso",
+        "english": "noisy"
+    },
+    {
+        "spanish": "indefinido",
+        "english": "undefined"
+    },
+    {
+        "spanish": "loco",
+        "english": "crazy"
+    },
+    {
+        "spanish": "envejecido",
+        "english": "aged"
+    },
+    {
+        "spanish": "realista",
+        "english": "realistic"
+    },
+    {
+        "spanish": "confiado",
+        "english": "confident"
+    },
+    {
+        "spanish": "corto",
+        "english": "short"
+    },
+    {
+        "spanish": "indiscutido",
+        "english": "undisputed"
+    },
+    {
+        "spanish": "pendenciero",
+        "english": "quarrelsome"
+    },
+    {
+        "spanish": "nacional",
+        "english": "national"
+    },
+    {
+        "spanish": "interrogante",
+        "english": "questioning"
+    },
+    {
+        "spanish": "mezquino",
+        "english": "petty"
+    },
+    {
+        "spanish": "opuesto",
+        "english": "opposite"
+    },
+    {
+        "spanish": "planeado",
+        "english": "planned"
+    },
+    {
+        "spanish": "adecuado",
+        "english": "appropriate"
+    },
+    {
+        "spanish": "bonito",
+        "english": "pretty"
+    },
+    {
+        "spanish": "maleducado",
+        "english": "rude"
+    },
+    {
+        "spanish": "durmiente",
+        "english": "sleeping"
+    },
+    {
+        "spanish": "bajo",
+        "english": "low"
+    },
+    {
+        "spanish": "renovable",
+        "english": "renewable"
+    },
+    {
+        "spanish": "líquido",
+        "english": "liquid"
+    },
+    {
+        "spanish": "abrumado",
+        "english": "overwhelmed"
+    },
+    {
+        "spanish": "enemigo",
+        "english": "enemy"
+    },
+    {
+        "spanish": "tabú",
+        "english": "taboo"
+    },
+    {
+        "spanish": "perplejo",
+        "english": "perplexed"
+    },
+    {
+        "spanish": "soltero",
+        "english": "single"
+    },
+    {
+        "spanish": "agradecido",
+        "english": "grateful"
+    },
+    {
+        "spanish": "circundante",
+        "english": "surrounding"
+    },
+    {
+        "spanish": "grosero",
+        "english": "rude"
+    },
+    {
+        "spanish": "auténtico",
+        "english": "authentic"
+    },
+    {
+        "spanish": "agradable",
+        "english": "agreeable"
+    },
+    {
+        "spanish": "avasallador",
+        "english": "overwhelming"
+    },
+    {
+        "spanish": "fantasma",
+        "english": "phantom"
+    },
+    {
+        "spanish": "hablador",
+        "english": "talkative"
+    },
+    {
+        "spanish": "juguetón",
+        "english": "playful"
+    },
+    {
+        "spanish": "individual",
+        "english": "individual"
+    },
+    {
+        "spanish": "exigente",
+        "english": "demanding"
+    },
+    {
+        "spanish": "distintivo",
+        "english": "distinctive"
+    },
+    {
+        "spanish": "estrecho",
+        "english": "narrow"
+    },
+    {
+        "spanish": "puro",
+        "english": "sheer"
+    },
+    {
+        "spanish": "astuto",
+        "english": "astute"
+    },
+    {
+        "spanish": "nocturno",
+        "english": "nocturnal"
+    },
+    {
+        "spanish": "intenso",
+        "english": "intense"
+    },
+    {
+        "spanish": "valiente",
+        "english": "brave"
+    },
+    {
+        "spanish": "externo",
+        "english": "external"
+    },
+    {
+        "spanish": "noble",
+        "english": "noble"
+    },
+    {
+        "spanish": "desigual",
+        "english": "unequal"
+    },
+    {
+        "spanish": "contenido",
+        "english": "restrained"
+    },
+    {
+        "spanish": "agropecuario",
+        "english": "farming"
+    },
+    {
+        "spanish": "cara a cara",
+        "english": "face-to-face"
+    },
+    {
+        "spanish": "introvertido",
+        "english": "introverted"
+    },
+    {
+        "spanish": "autóctono",
+        "english": "indigenous"
+    },
+    {
+        "spanish": "soñoliento",
+        "english": "sleepy"
+    },
+    {
+        "spanish": "efectivo",
+        "english": "effective"
+    },
+    {
+        "spanish": "sordo",
+        "english": "deaf"
+    },
+    {
+        "spanish": "tieso",
+        "english": "stiff"
+    },
+    {
+        "spanish": "avisado",
+        "english": "sensible"
+    },
+    {
+        "spanish": "baboso",
+        "english": "slimy"
+    },
+    {
+        "spanish": "colectivo",
+        "english": "collective"
+    },
+    {
+        "spanish": "ideal",
+        "english": "ideal"
+    },
+    {
+        "spanish": "lento",
+        "english": "slow"
+    },
+    {
+        "spanish": "pinto",
+        "english": "spotted"
+    },
+    {
+        "spanish": "parejo",
+        "english": "level"
+    },
+    {
+        "spanish": "vital",
+        "english": "vital"
+    },
+    {
+        "spanish": "preciso",
+        "english": "accurate"
+    },
+    {
+        "spanish": "tímido",
+        "english": "shy"
+    },
+    {
+        "spanish": "cansador",
+        "english": "tiring"
+    },
+    {
+        "spanish": "bajito",
+        "english": "shortish"
+    },
+    {
+        "spanish": "negro",
+        "english": "black"
+    },
+    {
+        "spanish": "ajeno",
+        "english": "alien"
+    },
+    {
+        "spanish": "justo",
+        "english": "fair"
+    },
+    {
+        "spanish": "benéfico",
+        "english": "charity"
+    },
+    {
+        "spanish": "sentado",
+        "english": "seated"
+    },
+    {
+        "spanish": "amante",
+        "english": "loving"
+    },
+    {
+        "spanish": "avaro",
+        "english": "miserly"
+    },
+    {
+        "spanish": "feroz",
+        "english": "fierce"
+    },
+    {
+        "spanish": "insoportable",
+        "english": "unbearable"
+    },
+    {
+        "spanish": "humilde",
+        "english": "humble"
+    },
+    {
+        "spanish": "comercial",
+        "english": "commercial"
+    },
+    {
+        "spanish": "cerrado",
+        "english": "closed"
+    },
+    {
+        "spanish": "resuelto",
+        "english": "determined"
+    },
+    {
+        "spanish": "entero",
+        "english": "whole"
+    },
+    {
+        "spanish": "fuera",
+        "english": "out"
+    },
+    {
+        "spanish": "completo",
+        "english": "complete"
+    },
+    {
+        "spanish": "doble",
+        "english": "double"
+    },
+    {
+        "spanish": "saltado",
+        "english": "bulging"
+    },
+    {
+        "spanish": "apasionante",
+        "english": "fascinating"
+    },
+    {
+        "spanish": "alto",
+        "english": "high"
+    },
+    {
+        "spanish": "injusto",
+        "english": "unfair"
+    },
+    {
+        "spanish": "mineral",
+        "english": "mineral"
+    },
+    {
+        "spanish": "usado",
+        "english": "used"
+    },
+    {
+        "spanish": "dentro",
+        "english": "inside"
+    },
+    {
+        "spanish": "crítico",
+        "english": "critical"
+    },
+    {
+        "spanish": "descalzo",
+        "english": "barefooted"
+    },
+    {
+        "spanish": "perezoso",
+        "english": "lazy"
+    },
+    {
+        "spanish": "inteligente",
+        "english": "intelligent"
+    },
+    {
+        "spanish": "notable",
+        "english": "notable"
+    },
+    {
+        "spanish": "acogedor",
+        "english": "cozy"
+    },
+    {
+        "spanish": "pesado",
+        "english": "heavy"
+    },
+    {
+        "spanish": "apagado",
+        "english": "off"
+    },
+    {
+        "spanish": "flexible",
+        "english": "flexible"
+    },
+    {
+        "spanish": "enamorado",
+        "english": "romantic"
+    },
+    {
+        "spanish": "estudiantil",
+        "english": "student"
+    },
+    {
+        "spanish": "deprimido",
+        "english": "depressed"
+    },
+    {
+        "spanish": "total",
+        "english": "complete"
+    },
+    {
+        "spanish": "acelerado",
+        "english": "rapid"
+    },
+    {
+        "spanish": "material",
+        "english": "material"
+    },
+    {
+        "spanish": "precioso",
+        "english": "precious"
+    },
+    {
+        "spanish": "entrometido",
+        "english": "nosy"
+    },
+    {
+        "spanish": "letrado",
+        "english": "learned"
+    },
+    {
+        "spanish": "reflexivo",
+        "english": "reflective"
+    },
+    {
+        "spanish": "automotriz",
+        "english": "automotive"
+    },
+    {
+        "spanish": "extraño",
+        "english": "strange"
+    },
+    {
+        "spanish": "rubio",
+        "english": "blonde"
+    },
+    {
+        "spanish": "académico",
+        "english": "academic"
+    },
+    {
+        "spanish": "salvo",
+        "english": "safe"
+    },
+    {
+        "spanish": "menor",
+        "english": "minor"
+    },
+    {
+        "spanish": "organizado",
+        "english": "organized"
+    },
+    {
+        "spanish": "duro",
+        "english": "hard"
+    },
+    {
+        "spanish": "público",
+        "english": "public"
+    },
+    {
+        "spanish": "contado",
+        "english": "numbered"
+    },
+    {
+        "spanish": "viviente",
+        "english": "living"
+    },
+    {
+        "spanish": "liso",
+        "english": "smooth"
+    },
+    {
+        "spanish": "invicto",
+        "english": "unbeaten"
+    },
+    {
+        "spanish": "étnico",
+        "english": "ethnic"
+    },
+    {
+        "spanish": "bueno",
+        "english": "good"
+    },
+    {
+        "spanish": "angelical",
+        "english": "angelic"
+    },
+    {
+        "spanish": "indígena",
+        "english": "indigenous"
+    },
+    {
+        "spanish": "sonoro",
+        "english": "loud"
+    },
+    {
+        "spanish": "dormido",
+        "english": "asleep"
+    },
+    {
+        "spanish": "perturbado",
+        "english": "disturbed"
+    },
+    {
+        "spanish": "compuesto",
+        "english": "composed"
+    },
+    {
+        "spanish": "cazurro",
+        "english": "stupid"
+    },
+    {
+        "spanish": "lodoso",
+        "english": "muddy"
+    },
+    {
+        "spanish": "temporal",
+        "english": "temporary"
+    },
+    {
+        "spanish": "internacional",
+        "english": "international"
+    },
+    {
+        "spanish": "predominante",
+        "english": "prevailing"
+    },
+    {
+        "spanish": "voladizo",
+        "english": "projecting"
+    },
+    {
+        "spanish": "ascendente",
+        "english": "rising"
+    },
+    {
+        "spanish": "burro",
+        "english": "stupid"
+    },
+    {
+        "spanish": "masculino",
+        "english": "masculine"
+    },
+    {
+        "spanish": "quebrado",
+        "english": "fractured"
+    },
+    {
+        "spanish": "principal",
+        "english": "main"
+    },
+    {
+        "spanish": "digital",
+        "english": "digital"
+    },
+    {
+        "spanish": "débil",
+        "english": "weak"
+    },
+    {
+        "spanish": "emocionado",
+        "english": "excited"
+    },
+    {
+        "spanish": "retrasado",
+        "english": "behind"
+    },
+    {
+        "spanish": "habitual",
+        "english": "usual"
+    },
+    {
+        "spanish": "descriptivo",
+        "english": "descriptive"
+    },
+    {
+        "spanish": "liso",
+        "english": "plain"
+    },
+    {
+        "spanish": "cuantitativo",
+        "english": "quantitative"
+    },
+    {
+        "spanish": "rizado",
+        "english": "curly"
+    },
+    {
+        "spanish": "frito",
+        "english": "fried"
+    },
+    {
+        "spanish": "guerrero",
+        "english": "fighting"
+    },
+    {
+        "spanish": "aturdido",
+        "english": "dazed"
+    },
+    {
+        "spanish": "idóneo",
+        "english": "fit"
+    },
+    {
+        "spanish": "eléctrico",
+        "english": "electric"
+    },
+    {
+        "spanish": "merecido",
+        "english": "well-deserved"
+    },
+    {
+        "spanish": "el experto",
+        "english": "expert"
+    },
+    {
+        "spanish": "dispuesto",
+        "english": "ready"
+    },
+    {
+        "spanish": "fatal",
+        "english": "terrible"
+    },
+    {
+        "spanish": "casual",
+        "english": "casual"
+    },
+    {
+        "spanish": "lluvioso",
+        "english": "rainy"
+    },
+    {
+        "spanish": "zurdo",
+        "english": "left-handed"
+    },
+    {
+        "spanish": "celoso",
+        "english": "jealous"
+    },
+    {
+        "spanish": "tacaño",
+        "english": "stingy"
+    },
+    {
+        "spanish": "desordenado",
+        "english": "messy"
+    },
+    {
+        "spanish": "bravo",
+        "english": "fierce"
+    },
+    {
+        "spanish": "despierto",
+        "english": "awake"
+    },
+    {
+        "spanish": "clave",
+        "english": "key"
+    },
+    {
+        "spanish": "directo",
+        "english": "direct"
+    },
+    {
+        "spanish": "maduro",
+        "english": "ripe"
+    },
+    {
+        "spanish": "pasado",
+        "english": "past"
+    },
+    {
+        "spanish": "listo",
+        "english": "smart"
+    },
+    {
+        "spanish": "mentiroso",
+        "english": "lying"
+    },
+    {
+        "spanish": "enojado",
+        "english": "cross"
+    },
+    {
+        "spanish": "preocupado",
+        "english": "worried"
+    },
+    {
+        "spanish": "vulnerable",
+        "english": "vulnerable"
+    },
+    {
+        "spanish": "carnal",
+        "english": "blood"
+    },
+    {
+        "spanish": "sediento",
+        "english": "thirsty"
+    },
+    {
+        "spanish": "final",
+        "english": "final"
+    },
+    {
+        "spanish": "cojo",
+        "english": "lame"
+    },
+    {
+        "spanish": "gentil",
+        "english": "courteous"
+    },
+    {
+        "spanish": "roto",
+        "english": "broken"
+    },
+    {
+        "spanish": "en la onda",
+        "english": "hip"
+    },
+    {
+        "spanish": "soso",
+        "english": "bland"
+    },
+    {
+        "spanish": "menor",
+        "english": "younger"
+    },
+    {
+        "spanish": "pronto",
+        "english": "quick"
+    },
+    {
+        "spanish": "responsable",
+        "english": "responsible"
+    },
+    {
+        "spanish": "informal",
+        "english": "informal"
+    },
+    {
+        "spanish": "rural",
+        "english": "rural"
+    },
+    {
+        "spanish": "frecuente",
+        "english": "frequent"
+    },
+    {
+        "spanish": "muerto",
+        "english": "dead"
+    },
+    {
+        "spanish": "colorido",
+        "english": "colorful"
+    },
+    {
+        "spanish": "chido",
+        "english": "awesome"
+    },
+    {
+        "spanish": "antagonista",
+        "english": "antagonistic"
+    },
+    {
+        "spanish": "confundido",
+        "english": "confused"
+    },
+    {
+        "spanish": "sociable",
+        "english": "sociable"
+    },
+    {
+        "spanish": "húmedo",
+        "english": "humid"
+    },
+    {
+        "spanish": "oxidado",
+        "english": "rusty"
+    },
+    {
+        "spanish": "llano",
+        "english": "flat"
+    },
+    {
+        "spanish": "pequeño",
+        "english": "little"
+    },
+    {
+        "spanish": "capaz",
+        "english": "able"
+    },
+    {
+        "spanish": "característico",
+        "english": "characteristic"
+    },
+    {
+        "spanish": "de mentira",
+        "english": "pretend"
+    },
+    {
+        "spanish": "sorprendido",
+        "english": "surprised"
+    },
+    {
+        "spanish": "europeo",
+        "english": "European"
+    },
+    {
+        "spanish": "bellaco",
+        "english": "wicked"
+    },
+    {
+        "spanish": "consentido",
+        "english": "spoiled"
+    },
+    {
+        "spanish": "garrido",
+        "english": "beautiful"
+    },
+    {
+        "spanish": "guay",
+        "english": "cool"
+    },
+    {
+        "spanish": "de piedra",
+        "english": "stone"
+    },
+    {
+        "spanish": "fino",
+        "english": "fine"
+    },
+    {
+        "spanish": "calvo",
+        "english": "bald"
+    },
+    {
+        "spanish": "asqueroso",
+        "english": "disgusting"
+    },
+    {
+        "spanish": "molesto",
+        "english": "upset"
+    },
+    {
+        "spanish": "nublado",
+        "english": "cloudy"
+    },
+    {
+        "spanish": "cortés",
+        "english": "polite"
+    },
+    {
+        "spanish": "conocido",
+        "english": "famous"
+    },
+    {
+        "spanish": "blando",
+        "english": "soft"
+    },
+    {
+        "spanish": "sagaz",
+        "english": "clever"
+    },
+    {
+        "spanish": "frustrado",
+        "english": "frustrated"
+    },
+    {
+        "spanish": "basura",
+        "english": "junk"
+    },
+    {
+        "spanish": "fresco",
+        "english": "fresh"
+    },
+    {
+        "spanish": "desordenado",
+        "english": "untidy"
+    },
+    {
+        "spanish": "ansioso",
+        "english": "anxious"
+    },
+    {
+        "spanish": "leve",
+        "english": "slight"
+    },
+    {
+        "spanish": "otro",
+        "english": "another"
+    },
+    {
+        "spanish": "interino",
+        "english": "acting"
+    },
+    {
+        "spanish": "natural",
+        "english": "natural"
+    },
+    {
+        "spanish": "visto",
+        "english": "exposed"
+    },
+    {
+        "spanish": "debido",
+        "english": "proper"
+    },
+    {
+        "spanish": "virtual",
+        "english": "virtual"
+    },
+    {
+        "spanish": "estival",
+        "english": "summer"
+    },
+    {
+        "spanish": "pícaro",
+        "english": "crafty"
+    },
+    {
+        "spanish": "bienaventurado",
+        "english": "blessed"
+    },
+    {
+        "spanish": "particular",
+        "english": "particular"
+    },
+    {
+        "spanish": "fabuloso",
+        "english": "fabulous"
+    },
+    {
+        "spanish": "puro",
+        "english": "pure"
+    },
+    {
+        "spanish": "agudo",
+        "english": "sharp"
+    },
+    {
+        "spanish": "cabal",
+        "english": "upright"
+    },
+    {
+        "spanish": "comestible",
+        "english": "edible"
+    },
+    {
+        "spanish": "claro",
+        "english": "clear"
+    },
+    {
+        "spanish": "sano",
+        "english": "healthy"
+    },
+    {
+        "spanish": "femenino",
+        "english": "feminine"
+    },
+    {
+        "spanish": "de fondo",
+        "english": "background"
+    },
+    {
+        "spanish": "codicioso",
+        "english": "greedy"
+    },
+    {
+        "spanish": "hermoso",
+        "english": "beautiful"
+    },
+    {
+        "spanish": "diario",
+        "english": "daily"
+    },
+    {
+        "spanish": "útil",
+        "english": "useful"
+    },
+    {
+        "spanish": "online",
+        "english": "online"
+    },
+    {
+        "spanish": "familiar",
+        "english": "familiar"
+    },
+    {
+        "spanish": "mentecato",
+        "english": "silly"
+    },
+    {
+        "spanish": "gracioso",
+        "english": "funny"
+    },
+    {
+        "spanish": "orgulloso",
+        "english": "proud"
+    },
+    {
+        "spanish": "adjunto",
+        "english": "attached"
+    },
+    {
+        "spanish": "agachado",
+        "english": "submissive"
+    },
+    {
+        "spanish": "aterido",
+        "english": "freezing"
+    },
+    {
+        "spanish": "semanal",
+        "english": "weekly"
+    },
+    {
+        "spanish": "distinto",
+        "english": "different"
+    },
+    {
+        "spanish": "ninguna",
+        "english": "no"
+    },
+    {
+        "spanish": "libre",
+        "english": "free"
+    },
+    {
+        "spanish": "dorado",
+        "english": "golden"
+    },
+    {
+        "spanish": "divertido",
+        "english": "fun"
+    },
+    {
+        "spanish": "urbano",
+        "english": "urban"
+    },
+    {
+        "spanish": "posesivo",
+        "english": "possessive"
+    },
+    {
+        "spanish": "correcto",
+        "english": "correct"
+    },
+    {
+        "spanish": "cómodo",
+        "english": "comfortable"
+    },
+    {
+        "spanish": "raro",
+        "english": "rare"
+    },
+    {
+        "spanish": "tarde",
+        "english": "late"
+    },
+    {
+        "spanish": "nervioso",
+        "english": "nervous"
+    },
+    {
+        "spanish": "el cuadrado",
+        "english": "square"
+    },
+    {
+        "spanish": "terco",
+        "english": "stubborn"
+    },
+    {
+        "spanish": "activo",
+        "english": "active"
+    },
+    {
+        "spanish": "tozudo",
+        "english": "stubborn"
+    },
+    {
+        "spanish": "enfadado",
+        "english": "annoyed"
+    },
+    {
+        "spanish": "honrado",
+        "english": "honest"
+    },
+    {
+        "spanish": "peligroso",
+        "english": "dangerous"
+    },
+    {
+        "spanish": "pobre",
+        "english": "poor"
+    },
+    {
+        "spanish": "abierto",
+        "english": "open"
+    },
+    {
+        "spanish": "ordenado",
+        "english": "tidy"
+    },
+    {
+        "spanish": "caro",
+        "english": "expensive"
+    },
+    {
+        "spanish": "suelto",
+        "english": "loose"
+    },
+    {
+        "spanish": "exterior",
+        "english": "outdoor"
+    },
+    {
+        "spanish": "horrible",
+        "english": "horrible"
+    },
+    {
+        "spanish": "antiguo",
+        "english": "antique"
+    },
+    {
+        "spanish": "lleno",
+        "english": "full"
+    },
+    {
+        "spanish": "global",
+        "english": "overall"
+    },
+    {
+        "spanish": "avergonzado",
+        "english": "embarrassed"
+    },
+    {
+        "spanish": "pésimo",
+        "english": "awful"
+    },
+    {
+        "spanish": "flaco",
+        "english": "skinny"
+    },
+    {
+        "spanish": "disponible",
+        "english": "available"
+    },
+    {
+        "spanish": "terrible",
+        "english": "terrible"
+    },
+    {
+        "spanish": "contento",
+        "english": "content"
+    },
+    {
+        "spanish": "rico",
+        "english": "rich"
+    },
+    {
+        "spanish": "rico",
+        "english": "delicious"
+    },
+    {
+        "spanish": "autoritario",
+        "english": "authoritarian"
+    },
+    {
+        "spanish": "normal",
+        "english": "normal"
+    },
+    {
+        "spanish": "favorito",
+        "english": "favorite"
+    },
+    {
+        "spanish": "irregular",
+        "english": "uneven"
+    },
+    {
+        "spanish": "audaz",
+        "english": "daring"
+    },
+    {
+        "spanish": "futuro",
+        "english": "future"
+    },
+    {
+        "spanish": "esotérico",
+        "english": "esoteric"
+    },
+    {
+        "spanish": "deportista",
+        "english": "sporty"
+    },
+    {
+        "spanish": "profesional",
+        "english": "professional"
+    },
+    {
+        "spanish": "limpio",
+        "english": "clean"
+    },
+    {
+        "spanish": "ocupado",
+        "english": "busy"
+    },
+    {
+        "spanish": "adicto",
+        "english": "addicted"
+    },
+    {
+        "spanish": "admirable",
+        "english": "admirable"
+    },
+    {
+        "spanish": "adolorido",
+        "english": "sore"
+    },
+    {
+        "spanish": "afanoso",
+        "english": "industrious"
+    },
+    {
+        "spanish": "afligido",
+        "english": "heartbroken"
+    },
+    {
+        "spanish": "agripado",
+        "english": "with the flu"
+    },
+    {
+        "spanish": "agorero",
+        "english": "ominous"
+    },
+    {
+        "spanish": "aislado",
+        "english": "isolated"
+    },
+    {
+        "spanish": "ajeno",
+        "english": "foreign"
+    },
+    {
+        "spanish": "agrio",
+        "english": "sour"
+    },
+    {
+        "spanish": "agridulce",
+        "english": "bittersweet"
+    },
+    {
+        "spanish": "agreste",
+        "english": "rough"
+    }
+]

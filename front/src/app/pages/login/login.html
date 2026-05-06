@@ -1,0 +1,42 @@
+<div class="auth-page">
+  <h1>Log in</h1>
+  <p class="lede">Use the username and password you registered with.</p>
+
+  @if (error(); as err) {
+    <p class="banner error" role="alert">{{ err }}</p>
+  }
+
+  <form class="auth-form" (ngSubmit)="submit()">
+    <label class="field">
+      <span class="label">Username</span>
+      <input
+        name="username"
+        type="text"
+        autocomplete="username"
+        [(ngModel)]="modelUsername"
+        [disabled]="loading()"
+        required
+      />
+    </label>
+    <label class="field">
+      <span class="label">Password</span>
+      <input
+        name="password"
+        type="password"
+        autocomplete="current-password"
+        [(ngModel)]="modelPassword"
+        [disabled]="loading()"
+        required
+        minlength="8"
+      />
+    </label>
+    <button type="submit" class="btn primary" [disabled]="loading()">
+      {{ loading() ? 'Signing in…' : 'Sign in' }}
+    </button>
+  </form>
+
+  <p class="footer-link">
+    No account?
+    <a routerLink="/register">Register</a>
+  </p>
+</div>

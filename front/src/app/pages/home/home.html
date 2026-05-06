@@ -1,0 +1,43 @@
+<div class="home">
+  <app-home-header />
+
+  @if (words.categories()?.length) {
+    <section class="categories" aria-label="Categories">
+      <h2 class="section-title">Categories</h2>
+      <ul class="category-grid" role="list">
+        @for (c of words.categories()!; track c.id) {
+          <li class="category-grid-item">
+            <app-category-card
+              [link]="['/category', c.id, 'flashcards']"
+              [title]="c.name"
+              [subtitle]="c.wordCount + ' words'"
+              hint="Study →"
+            />
+          </li>
+        }
+      </ul>
+    </section>
+  }
+
+  @if (auth.isLoggedIn() && progress.masteredCount() > 0) {
+    <section class="categories learned-preview" aria-label="Known words">
+      <h2 class="section-title">Known words</h2>
+      <ul class="category-grid category-grid--single" role="list">
+        <li class="category-grid-item">
+          <app-category-card
+            link="/learned"
+            title="Words you marked as known"
+            [subtitle]="progress.masteredCount() + ' words'"
+            hint="View list →"
+          />
+        </li>
+      </ul>
+    </section>
+  }
+
+  @if (auth.isLoggedIn() && progress.masteredCount() > 0) {
+    <p class="footer-actions">
+      <button type="button" class="link-btn" (click)="clearProgress()">Clear “known” progress</button>
+    </p>
+  }
+</div>

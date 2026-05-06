@@ -1,0 +1,542 @@
+[
+    {
+        "spanish": "ustedes",
+        "english": "you"
+    },
+    {
+        "spanish": "usted",
+        "english": "you"
+    },
+    {
+        "spanish": "que tenga buen día",
+        "english": "have a good day"
+    },
+    {
+        "spanish": "¡Que le vaya bien!",
+        "english": "I hope things go well for you!"
+    },
+    {
+        "spanish": "mi nombre es",
+        "english": "my name is"
+    },
+    {
+        "spanish": "le presento a",
+        "english": "let me introduce you to"
+    },
+    {
+        "spanish": "muy señor mío",
+        "english": "Dear Sir"
+    },
+    {
+        "spanish": "cómo está usted hoy",
+        "english": "how you are today"
+    },
+    {
+        "spanish": "el gusto es mío",
+        "english": "the pleasure is mine"
+    },
+    {
+        "spanish": "es un placer conocerte",
+        "english": "it's a pleasure to meet you"
+    },
+    {
+        "spanish": "disculpe",
+        "english": "excuse me"
+    },
+    {
+        "spanish": "eres fuerte",
+        "english": "you're strong"
+    },
+    {
+        "spanish": "te ves genial",
+        "english": "you look great"
+    },
+    {
+        "spanish": "tú eres tan hermosa",
+        "english": "you are so beautiful"
+    },
+    {
+        "spanish": "palabras amables",
+        "english": "kind words"
+    },
+    {
+        "spanish": "enhorabuena",
+        "english": "congratulations"
+    },
+    {
+        "spanish": "qué tal tu día",
+        "english": "how was your day"
+    },
+    {
+        "spanish": "llámame",
+        "english": "call me"
+    },
+    {
+        "spanish": "así es",
+        "english": "that's right"
+    },
+    {
+        "spanish": "déjalo",
+        "english": "it's OK"
+    },
+    {
+        "spanish": "te odio",
+        "english": "I hate you"
+    },
+    {
+        "spanish": "como tú no hay dos",
+        "english": "you're one of a kind"
+    },
+    {
+        "spanish": "bienvenido a casa",
+        "english": "welcome home"
+    },
+    {
+        "spanish": "por ti",
+        "english": "for you"
+    },
+    {
+        "spanish": "por mí",
+        "english": "for me"
+    },
+    {
+        "spanish": "que aproveche",
+        "english": "enjoy your meal"
+    },
+    {
+        "spanish": "buen provecho",
+        "english": "bon appétit"
+    },
+    {
+        "spanish": "con mucho gusto",
+        "english": "with pleasure"
+    },
+    {
+        "spanish": "no mucho",
+        "english": "not much"
+    },
+    {
+        "spanish": "me alegro de que",
+        "english": "I'm glad"
+    },
+    {
+        "spanish": "hace buen tiempo",
+        "english": "the weather is nice"
+    },
+    {
+        "spanish": "sé",
+        "english": "I know how"
+    },
+    {
+        "spanish": "por ejemplo",
+        "english": "for example"
+    },
+    {
+        "spanish": "dicho y hecho",
+        "english": "no sooner said than done"
+    },
+    {
+        "spanish": "de improviso",
+        "english": "out of the blue"
+    },
+    {
+        "spanish": "no sirve",
+        "english": "there's no point"
+    },
+    {
+        "spanish": "qué hacer",
+        "english": "what to do"
+    },
+    {
+        "spanish": "ni hablar",
+        "english": "no way"
+    },
+    {
+        "spanish": "no manches",
+        "english": "no way"
+    },
+    {
+        "spanish": "puedo hacer",
+        "english": "I can make"
+    },
+    {
+        "spanish": "por lo menos",
+        "english": "at least"
+    },
+    {
+        "spanish": "es imprescindible",
+        "english": "it's essential"
+    },
+    {
+        "spanish": "buen trabajo",
+        "english": "good job"
+    },
+    {
+        "spanish": "bien hecho",
+        "english": "well done"
+    },
+    {
+        "spanish": "para mí",
+        "english": "in my opinion"
+    },
+    {
+        "spanish": "¿Estás bien?",
+        "english": "Are you OK?"
+    },
+    {
+        "spanish": "tengo calor",
+        "english": "I'm hot"
+    },
+    {
+        "spanish": "tengo frío",
+        "english": "I'm cold"
+    },
+    {
+        "spanish": "se te antoja",
+        "english": "do you want"
+    },
+    {
+        "spanish": "me encuentro bien",
+        "english": "I'm fine"
+    },
+    {
+        "spanish": "a ver",
+        "english": "let's see"
+    },
+    {
+        "spanish": "y yo",
+        "english": "me too"
+    },
+    {
+        "spanish": "yo también",
+        "english": "me too"
+    },
+    {
+        "spanish": "que te mejores",
+        "english": "get well soon"
+    },
+    {
+        "spanish": "mucha suerte",
+        "english": "good luck"
+    },
+    {
+        "spanish": "qué hiciste tú ayer",
+        "english": "what did you do yesterday"
+    },
+    {
+        "spanish": "te echo de menos",
+        "english": "I miss you"
+    },
+    {
+        "spanish": "te extraño",
+        "english": "I miss you"
+    },
+    {
+        "spanish": "no vale la pena",
+        "english": "it's not worth it"
+    },
+    {
+        "spanish": "merece la pena",
+        "english": "it's worth it"
+    },
+    {
+        "spanish": "vale la pena",
+        "english": "it's worth it"
+    },
+    {
+        "spanish": "qué bonita",
+        "english": "how pretty"
+    },
+    {
+        "spanish": "qué linda",
+        "english": "how pretty"
+    },
+    {
+        "spanish": "los mejores deseos",
+        "english": "best wishes"
+    },
+    {
+        "spanish": "muchas gracias",
+        "english": "thank you very much"
+    },
+    {
+        "spanish": "vámonos",
+        "english": "let's go"
+    },
+    {
+        "spanish": "vamos",
+        "english": "let's go"
+    },
+    {
+        "spanish": "qué tal estás",
+        "english": "how are you doing"
+    },
+    {
+        "spanish": "déjame en paz",
+        "english": "leave me alone"
+    },
+    {
+        "spanish": "cómo se dice",
+        "english": "how do you say"
+    },
+    {
+        "spanish": "todo sobre mí",
+        "english": "all about me"
+    },
+    {
+        "spanish": "¿Qué hora es?",
+        "english": "What time is it?"
+    },
+    {
+        "spanish": "debería darte vergüenza",
+        "english": "shame on you"
+    },
+    {
+        "spanish": "por supuesto",
+        "english": "of course"
+    },
+    {
+        "spanish": "es un placer",
+        "english": "my pleasure"
+    },
+    {
+        "spanish": "yo hablo un poquito español",
+        "english": "I speak a little Spanish"
+    },
+    {
+        "spanish": "tan pronto como sea posible",
+        "english": "as soon as possible"
+    },
+    {
+        "spanish": "que yo sepa",
+        "english": "as far as I know"
+    },
+    {
+        "spanish": "ya estoy listo",
+        "english": "I'm ready"
+    },
+    {
+        "spanish": "¿Estás lista?",
+        "english": "Are you ready?"
+    },
+    {
+        "spanish": "hasta pronto",
+        "english": "see you soon"
+    },
+    {
+        "spanish": "lo quiero mucho",
+        "english": "I love you very much"
+    },
+    {
+        "spanish": "te amo mucho",
+        "english": "I love you very much"
+    },
+    {
+        "spanish": "de nada",
+        "english": "you're welcome"
+    },
+    {
+        "spanish": "pásalo bien",
+        "english": "have a good time"
+    },
+    {
+        "spanish": "perdón",
+        "english": "excuse me"
+    },
+    {
+        "spanish": "¿Cómo te llamas?",
+        "english": "What's your name?"
+    },
+    {
+        "spanish": "cuántos años tiene usted",
+        "english": "how old are you"
+    },
+    {
+        "spanish": "qué estás haciendo",
+        "english": "what are you doing"
+    },
+    {
+        "spanish": "¡Felices fiestas!",
+        "english": "Happy Holidays!"
+    },
+    {
+        "spanish": "feliz cumpleaños",
+        "english": "happy birthday"
+    },
+    {
+        "spanish": "nada mal",
+        "english": "not bad at all"
+    },
+    {
+        "spanish": "nos vemos luego",
+        "english": "see you later"
+    },
+    {
+        "spanish": "dónde vives",
+        "english": "where do you live"
+    },
+    {
+        "spanish": "mucho gusto",
+        "english": "nice to meet you"
+    },
+    {
+        "spanish": "me llamo",
+        "english": "my name is"
+    },
+    {
+        "spanish": "parecerse a",
+        "english": "to look like"
+    },
+    {
+        "spanish": "¿Cómo eres físicamente?",
+        "english": "What do you look like?"
+    },
+    {
+        "spanish": "cómo eres tú",
+        "english": "what are you like"
+    },
+    {
+        "spanish": "gracias",
+        "english": "thanks"
+    },
+    {
+        "spanish": "gracias",
+        "english": "thank you"
+    },
+    {
+        "spanish": "Hello, ¿cómo estás?,Hola",
+        "english": "how are you?"
+    },
+    {
+        "spanish": "disculpe",
+        "english": "I'm sorry"
+    },
+    {
+        "spanish": "lo siento",
+        "english": "I'm sorry"
+    },
+    {
+        "spanish": "tengo ganas de",
+        "english": "I want"
+    },
+    {
+        "spanish": "me gustas",
+        "english": "I like you"
+    },
+    {
+        "spanish": "me caes bien",
+        "english": "I like you"
+    },
+    {
+        "spanish": "te quiero",
+        "english": "I love you"
+    },
+    {
+        "spanish": "te amo",
+        "english": "I love you"
+    },
+    {
+        "spanish": "buenas tardes",
+        "english": "good afternoon"
+    },
+    {
+        "spanish": "buenos días",
+        "english": "good morning"
+    },
+    {
+        "spanish": "cómo está Ud.",
+        "english": "how are you"
+    },
+    {
+        "spanish": "qué tal estás",
+        "english": "how are you"
+    },
+    {
+        "spanish": "dónde puedo encontrar",
+        "english": "where can I find"
+    },
+    {
+        "spanish": "no me siento bien",
+        "english": "I don't feel well"
+    },
+    {
+        "spanish": "¿Cómo se escribe tu nombre?",
+        "english": "How do you spell your name?"
+    },
+    {
+        "spanish": "qué hora son",
+        "english": "what time is it"
+    },
+    {
+        "spanish": "cuál es la fecha",
+        "english": "what's the date"
+    },
+    {
+        "spanish": "¿Necesitas ayuda?",
+        "english": "Do you need help?"
+    },
+    {
+        "spanish": "cómo llego a",
+        "english": "how do I get to"
+    },
+    {
+        "spanish": "necesito ayuda",
+        "english": "I need help"
+    },
+    {
+        "spanish": "estoy perdido",
+        "english": "I'm lost"
+    },
+    {
+        "spanish": "¿Puedes ayudarme?",
+        "english": "Can you help me?"
+    },
+    {
+        "spanish": "se me olvidó",
+        "english": "I forgot"
+    },
+    {
+        "spanish": "a mí me molesta",
+        "english": "it bothers me"
+    },
+    {
+        "spanish": "no te preocupes",
+        "english": "don't worry"
+    },
+    {
+        "spanish": "no sé",
+        "english": "I don't know"
+    },
+    {
+        "spanish": "tal vez",
+        "english": "maybe"
+    },
+    {
+        "spanish": "ya voy",
+        "english": "I'm coming"
+    },
+    {
+        "spanish": "¿Qué hago?",
+        "english": "What do I do?"
+    },
+    {
+        "spanish": "me da igual",
+        "english": "it doesn't matter to me"
+    },
+    {
+        "spanish": "¿Te puedo ayudar?",
+        "english": "Can I help you?"
+    },
+    {
+        "spanish": "no tengo idea",
+        "english": "I have no idea"
+    },
+    {
+        "spanish": "¿Para qué?",
+        "english": "What for?"
+    },
+    {
+        "spanish": "ni idea",
+        "english": "no idea"
+    }
+]

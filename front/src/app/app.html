@@ -1,0 +1,47 @@
+<div class="app">
+  <header class="top">
+    <div class="top-inner">
+      <a routerLink="/" class="brand">Spanish practice</a>
+
+      <div class="top-rest">
+        <nav class="study-nav" aria-label="Study modes">
+          @if (routeCategoryId(); as cid) {
+            <a [routerLink]="['/category', cid, 'flashcards']" routerLinkActive="active">Flashcards</a>
+            <a [routerLink]="['/category', cid, 'quiz']" routerLinkActive="active">Quiz</a>
+            <a [routerLink]="['/category', cid, 'browse']" routerLinkActive="active">Browse</a>
+          } @else {
+            <span class="study-locked" role="presentation" title="Choose a category on Home to study">Flashcards</span>
+            <span class="study-locked" role="presentation" title="Choose a category on Home to study">Quiz</span>
+            <span class="study-locked" role="presentation" title="Choose a category on Home to study">Browse</span>
+          }
+        </nav>
+
+        <nav class="site-nav" aria-label="Site">
+          <a
+            routerLink="/"
+            routerLinkActive="active"
+            [routerLinkActiveOptions]="{ exact: true }"
+            >Home</a
+          >
+          @if (auth.isLoggedIn()) {
+            <a routerLink="/learned" routerLinkActive="active">Known words</a>
+          }
+        </nav>
+
+        <div class="account">
+          @if (auth.isLoggedIn()) {
+            <span class="account-user" title="Signed in">{{ auth.user()?.username }}</span>
+            <button type="button" class="account-btn ghost" (click)="auth.logout()">Log out</button>
+          } @else {
+            <a routerLink="/login" routerLinkActive="active" class="account-btn ghost">Log in</a>
+            <a routerLink="/register" routerLinkActive="active" class="account-btn solid">Register</a>
+          }
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="main">
+    <router-outlet />
+  </main>
+</div>

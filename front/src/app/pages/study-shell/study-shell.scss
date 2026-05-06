@@ -1,0 +1,73 @@
+.study-shell {
+  max-width: 40rem;
+  margin: 0 auto;
+}
+
+.study-head {
+  margin-bottom: 1.5rem;
+}
+
+.back {
+  display: inline-block;
+  margin-bottom: 0.75rem;
+  font-size: 0.9rem;
+  color: var(--accent, #2563eb);
+  text-decoration: none;
+}
+
+.back:hover {
+  text-decoration: underline;
+}
+
+.title-block {
+  margin-bottom: 1rem;
+}
+
+.title {
+  margin: 0;
+  font-size: 1.35rem;
+  font-weight: 650;
+}
+
+.meta {
+  margin: 0.25rem 0 0;
+  font-size: 0.9rem;
+  color: var(--muted, #64748b);
+}
+
+.tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+.tabs a {
+  padding: 0.45rem 0.85rem;
+  border-radius: 999px;
+  font-size: 0.9rem;
+  text-decoration: none;
+  color: var(--fg, #0f172a);
+  background: var(--chip-bg, #f1f5f9);
+  border: 1px solid transparent;
+}
+
+.tabs a:hover {
+  background: var(--chip-hover, #e2e8f0);
+}
+
+.tabs a.active {
+  background: var(--accent-soft, #dbeafe);
+  border-color: var(--accent, #2563eb);
+  color: var(--accent, #2563eb);
+  font-weight: 600;
+}
+
+.state {
+  padding: 2rem 0;
+  text-align: center;
+  color: var(--muted, #64748b);
+}
+
+.state.error {
+  color: #b91c1c;
+}

@@ -1,0 +1,4002 @@
+[
+    {
+        "spanish": "el país",
+        "english": "country"
+    },
+    {
+        "spanish": "competir",
+        "english": "to compete"
+    },
+    {
+        "spanish": "enseñar",
+        "english": "to teach"
+    },
+    {
+        "spanish": "la estación",
+        "english": "season"
+    },
+    {
+        "spanish": "el avión",
+        "english": "plane"
+    },
+    {
+        "spanish": "seguro",
+        "english": "sure"
+    },
+    {
+        "spanish": "la plaza",
+        "english": "square"
+    },
+    {
+        "spanish": "pequeño",
+        "english": "small"
+    },
+    {
+        "spanish": "enviar",
+        "english": "to send"
+    },
+    {
+        "spanish": "venir",
+        "english": "to come"
+    },
+    {
+        "spanish": "cien",
+        "english": "one hundred"
+    },
+    {
+        "spanish": "el/la periodista",
+        "english": "journalist"
+    },
+    {
+        "spanish": "el desarrollo",
+        "english": "development"
+    },
+    {
+        "spanish": "el terremoto",
+        "english": "earthquake"
+    },
+    {
+        "spanish": "anoche",
+        "english": "last night"
+    },
+    {
+        "spanish": "el lunes",
+        "english": "Monday"
+    },
+    {
+        "spanish": "poner",
+        "english": "to put"
+    },
+    {
+        "spanish": "la plata",
+        "english": "silver"
+    },
+    {
+        "spanish": "el oro",
+        "english": "gold"
+    },
+    {
+        "spanish": "el abrigo",
+        "english": "coat"
+    },
+    {
+        "spanish": "ver",
+        "english": "to see"
+    },
+    {
+        "spanish": "azul",
+        "english": "blue"
+    },
+    {
+        "spanish": "el coche",
+        "english": "car"
+    },
+    {
+        "spanish": "el domingo",
+        "english": "Sunday"
+    },
+    {
+        "spanish": "el examen",
+        "english": "exam"
+    },
+    {
+        "spanish": "pagar",
+        "english": "to pay"
+    },
+    {
+        "spanish": "poder",
+        "english": "to be able to"
+    },
+    {
+        "spanish": "la cama",
+        "english": "bed"
+    },
+    {
+        "spanish": "buenas noches",
+        "english": "good night"
+    },
+    {
+        "spanish": "el/la artista",
+        "english": "artist"
+    },
+    {
+        "spanish": "gris",
+        "english": "gray"
+    },
+    {
+        "spanish": "verde",
+        "english": "green"
+    },
+    {
+        "spanish": "blanco",
+        "english": "white"
+    },
+    {
+        "spanish": "negro",
+        "english": "black"
+    },
+    {
+        "spanish": "amarillo",
+        "english": "yellow"
+    },
+    {
+        "spanish": "rojo",
+        "english": "red"
+    },
+    {
+        "spanish": "el marrón",
+        "english": "brown"
+    },
+    {
+        "spanish": "anaranjado",
+        "english": "orange"
+    },
+    {
+        "spanish": "morado",
+        "english": "purple"
+    },
+    {
+        "spanish": "rosado",
+        "english": "pink"
+    },
+    {
+        "spanish": "el color",
+        "english": "color"
+    },
+    {
+        "spanish": "hacer",
+        "english": "to do"
+    },
+    {
+        "spanish": "decir",
+        "english": "to say"
+    },
+    {
+        "spanish": "salir",
+        "english": "to go out"
+    },
+    {
+        "spanish": "querer",
+        "english": "to want"
+    },
+    {
+        "spanish": "hablar",
+        "english": "to speak"
+    },
+    {
+        "spanish": "el novio",
+        "english": "boyfriend"
+    },
+    {
+        "spanish": "el cine",
+        "english": "movie theater"
+    },
+    {
+        "spanish": "tener",
+        "english": "to have"
+    },
+    {
+        "spanish": "pedir",
+        "english": "to ask for"
+    },
+    {
+        "spanish": "tomar",
+        "english": "to take"
+    },
+    {
+        "spanish": "aburrido",
+        "english": "boring"
+    },
+    {
+        "spanish": "la comida",
+        "english": "food"
+    },
+    {
+        "spanish": "rico",
+        "english": "rich"
+    },
+    {
+        "spanish": "tranquilo",
+        "english": "calm"
+    },
+    {
+        "spanish": "ir",
+        "english": "to go"
+    },
+    {
+        "spanish": "comer",
+        "english": "to eat"
+    },
+    {
+        "spanish": "volver",
+        "english": "to return"
+    },
+    {
+        "spanish": "joven",
+        "english": "young"
+    },
+    {
+        "spanish": "el campo",
+        "english": "countryside"
+    },
+    {
+        "spanish": "la música",
+        "english": "music"
+    },
+    {
+        "spanish": "saber",
+        "english": "to know"
+    },
+    {
+        "spanish": "empezar",
+        "english": "to start"
+    },
+    {
+        "spanish": "sobre",
+        "english": "on"
+    },
+    {
+        "spanish": "doler",
+        "english": "to hurt"
+    },
+    {
+        "spanish": "la tienda",
+        "english": "store"
+    },
+    {
+        "spanish": "el café",
+        "english": "coffee"
+    },
+    {
+        "spanish": "grande",
+        "english": "big"
+    },
+    {
+        "spanish": "estar",
+        "english": "to be"
+    },
+    {
+        "spanish": "vivir",
+        "english": "to live"
+    },
+    {
+        "spanish": "levantarse",
+        "english": "to get up"
+    },
+    {
+        "spanish": "divertido",
+        "english": "fun"
+    },
+    {
+        "spanish": "la película",
+        "english": "film"
+    },
+    {
+        "spanish": "la ropa",
+        "english": "clothing"
+    },
+    {
+        "spanish": "la cocina",
+        "english": "kitchen"
+    },
+    {
+        "spanish": "el agua",
+        "english": "water"
+    },
+    {
+        "spanish": "el mes",
+        "english": "month"
+    },
+    {
+        "spanish": "el enero",
+        "english": "January"
+    },
+    {
+        "spanish": "el febrero",
+        "english": "February"
+    },
+    {
+        "spanish": "el marzo",
+        "english": "March"
+    },
+    {
+        "spanish": "el abril",
+        "english": "April"
+    },
+    {
+        "spanish": "el mayo",
+        "english": "May"
+    },
+    {
+        "spanish": "el junio",
+        "english": "June"
+    },
+    {
+        "spanish": "el julio",
+        "english": "July"
+    },
+    {
+        "spanish": "el agosto",
+        "english": "August"
+    },
+    {
+        "spanish": "el septiembre",
+        "english": "September"
+    },
+    {
+        "spanish": "el octubre",
+        "english": "October"
+    },
+    {
+        "spanish": "el noviembre",
+        "english": "November"
+    },
+    {
+        "spanish": "el diciembre",
+        "english": "December"
+    },
+    {
+        "spanish": "el verano",
+        "english": "summer"
+    },
+    {
+        "spanish": "el invierno",
+        "english": "winter"
+    },
+    {
+        "spanish": "el otoño",
+        "english": "fall"
+    },
+    {
+        "spanish": "la primavera",
+        "english": "spring"
+    },
+    {
+        "spanish": "la semana",
+        "english": "week"
+    },
+    {
+        "spanish": "el martes",
+        "english": "Tuesday"
+    },
+    {
+        "spanish": "el miércoles",
+        "english": "Wednesday"
+    },
+    {
+        "spanish": "el jueves",
+        "english": "Thursday"
+    },
+    {
+        "spanish": "el viernes",
+        "english": "Friday"
+    },
+    {
+        "spanish": "el sábado",
+        "english": "Saturday"
+    },
+    {
+        "spanish": "perder",
+        "english": "to lose"
+    },
+    {
+        "spanish": "también",
+        "english": "also"
+    },
+    {
+        "spanish": "acostarse",
+        "english": "to go to bed"
+    },
+    {
+        "spanish": "bailar",
+        "english": "to dance"
+    },
+    {
+        "spanish": "alguien",
+        "english": "someone"
+    },
+    {
+        "spanish": "la mesa",
+        "english": "table"
+    },
+    {
+        "spanish": "mucho",
+        "english": "a lot of"
+    },
+    {
+        "spanish": "la empresa",
+        "english": "company"
+    },
+    {
+        "spanish": "la bolsa",
+        "english": "bag"
+    },
+    {
+        "spanish": "el bosque",
+        "english": "forest"
+    },
+    {
+        "spanish": "alguno",
+        "english": "some"
+    },
+    {
+        "spanish": "la contaminación",
+        "english": "pollution"
+    },
+    {
+        "spanish": "ser",
+        "english": "to be"
+    },
+    {
+        "spanish": "llegar",
+        "english": "to arrive"
+    },
+    {
+        "spanish": "conocer",
+        "english": "to know"
+    },
+    {
+        "spanish": "dormir",
+        "english": "to sleep"
+    },
+    {
+        "spanish": "deber",
+        "english": "should"
+    },
+    {
+        "spanish": "después",
+        "english": "after"
+    },
+    {
+        "spanish": "contar",
+        "english": "to tell"
+    },
+    {
+        "spanish": "simpático",
+        "english": "nice"
+    },
+    {
+        "spanish": "gastar",
+        "english": "to spend"
+    },
+    {
+        "spanish": "la casa",
+        "english": "house"
+    },
+    {
+        "spanish": "la silla",
+        "english": "chair"
+    },
+    {
+        "spanish": "contento",
+        "english": "happy"
+    },
+    {
+        "spanish": "trabajador",
+        "english": "hardworking"
+    },
+    {
+        "spanish": "el pescado",
+        "english": "fish"
+    },
+    {
+        "spanish": "el actor",
+        "english": "actor"
+    },
+    {
+        "spanish": "el centro comercial",
+        "english": "mall"
+    },
+    {
+        "spanish": "el mercado",
+        "english": "market"
+    },
+    {
+        "spanish": "nunca",
+        "english": "never"
+    },
+    {
+        "spanish": "el horario",
+        "english": "schedule"
+    },
+    {
+        "spanish": "ayer",
+        "english": "yesterday"
+    },
+    {
+        "spanish": "hoy",
+        "english": "today"
+    },
+    {
+        "spanish": "mañana",
+        "english": "tomorrow"
+    },
+    {
+        "spanish": "el fin de semana",
+        "english": "weekend"
+    },
+    {
+        "spanish": "antes",
+        "english": "before"
+    },
+    {
+        "spanish": "el día",
+        "english": "day"
+    },
+    {
+        "spanish": "el año",
+        "english": "year"
+    },
+    {
+        "spanish": "la chaqueta",
+        "english": "jacket"
+    },
+    {
+        "spanish": "tímido",
+        "english": "shy"
+    },
+    {
+        "spanish": "el médico",
+        "english": "doctor"
+    },
+    {
+        "spanish": "la historia",
+        "english": "history"
+    },
+    {
+        "spanish": "el banco",
+        "english": "bank"
+    },
+    {
+        "spanish": "el medio ambiente",
+        "english": "environment"
+    },
+    {
+        "spanish": "el/la policía",
+        "english": "police officer"
+    },
+    {
+        "spanish": "el escritor",
+        "english": "writer"
+    },
+    {
+        "spanish": "la actriz",
+        "english": "actress"
+    },
+    {
+        "spanish": "el sofá",
+        "english": "sofa"
+    },
+    {
+        "spanish": "buscar",
+        "english": "to look for"
+    },
+    {
+        "spanish": "leer",
+        "english": "to read"
+    },
+    {
+        "spanish": "siempre",
+        "english": "always"
+    },
+    {
+        "spanish": "bueno",
+        "english": "good"
+    },
+    {
+        "spanish": "descansar",
+        "english": "to rest"
+    },
+    {
+        "spanish": "estudiar",
+        "english": "to study"
+    },
+    {
+        "spanish": "ganar",
+        "english": "to win"
+    },
+    {
+        "spanish": "tampoco",
+        "english": "neither"
+    },
+    {
+        "spanish": "alto",
+        "english": "tall"
+    },
+    {
+        "spanish": "la mano",
+        "english": "hand"
+    },
+    {
+        "spanish": "dulce",
+        "english": "sweet"
+    },
+    {
+        "spanish": "el armario",
+        "english": "wardrobe"
+    },
+    {
+        "spanish": "la camiseta",
+        "english": "T-shirt"
+    },
+    {
+        "spanish": "inteligente",
+        "english": "intelligent"
+    },
+    {
+        "spanish": "el teatro",
+        "english": "theater"
+    },
+    {
+        "spanish": "el profesor",
+        "english": "teacher"
+    },
+    {
+        "spanish": "el premio",
+        "english": "prize"
+    },
+    {
+        "spanish": "la naturaleza",
+        "english": "nature"
+    },
+    {
+        "spanish": "el museo",
+        "english": "museum"
+    },
+    {
+        "spanish": "nervioso",
+        "english": "nervous"
+    },
+    {
+        "spanish": "escribir",
+        "english": "to write"
+    },
+    {
+        "spanish": "jugar",
+        "english": "to play"
+    },
+    {
+        "spanish": "el español",
+        "english": "Spanish"
+    },
+    {
+        "spanish": "gustar",
+        "english": "to like"
+    },
+    {
+        "spanish": "viajar",
+        "english": "to travel"
+    },
+    {
+        "spanish": "luego",
+        "english": "then"
+    },
+    {
+        "spanish": "beber",
+        "english": "to drink"
+    },
+    {
+        "spanish": "triste",
+        "english": "sad"
+    },
+    {
+        "spanish": "terminar",
+        "english": "to end"
+    },
+    {
+        "spanish": "qué",
+        "english": "what"
+    },
+    {
+        "spanish": "la mujer",
+        "english": "woman"
+    },
+    {
+        "spanish": "el partido",
+        "english": "game"
+    },
+    {
+        "spanish": "la calle",
+        "english": "street"
+    },
+    {
+        "spanish": "ducharse",
+        "english": "to take a shower"
+    },
+    {
+        "spanish": "el cuadro",
+        "english": "painting"
+    },
+    {
+        "spanish": "el trabajo",
+        "english": "work"
+    },
+    {
+        "spanish": "el niño",
+        "english": "child"
+    },
+    {
+        "spanish": "el hermano",
+        "english": "brother"
+    },
+    {
+        "spanish": "el abogado",
+        "english": "lawyer"
+    },
+    {
+        "spanish": "la cabeza",
+        "english": "head"
+    },
+    {
+        "spanish": "el equipo",
+        "english": "team"
+    },
+    {
+        "spanish": "el brazo",
+        "english": "arm"
+    },
+    {
+        "spanish": "la abuela",
+        "english": "grandmother"
+    },
+    {
+        "spanish": "la pierna",
+        "english": "leg"
+    },
+    {
+        "spanish": "el padre",
+        "english": "father"
+    },
+    {
+        "spanish": "el arroz",
+        "english": "rice"
+    },
+    {
+        "spanish": "el pollo",
+        "english": "chicken"
+    },
+    {
+        "spanish": "el precio",
+        "english": "price"
+    },
+    {
+        "spanish": "el ingeniero",
+        "english": "engineer"
+    },
+    {
+        "spanish": "el tenis",
+        "english": "tennis"
+    },
+    {
+        "spanish": "el gimnasio",
+        "english": "gym"
+    },
+    {
+        "spanish": "reciclar",
+        "english": "to recycle"
+    },
+    {
+        "spanish": "el televisor",
+        "english": "television"
+    },
+    {
+        "spanish": "el restaurante",
+        "english": "restaurant"
+    },
+    {
+        "spanish": "el arte",
+        "english": "art"
+    },
+    {
+        "spanish": "la lámpara",
+        "english": "lamp"
+    },
+    {
+        "spanish": "el río",
+        "english": "river"
+    },
+    {
+        "spanish": "llevar",
+        "english": "to take"
+    },
+    {
+        "spanish": "seguir",
+        "english": "to follow"
+    },
+    {
+        "spanish": "conseguir",
+        "english": "to get"
+    },
+    {
+        "spanish": "comprar",
+        "english": "to buy"
+    },
+    {
+        "spanish": "correr",
+        "english": "to run"
+    },
+    {
+        "spanish": "algo",
+        "english": "something"
+    },
+    {
+        "spanish": "ponerse",
+        "english": "to put on"
+    },
+    {
+        "spanish": "vestirse",
+        "english": "to get dressed"
+    },
+    {
+        "spanish": "porque",
+        "english": "because"
+    },
+    {
+        "spanish": "bañarse",
+        "english": "to take a bath"
+    },
+    {
+        "spanish": "bajo",
+        "english": "short"
+    },
+    {
+        "spanish": "cocinar",
+        "english": "to cook"
+    },
+    {
+        "spanish": "tarde",
+        "english": "late"
+    },
+    {
+        "spanish": "el tiempo",
+        "english": "time"
+    },
+    {
+        "spanish": "la hora",
+        "english": "hour"
+    },
+    {
+        "spanish": "la fecha",
+        "english": "date"
+    },
+    {
+        "spanish": "el mediodía",
+        "english": "noon"
+    },
+    {
+        "spanish": "la medianoche",
+        "english": "midnight"
+    },
+    {
+        "spanish": "la mañana",
+        "english": "morning"
+    },
+    {
+        "spanish": "la hora",
+        "english": "time"
+    },
+    {
+        "spanish": "el siglo",
+        "english": "century"
+    },
+    {
+        "spanish": "la gente",
+        "english": "people"
+    },
+    {
+        "spanish": "guapo",
+        "english": "handsome"
+    },
+    {
+        "spanish": "nadie",
+        "english": "no one"
+    },
+    {
+        "spanish": "necesitar",
+        "english": "to need"
+    },
+    {
+        "spanish": "el pan",
+        "english": "bread"
+    },
+    {
+        "spanish": "la puerta",
+        "english": "door"
+    },
+    {
+        "spanish": "la ciudad",
+        "english": "city"
+    },
+    {
+        "spanish": "caro",
+        "english": "expensive"
+    },
+    {
+        "spanish": "la salud",
+        "english": "health"
+    },
+    {
+        "spanish": "bonito",
+        "english": "pretty"
+    },
+    {
+        "spanish": "rubio",
+        "english": "blond"
+    },
+    {
+        "spanish": "la piscina",
+        "english": "swimming pool"
+    },
+    {
+        "spanish": "la boca",
+        "english": "mouth"
+    },
+    {
+        "spanish": "feo",
+        "english": "ugly"
+    },
+    {
+        "spanish": "ahorrar",
+        "english": "to save"
+    },
+    {
+        "spanish": "ir de compras",
+        "english": "to go shopping"
+    },
+    {
+        "spanish": "el pastel",
+        "english": "cake"
+    },
+    {
+        "spanish": "cómodo",
+        "english": "comfortable"
+    },
+    {
+        "spanish": "difícil",
+        "english": "difficult"
+    },
+    {
+        "spanish": "el papel",
+        "english": "paper"
+    },
+    {
+        "spanish": "el dinero",
+        "english": "money"
+    },
+    {
+        "spanish": "resolver",
+        "english": "to solve"
+    },
+    {
+        "spanish": "el plato",
+        "english": "plate"
+    },
+    {
+        "spanish": "otro",
+        "english": "other"
+    },
+    {
+        "spanish": "la leche",
+        "english": "milk"
+    },
+    {
+        "spanish": "la madre",
+        "english": "mother"
+    },
+    {
+        "spanish": "la escalera",
+        "english": "stairs"
+    },
+    {
+        "spanish": "cuál",
+        "english": "which"
+    },
+    {
+        "spanish": "el director",
+        "english": "director"
+    },
+    {
+        "spanish": "el deporte",
+        "english": "sport"
+    },
+    {
+        "spanish": "el concurso",
+        "english": "competition"
+    },
+    {
+        "spanish": "la librería",
+        "english": "bookstore"
+    },
+    {
+        "spanish": "la bebida",
+        "english": "drink"
+    },
+    {
+        "spanish": "el tomate",
+        "english": "tomato"
+    },
+    {
+        "spanish": "funcionar",
+        "english": "to work"
+    },
+    {
+        "spanish": "el concierto",
+        "english": "concert"
+    },
+    {
+        "spanish": "esperar",
+        "english": "to wait for"
+    },
+    {
+        "spanish": "mirar",
+        "english": "to look at"
+    },
+    {
+        "spanish": "el lugar",
+        "english": "place"
+    },
+    {
+        "spanish": "trabajar",
+        "english": "to work"
+    },
+    {
+        "spanish": "demasiado",
+        "english": "too"
+    },
+    {
+        "spanish": "preferir",
+        "english": "to prefer"
+    },
+    {
+        "spanish": "cantar",
+        "english": "to sing"
+    },
+    {
+        "spanish": "probar",
+        "english": "to taste"
+    },
+    {
+        "spanish": "nadar",
+        "english": "to swim"
+    },
+    {
+        "spanish": "compartir",
+        "english": "to share"
+    },
+    {
+        "spanish": "el pie",
+        "english": "foot"
+    },
+    {
+        "spanish": "molestar",
+        "english": "to bother"
+    },
+    {
+        "spanish": "el inglés",
+        "english": "English"
+    },
+    {
+        "spanish": "la cena",
+        "english": "dinner"
+    },
+    {
+        "spanish": "descubrir",
+        "english": "to discover"
+    },
+    {
+        "spanish": "la hermana",
+        "english": "sister"
+    },
+    {
+        "spanish": "el libro",
+        "english": "book"
+    },
+    {
+        "spanish": "la escuela",
+        "english": "school"
+    },
+    {
+        "spanish": "la pareja",
+        "english": "couple"
+    },
+    {
+        "spanish": "la carne",
+        "english": "meat"
+    },
+    {
+        "spanish": "el/la mar",
+        "english": "sea"
+    },
+    {
+        "spanish": "la falda",
+        "english": "skirt"
+    },
+    {
+        "spanish": "la playa",
+        "english": "beach"
+    },
+    {
+        "spanish": "serio",
+        "english": "serious"
+    },
+    {
+        "spanish": "la iglesia",
+        "english": "church"
+    },
+    {
+        "spanish": "proteger",
+        "english": "to protect"
+    },
+    {
+        "spanish": "el/la gerente",
+        "english": "manager"
+    },
+    {
+        "spanish": "el/la cantante",
+        "english": "singer"
+    },
+    {
+        "spanish": "la salida",
+        "english": "exit"
+    },
+    {
+        "spanish": "la entrada",
+        "english": "entrance"
+    },
+    {
+        "spanish": "la señora",
+        "english": "ma'am"
+    },
+    {
+        "spanish": "el parque",
+        "english": "park"
+    },
+    {
+        "spanish": "la nariz",
+        "english": "nose"
+    },
+    {
+        "spanish": "el abuelo",
+        "english": "grandfather"
+    },
+    {
+        "spanish": "interesante",
+        "english": "interesting"
+    },
+    {
+        "spanish": "el amigo",
+        "english": "friend"
+    },
+    {
+        "spanish": "paciente",
+        "english": "patient"
+    },
+    {
+        "spanish": "la lata",
+        "english": "can"
+    },
+    {
+        "spanish": "el ojo",
+        "english": "eye"
+    },
+    {
+        "spanish": "el huevo",
+        "english": "egg"
+    },
+    {
+        "spanish": "la pintura",
+        "english": "painting"
+    },
+    {
+        "spanish": "el bombero",
+        "english": "firefighter"
+    },
+    {
+        "spanish": "los padres",
+        "english": "parents"
+    },
+    {
+        "spanish": "el pintor",
+        "english": "painter"
+    },
+    {
+        "spanish": "el supermercado",
+        "english": "supermarket"
+    },
+    {
+        "spanish": "la política",
+        "english": "politics"
+    },
+    {
+        "spanish": "la energía",
+        "english": "energy"
+    },
+    {
+        "spanish": "encontrar",
+        "english": "to find"
+    },
+    {
+        "spanish": "pensar",
+        "english": "to think"
+    },
+    {
+        "spanish": "quedar",
+        "english": "to be left"
+    },
+    {
+        "spanish": "tocar",
+        "english": "to touch"
+    },
+    {
+        "spanish": "todavía",
+        "english": "still"
+    },
+    {
+        "spanish": "además",
+        "english": "besides"
+    },
+    {
+        "spanish": "bastante",
+        "english": "enough"
+    },
+    {
+        "spanish": "mayor",
+        "english": "older"
+    },
+    {
+        "spanish": "entre",
+        "english": "between"
+    },
+    {
+        "spanish": "cenar",
+        "english": "to have dinner"
+    },
+    {
+        "spanish": "llover",
+        "english": "to rain"
+    },
+    {
+        "spanish": "costar",
+        "english": "to cost"
+    },
+    {
+        "spanish": "moreno",
+        "english": "dark-haired"
+    },
+    {
+        "spanish": "discutir",
+        "english": "to discuss"
+    },
+    {
+        "spanish": "malo",
+        "english": "bad"
+    },
+    {
+        "spanish": "fácil",
+        "english": "easy"
+    },
+    {
+        "spanish": "la mochila",
+        "english": "backpack"
+    },
+    {
+        "spanish": "desayunar",
+        "english": "to have breakfast"
+    },
+    {
+        "spanish": "pintar",
+        "english": "to paint"
+    },
+    {
+        "spanish": "largo",
+        "english": "long"
+    },
+    {
+        "spanish": "el postre",
+        "english": "dessert"
+    },
+    {
+        "spanish": "el barrio",
+        "english": "neighborhood"
+    },
+    {
+        "spanish": "mejorar",
+        "english": "to improve"
+    },
+    {
+        "spanish": "la biblioteca",
+        "english": "library"
+    },
+    {
+        "spanish": "el árbol",
+        "english": "tree"
+    },
+    {
+        "spanish": "peligroso",
+        "english": "dangerous"
+    },
+    {
+        "spanish": "la clase",
+        "english": "class"
+    },
+    {
+        "spanish": "el jardín",
+        "english": "garden"
+    },
+    {
+        "spanish": "abierto",
+        "english": "open"
+    },
+    {
+        "spanish": "la rodilla",
+        "english": "knee"
+    },
+    {
+        "spanish": "la sal",
+        "english": "salt"
+    },
+    {
+        "spanish": "el señor",
+        "english": "sir"
+    },
+    {
+        "spanish": "la luz",
+        "english": "light"
+    },
+    {
+        "spanish": "la lechuga",
+        "english": "lettuce"
+    },
+    {
+        "spanish": "recomendar",
+        "english": "to recommend"
+    },
+    {
+        "spanish": "la natación",
+        "english": "swimming"
+    },
+    {
+        "spanish": "el lago",
+        "english": "lake"
+    },
+    {
+        "spanish": "la población",
+        "english": "population"
+    },
+    {
+        "spanish": "el pez",
+        "english": "fish"
+    },
+    {
+        "spanish": "delante de",
+        "english": "in front of"
+    },
+    {
+        "spanish": "el centro",
+        "english": "center"
+    },
+    {
+        "spanish": "antiguo",
+        "english": "old"
+    },
+    {
+        "spanish": "el fútbol",
+        "english": "soccer"
+    },
+    {
+        "spanish": "la enfermedad",
+        "english": "illness"
+    },
+    {
+        "spanish": "el anuncio",
+        "english": "advertisement"
+    },
+    {
+        "spanish": "el refresco",
+        "english": "soda"
+    },
+    {
+        "spanish": "el entrenador",
+        "english": "coach"
+    },
+    {
+        "spanish": "el empleo",
+        "english": "employment"
+    },
+    {
+        "spanish": "el enfermero",
+        "english": "nurse"
+    },
+    {
+        "spanish": "la montaña",
+        "english": "mountain"
+    },
+    {
+        "spanish": "la fruta",
+        "english": "fruit"
+    },
+    {
+        "spanish": "el arquitecto",
+        "english": "architect"
+    },
+    {
+        "spanish": "la profesión",
+        "english": "profession"
+    },
+    {
+        "spanish": "el estómago",
+        "english": "stomach"
+    },
+    {
+        "spanish": "el político",
+        "english": "politician"
+    },
+    {
+        "spanish": "llevar",
+        "english": "to wear"
+    },
+    {
+        "spanish": "cuando",
+        "english": "when"
+    },
+    {
+        "spanish": "por",
+        "english": "because of"
+    },
+    {
+        "spanish": "aprender",
+        "english": "to learn"
+    },
+    {
+        "spanish": "creer",
+        "english": "to believe"
+    },
+    {
+        "spanish": "entonces",
+        "english": "then"
+    },
+    {
+        "spanish": "desde",
+        "english": "from"
+    },
+    {
+        "spanish": "caminar",
+        "english": "to walk"
+    },
+    {
+        "spanish": "despertarse",
+        "english": "to wake up"
+    },
+    {
+        "spanish": "ayudar",
+        "english": "to help"
+    },
+    {
+        "spanish": "viejo",
+        "english": "old"
+    },
+    {
+        "spanish": "vender",
+        "english": "to sell"
+    },
+    {
+        "spanish": "morir",
+        "english": "to die"
+    },
+    {
+        "spanish": "la hija",
+        "english": "daughter"
+    },
+    {
+        "spanish": "recordar",
+        "english": "to remember"
+    },
+    {
+        "spanish": "amable",
+        "english": "kind"
+    },
+    {
+        "spanish": "el hotel",
+        "english": "hotel"
+    },
+    {
+        "spanish": "el desayuno",
+        "english": "breakfast"
+    },
+    {
+        "spanish": "el perro",
+        "english": "dog"
+    },
+    {
+        "spanish": "dibujar",
+        "english": "to draw"
+    },
+    {
+        "spanish": "caerse",
+        "english": "to fall"
+    },
+    {
+        "spanish": "el hospital",
+        "english": "hospital"
+    },
+    {
+        "spanish": "el hombre",
+        "english": "man"
+    },
+    {
+        "spanish": "el tío",
+        "english": "uncle"
+    },
+    {
+        "spanish": "el traje",
+        "english": "suit"
+    },
+    {
+        "spanish": "el vestido",
+        "english": "dress"
+    },
+    {
+        "spanish": "el espejo",
+        "english": "mirror"
+    },
+    {
+        "spanish": "el comedor",
+        "english": "dining room"
+    },
+    {
+        "spanish": "el cuello",
+        "english": "neck"
+    },
+    {
+        "spanish": "por qué",
+        "english": "why"
+    },
+    {
+        "spanish": "el regalo",
+        "english": "present"
+    },
+    {
+        "spanish": "de repente",
+        "english": "suddenly"
+    },
+    {
+        "spanish": "el helado",
+        "english": "ice cream"
+    },
+    {
+        "spanish": "el periódico",
+        "english": "newspaper"
+    },
+    {
+        "spanish": "antipático",
+        "english": "unfriendly"
+    },
+    {
+        "spanish": "la pared",
+        "english": "wall"
+    },
+    {
+        "spanish": "sucio",
+        "english": "dirty"
+    },
+    {
+        "spanish": "el aceite",
+        "english": "oil"
+    },
+    {
+        "spanish": "el jefe",
+        "english": "boss"
+    },
+    {
+        "spanish": "la manzana",
+        "english": "apple"
+    },
+    {
+        "spanish": "explicar",
+        "english": "to explain"
+    },
+    {
+        "spanish": "la pantalla",
+        "english": "screen"
+    },
+    {
+        "spanish": "el animal",
+        "english": "animal"
+    },
+    {
+        "spanish": "el gato",
+        "english": "cat"
+    },
+    {
+        "spanish": "el camarero",
+        "english": "waiter"
+    },
+    {
+        "spanish": "la selva",
+        "english": "jungle"
+    },
+    {
+        "spanish": "la entrevista",
+        "english": "interview"
+    },
+    {
+        "spanish": "la chica",
+        "english": "girl"
+    },
+    {
+        "spanish": "la guerra",
+        "english": "war"
+    },
+    {
+        "spanish": "la naranja",
+        "english": "orange"
+    },
+    {
+        "spanish": "ninguno",
+        "english": "no"
+    },
+    {
+        "spanish": "la costumbre",
+        "english": "custom"
+    },
+    {
+        "spanish": "limpio",
+        "english": "clean"
+    },
+    {
+        "spanish": "la fiesta",
+        "english": "party"
+    },
+    {
+        "spanish": "el queso",
+        "english": "cheese"
+    },
+    {
+        "spanish": "la gripe",
+        "english": "flu"
+    },
+    {
+        "spanish": "el dependiente",
+        "english": "salesclerk"
+    },
+    {
+        "spanish": "la toalla",
+        "english": "towel"
+    },
+    {
+        "spanish": "la flor",
+        "english": "flower"
+    },
+    {
+        "spanish": "picante",
+        "english": "hot"
+    },
+    {
+        "spanish": "pasar la aspiradora",
+        "english": "to vacuum"
+    },
+    {
+        "spanish": "la familia",
+        "english": "family"
+    },
+    {
+        "spanish": "debajo de",
+        "english": "under"
+    },
+    {
+        "spanish": "la ensalada",
+        "english": "salad"
+    },
+    {
+        "spanish": "la farmacia",
+        "english": "pharmacy"
+    },
+    {
+        "spanish": "la pastilla",
+        "english": "pill"
+    },
+    {
+        "spanish": "la tía",
+        "english": "aunt"
+    },
+    {
+        "spanish": "la verdura",
+        "english": "vegetable"
+    },
+    {
+        "spanish": "la tecnología",
+        "english": "technology"
+    },
+    {
+        "spanish": "la cafetería",
+        "english": "café"
+    },
+    {
+        "spanish": "dar",
+        "english": "to give"
+    },
+    {
+        "spanish": "traer",
+        "english": "to bring"
+    },
+    {
+        "spanish": "para",
+        "english": "for"
+    },
+    {
+        "spanish": "abrir",
+        "english": "to open"
+    },
+    {
+        "spanish": "llamar",
+        "english": "to call"
+    },
+    {
+        "spanish": "quedarse",
+        "english": "to stay"
+    },
+    {
+        "spanish": "hasta",
+        "english": "until"
+    },
+    {
+        "spanish": "recibir",
+        "english": "to receive"
+    },
+    {
+        "spanish": "recoger",
+        "english": "to pick up"
+    },
+    {
+        "spanish": "en",
+        "english": "in"
+    },
+    {
+        "spanish": "sin embargo",
+        "english": "however"
+    },
+    {
+        "spanish": "desear",
+        "english": "to want"
+    },
+    {
+        "spanish": "romper",
+        "english": "to break"
+    },
+    {
+        "spanish": "cambiar",
+        "english": "to change"
+    },
+    {
+        "spanish": "apagar",
+        "english": "to turn off"
+    },
+    {
+        "spanish": "fuerte",
+        "english": "strong"
+    },
+    {
+        "spanish": "alegre",
+        "english": "happy"
+    },
+    {
+        "spanish": "delgado",
+        "english": "thin"
+    },
+    {
+        "spanish": "el hijo",
+        "english": "son"
+    },
+    {
+        "spanish": "la red",
+        "english": "network"
+    },
+    {
+        "spanish": "casarse",
+        "english": "to get married"
+    },
+    {
+        "spanish": "barato",
+        "english": "cheap"
+    },
+    {
+        "spanish": "el piso",
+        "english": "floor"
+    },
+    {
+        "spanish": "la camisa",
+        "english": "shirt"
+    },
+    {
+        "spanish": "esquiar",
+        "english": "to ski"
+    },
+    {
+        "spanish": "peinarse",
+        "english": "to comb one's hair"
+    },
+    {
+        "spanish": "dormirse",
+        "english": "to fall asleep"
+    },
+    {
+        "spanish": "la maleta",
+        "english": "suitcase"
+    },
+    {
+        "spanish": "o",
+        "english": "or"
+    },
+    {
+        "spanish": "la ventana",
+        "english": "window"
+    },
+    {
+        "spanish": "durante",
+        "english": "during"
+    },
+    {
+        "spanish": "nuevo",
+        "english": "new"
+    },
+    {
+        "spanish": "el cuerpo",
+        "english": "body"
+    },
+    {
+        "spanish": "la corbata",
+        "english": "tie"
+    },
+    {
+        "spanish": "el barco",
+        "english": "boat"
+    },
+    {
+        "spanish": "el pájaro",
+        "english": "bird"
+    },
+    {
+        "spanish": "la canción",
+        "english": "song"
+    },
+    {
+        "spanish": "el maestro",
+        "english": "teacher"
+    },
+    {
+        "spanish": "el jabón",
+        "english": "soap"
+    },
+    {
+        "spanish": "solicitar",
+        "english": "to request"
+    },
+    {
+        "spanish": "el sillón",
+        "english": "armchair"
+    },
+    {
+        "spanish": "sano",
+        "english": "healthy"
+    },
+    {
+        "spanish": "la tos",
+        "english": "cough"
+    },
+    {
+        "spanish": "el baloncesto",
+        "english": "basketball"
+    },
+    {
+        "spanish": "pasarlo bien",
+        "english": "to have a good time"
+    },
+    {
+        "spanish": "el chico",
+        "english": "kid"
+    },
+    {
+        "spanish": "detrás de",
+        "english": "behind"
+    },
+    {
+        "spanish": "el autobús",
+        "english": "bus"
+    },
+    {
+        "spanish": "el cocinero",
+        "english": "cook"
+    },
+    {
+        "spanish": "hacer ejercicio",
+        "english": "to exercise"
+    },
+    {
+        "spanish": "la seguridad",
+        "english": "safety"
+    },
+    {
+        "spanish": "la botella",
+        "english": "bottle"
+    },
+    {
+        "spanish": "la universidad",
+        "english": "university"
+    },
+    {
+        "spanish": "el aeropuerto",
+        "english": "airport"
+    },
+    {
+        "spanish": "responsable",
+        "english": "responsible"
+    },
+    {
+        "spanish": "la oficina",
+        "english": "office"
+    },
+    {
+        "spanish": "hacer la cama",
+        "english": "to make the bed"
+    },
+    {
+        "spanish": "el mecánico",
+        "english": "mechanic"
+    },
+    {
+        "spanish": "el champú",
+        "english": "shampoo"
+    },
+    {
+        "spanish": "la excursión",
+        "english": "excursion"
+    },
+    {
+        "spanish": "moderno",
+        "english": "modern"
+    },
+    {
+        "spanish": "la hamburguesa",
+        "english": "hamburger"
+    },
+    {
+        "spanish": "las gafas de sol",
+        "english": "sunglasses"
+    },
+    {
+        "spanish": "la literatura",
+        "english": "literature"
+    },
+    {
+        "spanish": "el monumento",
+        "english": "monument"
+    },
+    {
+        "spanish": "la comedia",
+        "english": "comedy"
+    },
+    {
+        "spanish": "el secretario",
+        "english": "secretary"
+    },
+    {
+        "spanish": "el público",
+        "english": "audience"
+    },
+    {
+        "spanish": "la tarjeta de crédito",
+        "english": "credit card"
+    },
+    {
+        "spanish": "el cajero automático",
+        "english": "ATM"
+    },
+    {
+        "spanish": "¡Hola!",
+        "english": "Hello!"
+    },
+    {
+        "spanish": "entender",
+        "english": "to understand"
+    },
+    {
+        "spanish": "el número",
+        "english": "number"
+    },
+    {
+        "spanish": "cero",
+        "english": "zero"
+    },
+    {
+        "spanish": "uno",
+        "english": "one"
+    },
+    {
+        "spanish": "dos",
+        "english": "two"
+    },
+    {
+        "spanish": "tres",
+        "english": "three"
+    },
+    {
+        "spanish": "cuatro",
+        "english": "four"
+    },
+    {
+        "spanish": "cinco",
+        "english": "five"
+    },
+    {
+        "spanish": "seis",
+        "english": "six"
+    },
+    {
+        "spanish": "siete",
+        "english": "seven"
+    },
+    {
+        "spanish": "ocho",
+        "english": "eight"
+    },
+    {
+        "spanish": "nueve",
+        "english": "nine"
+    },
+    {
+        "spanish": "diez",
+        "english": "ten"
+    },
+    {
+        "spanish": "once",
+        "english": "eleven"
+    },
+    {
+        "spanish": "doce",
+        "english": "twelve"
+    },
+    {
+        "spanish": "trece",
+        "english": "thirteen"
+    },
+    {
+        "spanish": "el catorce",
+        "english": "fourteen"
+    },
+    {
+        "spanish": "quince",
+        "english": "fifteen"
+    },
+    {
+        "spanish": "dieciséis",
+        "english": "sixteen"
+    },
+    {
+        "spanish": "diecisiete",
+        "english": "seventeen"
+    },
+    {
+        "spanish": "el dieciocho",
+        "english": "eighteen"
+    },
+    {
+        "spanish": "el diecinueve",
+        "english": "nineteen"
+    },
+    {
+        "spanish": "veinte",
+        "english": "twenty"
+    },
+    {
+        "spanish": "escuchar",
+        "english": "to listen to"
+    },
+    {
+        "spanish": "conducir",
+        "english": "to drive"
+    },
+    {
+        "spanish": "cerrar",
+        "english": "to close"
+    },
+    {
+        "spanish": "servir",
+        "english": "to serve"
+    },
+    {
+        "spanish": "comenzar",
+        "english": "to begin"
+    },
+    {
+        "spanish": "lo siento",
+        "english": "I'm sorry"
+    },
+    {
+        "spanish": "pasear",
+        "english": "to go for a walk"
+    },
+    {
+        "spanish": "el amor",
+        "english": "love"
+    },
+    {
+        "spanish": "contestar",
+        "english": "to answer"
+    },
+    {
+        "spanish": "cansado",
+        "english": "tired"
+    },
+    {
+        "spanish": "olvidar",
+        "english": "to forget"
+    },
+    {
+        "spanish": "nada",
+        "english": "nothing"
+    },
+    {
+        "spanish": "visitar",
+        "english": "to visit"
+    },
+    {
+        "spanish": "la sala",
+        "english": "living room"
+    },
+    {
+        "spanish": "solo",
+        "english": "alone"
+    },
+    {
+        "spanish": "el corazón",
+        "english": "heart"
+    },
+    {
+        "spanish": "manejar",
+        "english": "to drive"
+    },
+    {
+        "spanish": "repetir",
+        "english": "to repeat"
+    },
+    {
+        "spanish": "irse",
+        "english": "to leave"
+    },
+    {
+        "spanish": "el cuaderno",
+        "english": "notebook"
+    },
+    {
+        "spanish": "el primo",
+        "english": "cousin"
+    },
+    {
+        "spanish": "patinar",
+        "english": "to skate"
+    },
+    {
+        "spanish": "la prueba",
+        "english": "test"
+    },
+    {
+        "spanish": "el viaje",
+        "english": "trip"
+    },
+    {
+        "spanish": "afeitarse",
+        "english": "to shave"
+    },
+    {
+        "spanish": "la cita",
+        "english": "appointment"
+    },
+    {
+        "spanish": "practicar",
+        "english": "to practice"
+    },
+    {
+        "spanish": "quién",
+        "english": "who"
+    },
+    {
+        "spanish": "menos",
+        "english": "less"
+    },
+    {
+        "spanish": "el baño",
+        "english": "bathroom"
+    },
+    {
+        "spanish": "la tierra",
+        "english": "land"
+    },
+    {
+        "spanish": "la vida",
+        "english": "life"
+    },
+    {
+        "spanish": "el cereal",
+        "english": "cereal"
+    },
+    {
+        "spanish": "corto",
+        "english": "short"
+    },
+    {
+        "spanish": "la sobrina",
+        "english": "niece"
+    },
+    {
+        "spanish": "el dueño",
+        "english": "owner"
+    },
+    {
+        "spanish": "el/la azúcar",
+        "english": "sugar"
+    },
+    {
+        "spanish": "la llave",
+        "english": "key"
+    },
+    {
+        "spanish": "la alfombra",
+        "english": "rug"
+    },
+    {
+        "spanish": "la amistad",
+        "english": "friendship"
+    },
+    {
+        "spanish": "la sopa",
+        "english": "soup"
+    },
+    {
+        "spanish": "la cebolla",
+        "english": "onion"
+    },
+    {
+        "spanish": "la mantequilla",
+        "english": "butter"
+    },
+    {
+        "spanish": "la gorra",
+        "english": "cap"
+    },
+    {
+        "spanish": "el sueldo",
+        "english": "salary"
+    },
+    {
+        "spanish": "la piedra",
+        "english": "stone"
+    },
+    {
+        "spanish": "veintiuno",
+        "english": "twenty-one"
+    },
+    {
+        "spanish": "veintidós",
+        "english": "twenty-two"
+    },
+    {
+        "spanish": "veintitrés",
+        "english": "twenty-three"
+    },
+    {
+        "spanish": "veinticuatro",
+        "english": "twenty-four"
+    },
+    {
+        "spanish": "veinticinco",
+        "english": "twenty-five"
+    },
+    {
+        "spanish": "veintiséis",
+        "english": "twenty-six"
+    },
+    {
+        "spanish": "veintisiete",
+        "english": "twenty-seven"
+    },
+    {
+        "spanish": "veintiocho",
+        "english": "twenty-eight"
+    },
+    {
+        "spanish": "el veintinueve",
+        "english": "twenty-nine"
+    },
+    {
+        "spanish": "el treinta",
+        "english": "thirty"
+    },
+    {
+        "spanish": "cuarenta",
+        "english": "forty"
+    },
+    {
+        "spanish": "cincuenta",
+        "english": "fifty"
+    },
+    {
+        "spanish": "sesenta",
+        "english": "sixty"
+    },
+    {
+        "spanish": "setenta",
+        "english": "seventy"
+    },
+    {
+        "spanish": "ochenta",
+        "english": "eighty"
+    },
+    {
+        "spanish": "noventa",
+        "english": "ninety"
+    },
+    {
+        "spanish": "ciento uno",
+        "english": "one hundred and one"
+    },
+    {
+        "spanish": "doscientos",
+        "english": "two hundred"
+    },
+    {
+        "spanish": "trescientos",
+        "english": "three hundred"
+    },
+    {
+        "spanish": "cuatrocientos",
+        "english": "four hundred"
+    },
+    {
+        "spanish": "quinientos",
+        "english": "five hundred"
+    },
+    {
+        "spanish": "seiscientos",
+        "english": "six hundred"
+    },
+    {
+        "spanish": "el setecientos",
+        "english": "seven hundred"
+    },
+    {
+        "spanish": "ochocientos",
+        "english": "eight hundred"
+    },
+    {
+        "spanish": "novecientos",
+        "english": "nine hundred"
+    },
+    {
+        "spanish": "mil",
+        "english": "thousand"
+    },
+    {
+        "spanish": "dos mil",
+        "english": "two thousand"
+    },
+    {
+        "spanish": "cien mil",
+        "english": "one hundred thousand"
+    },
+    {
+        "spanish": "doscientos mil",
+        "english": "two hundred thousand"
+    },
+    {
+        "spanish": "el millón",
+        "english": "million"
+    },
+    {
+        "spanish": "justo",
+        "english": "fair"
+    },
+    {
+        "spanish": "anteayer",
+        "english": "the day before yesterday"
+    },
+    {
+        "spanish": "la zanahoria",
+        "english": "carrot"
+    },
+    {
+        "spanish": "el alimento",
+        "english": "food"
+    },
+    {
+        "spanish": "pelirrojo",
+        "english": "red-haired"
+    },
+    {
+        "spanish": "el tenedor",
+        "english": "fork"
+    },
+    {
+        "spanish": "cuándo",
+        "english": "when"
+    },
+    {
+        "spanish": "el empleado",
+        "english": "employee"
+    },
+    {
+        "spanish": "el jamón",
+        "english": "ham"
+    },
+    {
+        "spanish": "valiente",
+        "english": "brave"
+    },
+    {
+        "spanish": "el ratón",
+        "english": "mouse"
+    },
+    {
+        "spanish": "tomar el sol",
+        "english": "to sunbathe"
+    },
+    {
+        "spanish": "cerrado",
+        "english": "closed"
+    },
+    {
+        "spanish": "la manta",
+        "english": "blanket"
+    },
+    {
+        "spanish": "cuánto",
+        "english": "how much"
+    },
+    {
+        "spanish": "reducir",
+        "english": "to reduce"
+    },
+    {
+        "spanish": "el tren",
+        "english": "train"
+    },
+    {
+        "spanish": "el sombrero",
+        "english": "hat"
+    },
+    {
+        "spanish": "el problema",
+        "english": "problem"
+    },
+    {
+        "spanish": "el contador",
+        "english": "accountant"
+    },
+    {
+        "spanish": "el clima",
+        "english": "climate"
+    },
+    {
+        "spanish": "el teléfono",
+        "english": "telephone"
+    },
+    {
+        "spanish": "el metro",
+        "english": "metro"
+    },
+    {
+        "spanish": "dónde",
+        "english": "where"
+    },
+    {
+        "spanish": "la compañía",
+        "english": "company"
+    },
+    {
+        "spanish": "el mapa",
+        "english": "map"
+    },
+    {
+        "spanish": "el pantalón",
+        "english": "pants"
+    },
+    {
+        "spanish": "la uva",
+        "english": "grape"
+    },
+    {
+        "spanish": "el científico",
+        "english": "scientist"
+    },
+    {
+        "spanish": "el jugador",
+        "english": "player"
+    },
+    {
+        "spanish": "el oeste",
+        "english": "west"
+    },
+    {
+        "spanish": "desordenado",
+        "english": "untidy"
+    },
+    {
+        "spanish": "la artesanía",
+        "english": "crafts"
+    },
+    {
+        "spanish": "la galleta",
+        "english": "cookie"
+    },
+    {
+        "spanish": "la vivienda",
+        "english": "housing"
+    },
+    {
+        "spanish": "el zapato",
+        "english": "shoe"
+    },
+    {
+        "spanish": "el peluquero",
+        "english": "hairdresser"
+    },
+    {
+        "spanish": "la bota",
+        "english": "boot"
+    },
+    {
+        "spanish": "el cliente",
+        "english": "customer"
+    },
+    {
+        "spanish": "los abuelos",
+        "english": "grandparents"
+    },
+    {
+        "spanish": "la actuación",
+        "english": "performance"
+    },
+    {
+        "spanish": "la zapatería",
+        "english": "shoe store"
+    },
+    {
+        "spanish": "las matemáticas",
+        "english": "mathematics"
+    },
+    {
+        "spanish": "el tiempo libre",
+        "english": "free time"
+    },
+    {
+        "spanish": "la danza",
+        "english": "dance"
+    },
+    {
+        "spanish": "importante",
+        "english": "important"
+    },
+    {
+        "spanish": "la reunión",
+        "english": "meeting"
+    },
+    {
+        "spanish": "contaminar",
+        "english": "to pollute"
+    },
+    {
+        "spanish": "el yogur",
+        "english": "yogurt"
+    },
+    {
+        "spanish": "la cultura",
+        "english": "culture"
+    },
+    {
+        "spanish": "el pasaporte",
+        "english": "passport"
+    },
+    {
+        "spanish": "el voleibol",
+        "english": "volleyball"
+    },
+    {
+        "spanish": "el músico",
+        "english": "musician"
+    },
+    {
+        "spanish": "escuchar música",
+        "english": "to listen to music"
+    },
+    {
+        "spanish": "el documental",
+        "english": "documentary"
+    },
+    {
+        "spanish": "mejor",
+        "english": "better"
+    },
+    {
+        "spanish": "como",
+        "english": "like"
+    },
+    {
+        "spanish": "dejar",
+        "english": "to leave"
+    },
+    {
+        "spanish": "oír",
+        "english": "to hear"
+    },
+    {
+        "spanish": "gracias",
+        "english": "thank you"
+    },
+    {
+        "spanish": "pero",
+        "english": "but"
+    },
+    {
+        "spanish": "ya",
+        "english": "already"
+    },
+    {
+        "spanish": "regresar",
+        "english": "to return"
+    },
+    {
+        "spanish": "este",
+        "english": "this"
+    },
+    {
+        "spanish": "la cuenta",
+        "english": "check"
+    },
+    {
+        "spanish": "ahora",
+        "english": "now"
+    },
+    {
+        "spanish": "con",
+        "english": "with"
+    },
+    {
+        "spanish": "sentirse",
+        "english": "to feel"
+    },
+    {
+        "spanish": "el cumpleaños",
+        "english": "birthday"
+    },
+    {
+        "spanish": "perezoso",
+        "english": "lazy"
+    },
+    {
+        "spanish": "listo",
+        "english": "ready"
+    },
+    {
+        "spanish": "añadir",
+        "english": "to add"
+    },
+    {
+        "spanish": "el pueblo",
+        "english": "town"
+    },
+    {
+        "spanish": "a menudo",
+        "english": "often"
+    },
+    {
+        "spanish": "nacer",
+        "english": "to be born"
+    },
+    {
+        "spanish": "el sobrino",
+        "english": "nephew"
+    },
+    {
+        "spanish": "dirigir",
+        "english": "to run"
+    },
+    {
+        "spanish": "el almuerzo",
+        "english": "lunch"
+    },
+    {
+        "spanish": "el apellido",
+        "english": "last name"
+    },
+    {
+        "spanish": "el lápiz",
+        "english": "pencil"
+    },
+    {
+        "spanish": "la carrera",
+        "english": "career"
+    },
+    {
+        "spanish": "el idioma",
+        "english": "language"
+    },
+    {
+        "spanish": "ofrecer",
+        "english": "to offer"
+    },
+    {
+        "spanish": "el nombre",
+        "english": "name"
+    },
+    {
+        "spanish": "el escritorio",
+        "english": "desk"
+    },
+    {
+        "spanish": "muy",
+        "english": "very"
+    },
+    {
+        "spanish": "el dolor",
+        "english": "pain"
+    },
+    {
+        "spanish": "tal vez",
+        "english": "maybe"
+    },
+    {
+        "spanish": "la pelota",
+        "english": "ball"
+    },
+    {
+        "spanish": "luchar",
+        "english": "to fight"
+    },
+    {
+        "spanish": "primero",
+        "english": "first"
+    },
+    {
+        "spanish": "segundo",
+        "english": "second"
+    },
+    {
+        "spanish": "tercero",
+        "english": "third"
+    },
+    {
+        "spanish": "cuarto",
+        "english": "fourth"
+    },
+    {
+        "spanish": "quinto",
+        "english": "fifth"
+    },
+    {
+        "spanish": "sexto",
+        "english": "sixth"
+    },
+    {
+        "spanish": "séptimo",
+        "english": "seventh"
+    },
+    {
+        "spanish": "octavo",
+        "english": "eighth"
+    },
+    {
+        "spanish": "noveno",
+        "english": "ninth"
+    },
+    {
+        "spanish": "décimo",
+        "english": "tenth"
+    },
+    {
+        "spanish": "la vergüenza",
+        "english": "shame"
+    },
+    {
+        "spanish": "el consejo",
+        "english": "advice"
+    },
+    {
+        "spanish": "el cuchillo",
+        "english": "knife"
+    },
+    {
+        "spanish": "perdón",
+        "english": "excuse me"
+    },
+    {
+        "spanish": "la carretera",
+        "english": "road"
+    },
+    {
+        "spanish": "obtener",
+        "english": "to obtain"
+    },
+    {
+        "spanish": "mal",
+        "english": "bad"
+    },
+    {
+        "spanish": "el bolígrafo",
+        "english": "pen"
+    },
+    {
+        "spanish": "el ajo",
+        "english": "garlic"
+    },
+    {
+        "spanish": "el/la estudiante",
+        "english": "student"
+    },
+    {
+        "spanish": "sabroso",
+        "english": "tasty"
+    },
+    {
+        "spanish": "actuar",
+        "english": "to act"
+    },
+    {
+        "spanish": "el drama",
+        "english": "drama"
+    },
+    {
+        "spanish": "la llegada",
+        "english": "arrival"
+    },
+    {
+        "spanish": "la garganta",
+        "english": "throat"
+    },
+    {
+        "spanish": "la estrella",
+        "english": "star"
+    },
+    {
+        "spanish": "el estadio",
+        "english": "stadium"
+    },
+    {
+        "spanish": "la pimienta",
+        "english": "pepper"
+    },
+    {
+        "spanish": "invitar",
+        "english": "to invite"
+    },
+    {
+        "spanish": "el/la deportista",
+        "english": "athlete"
+    },
+    {
+        "spanish": "la blusa",
+        "english": "blouse"
+    },
+    {
+        "spanish": "enamorarse",
+        "english": "to fall in love"
+    },
+    {
+        "spanish": "el maíz",
+        "english": "corn"
+    },
+    {
+        "spanish": "el ordenador",
+        "english": "computer"
+    },
+    {
+        "spanish": "el diseño",
+        "english": "design"
+    },
+    {
+        "spanish": "la imagen",
+        "english": "image"
+    },
+    {
+        "spanish": "el paquete",
+        "english": "package"
+    },
+    {
+        "spanish": "elegante",
+        "english": "elegant"
+    },
+    {
+        "spanish": "por ejemplo",
+        "english": "for example"
+    },
+    {
+        "spanish": "la medicina",
+        "english": "medicine"
+    },
+    {
+        "spanish": "el desierto",
+        "english": "desert"
+    },
+    {
+        "spanish": "el espectáculo",
+        "english": "show"
+    },
+    {
+        "spanish": "el béisbol",
+        "english": "baseball"
+    },
+    {
+        "spanish": "el té",
+        "english": "tea"
+    },
+    {
+        "spanish": "la escultura",
+        "english": "sculpture"
+    },
+    {
+        "spanish": "la joyería",
+        "english": "jewelry store"
+    },
+    {
+        "spanish": "el artículo",
+        "english": "article"
+    },
+    {
+        "spanish": "la igualdad",
+        "english": "equality"
+    },
+    {
+        "spanish": "la educación",
+        "english": "education"
+    },
+    {
+        "spanish": "el apartamento",
+        "english": "apartment"
+    },
+    {
+        "spanish": "el bailarín",
+        "english": "dancer"
+    },
+    {
+        "spanish": "el reciclaje",
+        "english": "recycling"
+    },
+    {
+        "spanish": "el escultor",
+        "english": "sculptor"
+    },
+    {
+        "spanish": "el francés",
+        "english": "French"
+    },
+    {
+        "spanish": "el voluntario",
+        "english": "volunteer"
+    },
+    {
+        "spanish": "la pasta de dientes",
+        "english": "toothpaste"
+    },
+    {
+        "spanish": "el producto",
+        "english": "product"
+    },
+    {
+        "spanish": "histórico",
+        "english": "historical"
+    },
+    {
+        "spanish": "allá",
+        "english": "there"
+    },
+    {
+        "spanish": "la noche",
+        "english": "night"
+    },
+    {
+        "spanish": "el juego",
+        "english": "game"
+    },
+    {
+        "spanish": "el videojuego",
+        "english": "video game"
+    },
+    {
+        "spanish": "la agencia de viajes",
+        "english": "travel agency"
+    },
+    {
+        "spanish": "sacar",
+        "english": "to take out"
+    },
+    {
+        "spanish": "divertirse",
+        "english": "to have fun"
+    },
+    {
+        "spanish": "bien",
+        "english": "well"
+    },
+    {
+        "spanish": "lograr",
+        "english": "to achieve"
+    },
+    {
+        "spanish": "casi",
+        "english": "almost"
+    },
+    {
+        "spanish": "usar",
+        "english": "to use"
+    },
+    {
+        "spanish": "cuidar",
+        "english": "to take care of"
+    },
+    {
+        "spanish": "la cara",
+        "english": "face"
+    },
+    {
+        "spanish": "la tarea",
+        "english": "homework"
+    },
+    {
+        "spanish": "sin",
+        "english": "without"
+    },
+    {
+        "spanish": "el pelo",
+        "english": "hair"
+    },
+    {
+        "spanish": "feliz",
+        "english": "happy"
+    },
+    {
+        "spanish": "guardar",
+        "english": "to save"
+    },
+    {
+        "spanish": "poco",
+        "english": "little"
+    },
+    {
+        "spanish": "enojado",
+        "english": "angry"
+    },
+    {
+        "spanish": "llenar",
+        "english": "to fill"
+    },
+    {
+        "spanish": "el reloj",
+        "english": "watch"
+    },
+    {
+        "spanish": "cruzar",
+        "english": "to cross"
+    },
+    {
+        "spanish": "gordo",
+        "english": "fat"
+    },
+    {
+        "spanish": "preparar",
+        "english": "to prepare"
+    },
+    {
+        "spanish": "peor",
+        "english": "worse"
+    },
+    {
+        "spanish": "la habitación",
+        "english": "room"
+    },
+    {
+        "spanish": "desarrollar",
+        "english": "to develop"
+    },
+    {
+        "spanish": "el caballo",
+        "english": "horse"
+    },
+    {
+        "spanish": "la basura",
+        "english": "trash"
+    },
+    {
+        "spanish": "el correo",
+        "english": "mail"
+    },
+    {
+        "spanish": "el ruido",
+        "english": "noise"
+    },
+    {
+        "spanish": "el nieto",
+        "english": "grandson"
+    },
+    {
+        "spanish": "el paisaje",
+        "english": "landscape"
+    },
+    {
+        "spanish": "pobre",
+        "english": "poor"
+    },
+    {
+        "spanish": "la esposa",
+        "english": "wife"
+    },
+    {
+        "spanish": "lento",
+        "english": "slow"
+    },
+    {
+        "spanish": "el pasillo",
+        "english": "hall"
+    },
+    {
+        "spanish": "la cosa",
+        "english": "thing"
+    },
+    {
+        "spanish": "la revista",
+        "english": "magazine"
+    },
+    {
+        "spanish": "el esposo",
+        "english": "husband"
+    },
+    {
+        "spanish": "nevar",
+        "english": "to snow"
+    },
+    {
+        "spanish": "la cuchara",
+        "english": "spoon"
+    },
+    {
+        "spanish": "la estufa",
+        "english": "stove"
+    },
+    {
+        "spanish": "odiar",
+        "english": "to hate"
+    },
+    {
+        "spanish": "regatear",
+        "english": "to bargain"
+    },
+    {
+        "spanish": "grabar",
+        "english": "to record"
+    },
+    {
+        "spanish": "sorprender",
+        "english": "to surprise"
+    },
+    {
+        "spanish": "cerca de",
+        "english": "close to"
+    },
+    {
+        "spanish": "antes de",
+        "english": "before"
+    },
+    {
+        "spanish": "no",
+        "english": "no"
+    },
+    {
+        "spanish": "sí",
+        "english": "yes"
+    },
+    {
+        "spanish": "el pavo",
+        "english": "turkey"
+    },
+    {
+        "spanish": "pesado",
+        "english": "heavy"
+    },
+    {
+        "spanish": "cada",
+        "english": "each"
+    },
+    {
+        "spanish": "mi",
+        "english": "my"
+    },
+    {
+        "spanish": "todo",
+        "english": "all"
+    },
+    {
+        "spanish": "allí",
+        "english": "there"
+    },
+    {
+        "spanish": "cerca",
+        "english": "close"
+    },
+    {
+        "spanish": "lejos",
+        "english": "far"
+    },
+    {
+        "spanish": "tanto",
+        "english": "so much"
+    },
+    {
+        "spanish": "tan",
+        "english": "so"
+    },
+    {
+        "spanish": "haber",
+        "english": "to have"
+    },
+    {
+        "spanish": "mucho gusto",
+        "english": "nice to meet you"
+    },
+    {
+        "spanish": "feliz cumpleaños",
+        "english": "happy birthday"
+    },
+    {
+        "spanish": "aunque",
+        "english": "even though"
+    },
+    {
+        "spanish": "mientras",
+        "english": "while"
+    },
+    {
+        "spanish": "si",
+        "english": "if"
+    },
+    {
+        "spanish": "y",
+        "english": "and"
+    },
+    {
+        "spanish": "pues",
+        "english": "well"
+    },
+    {
+        "spanish": "parecer",
+        "english": "to seem"
+    },
+    {
+        "spanish": "almorzar",
+        "english": "to have lunch"
+    },
+    {
+        "spanish": "disfrutar",
+        "english": "to enjoy"
+    },
+    {
+        "spanish": "bajar",
+        "english": "to go down"
+    },
+    {
+        "spanish": "asistir",
+        "english": "to attend"
+    },
+    {
+        "spanish": "caer",
+        "english": "to fall"
+    },
+    {
+        "spanish": "caber",
+        "english": "to fit"
+    },
+    {
+        "spanish": "reír",
+        "english": "to laugh"
+    },
+    {
+        "spanish": "el miedo",
+        "english": "fear"
+    },
+    {
+        "spanish": "la pizza",
+        "english": "pizza"
+    },
+    {
+        "spanish": "el chocolate",
+        "english": "chocolate"
+    },
+    {
+        "spanish": "la verdad",
+        "english": "truth"
+    },
+    {
+        "spanish": "el puesto",
+        "english": "position"
+    },
+    {
+        "spanish": "la voz",
+        "english": "voice"
+    },
+    {
+        "spanish": "el sonido",
+        "english": "sound"
+    },
+    {
+        "spanish": "el traductor",
+        "english": "translator"
+    },
+    {
+        "spanish": "la pronunciación",
+        "english": "pronunciation"
+    },
+    {
+        "spanish": "el cuarto",
+        "english": "room"
+    },
+    {
+        "spanish": "el doctor",
+        "english": "doctor"
+    },
+    {
+        "spanish": "el tiempo",
+        "english": "weather"
+    },
+    {
+        "spanish": "según",
+        "english": "according to"
+    },
+    {
+        "spanish": "de",
+        "english": "from"
+    },
+    {
+        "spanish": "de",
+        "english": "of"
+    },
+    {
+        "spanish": "quejarse",
+        "english": "to complain"
+    },
+    {
+        "spanish": "contigo",
+        "english": "with you"
+    },
+    {
+        "spanish": "quien",
+        "english": "who"
+    },
+    {
+        "spanish": "sentarse",
+        "english": "to sit"
+    },
+    {
+        "spanish": "temprano",
+        "english": "early"
+    },
+    {
+        "spanish": "pasar",
+        "english": "to pass"
+    },
+    {
+        "spanish": "traducir",
+        "english": "to translate"
+    },
+    {
+        "spanish": "ganar",
+        "english": "to earn"
+    },
+    {
+        "spanish": "limpiar",
+        "english": "to clean"
+    },
+    {
+        "spanish": "pasar",
+        "english": "to happen"
+    },
+    {
+        "spanish": "tratar",
+        "english": "to treat"
+    },
+    {
+        "spanish": "escoger",
+        "english": "to choose"
+    },
+    {
+        "spanish": "devolver",
+        "english": "to return"
+    },
+    {
+        "spanish": "parar",
+        "english": "to stop"
+    },
+    {
+        "spanish": "echar",
+        "english": "to throw"
+    },
+    {
+        "spanish": "sentir",
+        "english": "to feel"
+    },
+    {
+        "spanish": "quitar",
+        "english": "to take away"
+    },
+    {
+        "spanish": "entregar",
+        "english": "to turn in"
+    },
+    {
+        "spanish": "acabar",
+        "english": "to finish"
+    },
+    {
+        "spanish": "alcanzar",
+        "english": "to reach"
+    },
+    {
+        "spanish": "de nada",
+        "english": "you're welcome"
+    },
+    {
+        "spanish": "por favor",
+        "english": "please"
+    },
+    {
+        "spanish": "a",
+        "english": "to"
+    },
+    {
+        "spanish": "las cosas",
+        "english": "things"
+    },
+    {
+        "spanish": "ordenar",
+        "english": "to order"
+    },
+    {
+        "spanish": "la prisa",
+        "english": "hurry"
+    },
+    {
+        "spanish": "arriba",
+        "english": "up"
+    },
+    {
+        "spanish": "la idea",
+        "english": "idea"
+    },
+    {
+        "spanish": "¡Oye!",
+        "english": "Hey!"
+    },
+    {
+        "spanish": "el mango",
+        "english": "mango"
+    },
+    {
+        "spanish": "la ola",
+        "english": "wave"
+    },
+    {
+        "spanish": "el deseo",
+        "english": "wish"
+    },
+    {
+        "spanish": "la cola",
+        "english": "tail"
+    },
+    {
+        "spanish": "acercarse",
+        "english": "to approach"
+    },
+    {
+        "spanish": "el conejo",
+        "english": "rabbit"
+    },
+    {
+        "spanish": "ambos",
+        "english": "both"
+    },
+    {
+        "spanish": "golpear",
+        "english": "to hit"
+    },
+    {
+        "spanish": "el propósito",
+        "english": "purpose"
+    },
+    {
+        "spanish": "perdido",
+        "english": "lost"
+    },
+    {
+        "spanish": "la lista",
+        "english": "list"
+    },
+    {
+        "spanish": "la China",
+        "english": "China"
+    },
+    {
+        "spanish": "fingir",
+        "english": "to pretend"
+    },
+    {
+        "spanish": "el palo",
+        "english": "stick"
+    },
+    {
+        "spanish": "rezar",
+        "english": "to pray"
+    },
+    {
+        "spanish": "legal",
+        "english": "legal"
+    },
+    {
+        "spanish": "animar",
+        "english": "to encourage"
+    },
+    {
+        "spanish": "asustado",
+        "english": "scared"
+    },
+    {
+        "spanish": "la siesta",
+        "english": "nap"
+    },
+    {
+        "spanish": "soso",
+        "english": "bland"
+    },
+    {
+        "spanish": "el cordero",
+        "english": "lamb"
+    },
+    {
+        "spanish": "la cosecha",
+        "english": "harvest"
+    },
+    {
+        "spanish": "el cajón",
+        "english": "drawer"
+    },
+    {
+        "spanish": "morder",
+        "english": "to bite"
+    },
+    {
+        "spanish": "la traducción",
+        "english": "translation"
+    },
+    {
+        "spanish": "perseguir",
+        "english": "to pursue"
+    },
+    {
+        "spanish": "exigente",
+        "english": "demanding"
+    },
+    {
+        "spanish": "cualquiera",
+        "english": "any"
+    },
+    {
+        "spanish": "el pedazo",
+        "english": "piece"
+    },
+    {
+        "spanish": "empujar",
+        "english": "to push"
+    },
+    {
+        "spanish": "el tesoro",
+        "english": "treasure"
+    },
+    {
+        "spanish": "común",
+        "english": "common"
+    },
+    {
+        "spanish": "el bolsillo",
+        "english": "pocket"
+    },
+    {
+        "spanish": "la disculpa",
+        "english": "apology"
+    },
+    {
+        "spanish": "asombroso",
+        "english": "amazing"
+    },
+    {
+        "spanish": "mojado",
+        "english": "wet"
+    },
+    {
+        "spanish": "el favor",
+        "english": "favor"
+    },
+    {
+        "spanish": "coser",
+        "english": "to sew"
+    },
+    {
+        "spanish": "Australia",
+        "english": "Australia"
+    },
+    {
+        "spanish": "el tocino",
+        "english": "bacon"
+    },
+    {
+        "spanish": "ciego",
+        "english": "blind"
+    },
+    {
+        "spanish": "el sustantivo",
+        "english": "noun"
+    },
+    {
+        "spanish": "Estados Unidos",
+        "english": "United States"
+    },
+    {
+        "spanish": "el coco",
+        "english": "coconut"
+    },
+    {
+        "spanish": "el alemán",
+        "english": "German"
+    },
+    {
+        "spanish": "el dedo",
+        "english": "finger"
+    },
+    {
+        "spanish": "los hijos",
+        "english": "children"
+    },
+    {
+        "spanish": "celebrar",
+        "english": "to celebrate"
+    },
+    {
+        "spanish": "callado",
+        "english": "silent"
+    },
+    {
+        "spanish": "dañar",
+        "english": "to damage"
+    },
+    {
+        "spanish": "la oreja",
+        "english": "ear"
+    },
+    {
+        "spanish": "saludable",
+        "english": "healthy"
+    },
+    {
+        "spanish": "el equipaje",
+        "english": "luggage"
+    },
+    {
+        "spanish": "raro",
+        "english": "weird"
+    },
+    {
+        "spanish": "el alojamiento",
+        "english": "accommodations"
+    },
+    {
+        "spanish": "durar",
+        "english": "to last"
+    },
+    {
+        "spanish": "el gobierno",
+        "english": "government"
+    },
+    {
+        "spanish": "el ascensor",
+        "english": "elevator"
+    },
+    {
+        "spanish": "dejar de",
+        "english": "to stop"
+    },
+    {
+        "spanish": "sociable",
+        "english": "sociable"
+    },
+    {
+        "spanish": "la lavadora",
+        "english": "washing machine"
+    },
+    {
+        "spanish": "el teclado",
+        "english": "keyboard"
+    },
+    {
+        "spanish": "la tormenta",
+        "english": "storm"
+    },
+    {
+        "spanish": "las noticias",
+        "english": "news"
+    },
+    {
+        "spanish": "el sendero",
+        "english": "path"
+    },
+    {
+        "spanish": "ordenado",
+        "english": "tidy"
+    },
+    {
+        "spanish": "el sur",
+        "english": "south"
+    },
+    {
+        "spanish": "poner la mesa",
+        "english": "to set the table"
+    },
+    {
+        "spanish": "el conductor",
+        "english": "driver"
+    },
+    {
+        "spanish": "insistir",
+        "english": "to insist"
+    },
+    {
+        "spanish": "el atún",
+        "english": "tuna"
+    },
+    {
+        "spanish": "la computadora",
+        "english": "computer"
+    },
+    {
+        "spanish": "el programa",
+        "english": "program"
+    },
+    {
+        "spanish": "la planta",
+        "english": "plant"
+    },
+    {
+        "spanish": "el vendedor",
+        "english": "salesperson"
+    },
+    {
+        "spanish": "sacar la basura",
+        "english": "to take out the trash"
+    },
+    {
+        "spanish": "el canal",
+        "english": "channel"
+    },
+    {
+        "spanish": "el pasatiempo",
+        "english": "hobby"
+    },
+    {
+        "spanish": "la oferta",
+        "english": "offer"
+    },
+    {
+        "spanish": "la pobreza",
+        "english": "poverty"
+    },
+    {
+        "spanish": "la libertad",
+        "english": "freedom"
+    },
+    {
+        "spanish": "el destino",
+        "english": "destination"
+    },
+    {
+        "spanish": "delicioso",
+        "english": "delicious"
+    },
+    {
+        "spanish": "animado",
+        "english": "lively"
+    },
+    {
+        "spanish": "el anfitrión",
+        "english": "host"
+    },
+    {
+        "spanish": "por la mañana",
+        "english": "in the morning"
+    },
+    {
+        "spanish": "el garaje",
+        "english": "garage"
+    },
+    {
+        "spanish": "impaciente",
+        "english": "impatient"
+    },
+    {
+        "spanish": "investigar",
+        "english": "to investigate"
+    },
+    {
+        "spanish": "la novela",
+        "english": "novel"
+    },
+    {
+        "spanish": "el/la guía",
+        "english": "guide"
+    },
+    {
+        "spanish": "la obra de teatro",
+        "english": "play"
+    },
+    {
+        "spanish": "después de",
+        "english": "after"
+    },
+    {
+        "spanish": "el/la dentista",
+        "english": "dentist"
+    },
+    {
+        "spanish": "practicar deportes",
+        "english": "to play sports"
+    },
+    {
+        "spanish": "la calculadora",
+        "english": "calculator"
+    },
+    {
+        "spanish": "el huracán",
+        "english": "hurricane"
+    },
+    {
+        "spanish": "la fábrica",
+        "english": "factory"
+    },
+    {
+        "spanish": "la arquitectura",
+        "english": "architecture"
+    },
+    {
+        "spanish": "el transporte",
+        "english": "transportation"
+    },
+    {
+        "spanish": "romántico",
+        "english": "romantic"
+    },
+    {
+        "spanish": "clásico",
+        "english": "classical"
+    },
+    {
+        "spanish": "el menú",
+        "english": "menu"
+    },
+    {
+        "spanish": "que",
+        "english": "that"
+    },
+    {
+        "spanish": "esperar",
+        "english": "to hope"
+    },
+    {
+        "spanish": "subir",
+        "english": "to go up"
+    },
+    {
+        "spanish": "andar",
+        "english": "to walk"
+    },
+    {
+        "spanish": "mandar",
+        "english": "to send"
+    },
+    {
+        "spanish": "el este",
+        "english": "east"
+    },
+    {
+        "spanish": "cómo",
+        "english": "how"
+    },
+    {
+        "spanish": "mostrar",
+        "english": "to show"
+    },
+    {
+        "spanish": "aquí",
+        "english": "here"
+    },
+    {
+        "spanish": "lavar",
+        "english": "to wash"
+    },
+    {
+        "spanish": "encantar",
+        "english": "to love"
+    },
+    {
+        "spanish": "prestar",
+        "english": "to lend"
+    },
+    {
+        "spanish": "arreglar",
+        "english": "to fix"
+    },
+    {
+        "spanish": "mismo",
+        "english": "same"
+    },
+    {
+        "spanish": "sonar",
+        "english": "to ring"
+    },
+    {
+        "spanish": "la palabra",
+        "english": "word"
+    },
+    {
+        "spanish": "ojalá",
+        "english": "hopefully"
+    },
+    {
+        "spanish": "comprender",
+        "english": "to understand"
+    },
+    {
+        "spanish": "preguntar",
+        "english": "to ask"
+    },
+    {
+        "spanish": "evitar",
+        "english": "to avoid"
+    },
+    {
+        "spanish": "cortar",
+        "english": "to cut"
+    },
+    {
+        "spanish": "la carta",
+        "english": "letter"
+    },
+    {
+        "spanish": "el reloj",
+        "english": "clock"
+    },
+    {
+        "spanish": "más",
+        "english": "more"
+    }
+]

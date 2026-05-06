@@ -1,0 +1,12 @@
+FROM node:20-alpine AS build
+WORKDIR /app
+
+COPY front/package*.json ./front/
+RUN npm ci --prefix front
+
+COPY front ./front
+RUN npm run build --prefix front
+
+FROM nginx:1.27-alpine
+COPY deploy/nginx.conf /etc/nginx/conf.d/default.conf
+COPY --from=build /app/front/dist/spanish /usr/share/nginx/html

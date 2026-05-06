@@ -1,0 +1,554 @@
+[
+    {
+        "spanish": "el móvil",
+        "english": "mobile"
+    },
+    {
+        "spanish": "el móvil",
+        "english": "cellphone"
+    },
+    {
+        "spanish": "el teléfono",
+        "english": "phone"
+    },
+    {
+        "spanish": "la tijera",
+        "english": "scissors"
+    },
+    {
+        "spanish": "el lápiz",
+        "english": "pencil"
+    },
+    {
+        "spanish": "la pluma",
+        "english": "pen"
+    },
+    {
+        "spanish": "el bolígrafo",
+        "english": "pen"
+    },
+    {
+        "spanish": "la librera",
+        "english": "bookcase"
+    },
+    {
+        "spanish": "la pila",
+        "english": "battery"
+    },
+    {
+        "spanish": "el escritorio",
+        "english": "desk"
+    },
+    {
+        "spanish": "la silla",
+        "english": "chair"
+    },
+    {
+        "spanish": "la carta",
+        "english": "letter"
+    },
+    {
+        "spanish": "el celo",
+        "english": "Scotch tape"
+    },
+    {
+        "spanish": "la regla",
+        "english": "ruler"
+    },
+    {
+        "spanish": "la gomita",
+        "english": "rubber band"
+    },
+    {
+        "spanish": "la papelera",
+        "english": "wastepaper basket"
+    },
+    {
+        "spanish": "el clip",
+        "english": "paper clip"
+    },
+    {
+        "spanish": "la envoltura",
+        "english": "envelope"
+    },
+    {
+        "spanish": "el papel",
+        "english": "paper"
+    },
+    {
+        "spanish": "la impresora",
+        "english": "printer"
+    },
+    {
+        "spanish": "el ordenador",
+        "english": "computer"
+    },
+    {
+        "spanish": "la carpeta",
+        "english": "folder"
+    },
+    {
+        "spanish": "el rotulador fluorescente",
+        "english": "highlighter"
+    },
+    {
+        "spanish": "la pizarra blanca",
+        "english": "whiteboard"
+    },
+    {
+        "spanish": "el comercio",
+        "english": "commerce"
+    },
+    {
+        "spanish": "el proyecto",
+        "english": "project"
+    },
+    {
+        "spanish": "reglamentar",
+        "english": "to regulate"
+    },
+    {
+        "spanish": "cadena de suministro",
+        "english": "supply chain"
+    },
+    {
+        "spanish": "el/la gerente",
+        "english": "manager"
+    },
+    {
+        "spanish": "la encomienda",
+        "english": "mission"
+    },
+    {
+        "spanish": "el cargo",
+        "english": "position"
+    },
+    {
+        "spanish": "ganar",
+        "english": "to earn"
+    },
+    {
+        "spanish": "el staff",
+        "english": "staff"
+    },
+    {
+        "spanish": "la demanda",
+        "english": "demand"
+    },
+    {
+        "spanish": "el consumismo",
+        "english": "consumerism"
+    },
+    {
+        "spanish": "dpto.",
+        "english": "dept"
+    },
+    {
+        "spanish": "establecer contactos",
+        "english": "to network"
+    },
+    {
+        "spanish": "la sede",
+        "english": "headquarters"
+    },
+    {
+        "spanish": "la oficina",
+        "english": "office"
+    },
+    {
+        "spanish": "el despacho",
+        "english": "office"
+    },
+    {
+        "spanish": "la profesión",
+        "english": "profession"
+    },
+    {
+        "spanish": "el arancel",
+        "english": "fee"
+    },
+    {
+        "spanish": "la convención",
+        "english": "convention"
+    },
+    {
+        "spanish": "el recurso",
+        "english": "resource"
+    },
+    {
+        "spanish": "el asesoramiento",
+        "english": "advice"
+    },
+    {
+        "spanish": "la sucursal",
+        "english": "branch"
+    },
+    {
+        "spanish": "el turismo",
+        "english": "tourism"
+    },
+    {
+        "spanish": "laborable",
+        "english": "working"
+    },
+    {
+        "spanish": "la agenda",
+        "english": "agenda"
+    },
+    {
+        "spanish": "la agenda",
+        "english": "schedule"
+    },
+    {
+        "spanish": "el compañero",
+        "english": "colleague"
+    },
+    {
+        "spanish": "el acuerdo",
+        "english": "agreement"
+    },
+    {
+        "spanish": "el lema",
+        "english": "motto"
+    },
+    {
+        "spanish": "el contacto",
+        "english": "contact"
+    },
+    {
+        "spanish": "el mercado",
+        "english": "market"
+    },
+    {
+        "spanish": "el mercado",
+        "english": "market"
+    },
+    {
+        "spanish": "la caja",
+        "english": "cash register"
+    },
+    {
+        "spanish": "el impuesto",
+        "english": "tax"
+    },
+    {
+        "spanish": "la entrada",
+        "english": "entry"
+    },
+    {
+        "spanish": "lanzar",
+        "english": "to launch"
+    },
+    {
+        "spanish": "el banco",
+        "english": "bank"
+    },
+    {
+        "spanish": "el cliente",
+        "english": "client"
+    },
+    {
+        "spanish": "el cliente",
+        "english": "customer"
+    },
+    {
+        "spanish": "el envío",
+        "english": "delivery"
+    },
+    {
+        "spanish": "exigente",
+        "english": "demanding"
+    },
+    {
+        "spanish": "la encuesta",
+        "english": "survey"
+    },
+    {
+        "spanish": "la tienda",
+        "english": "store"
+    },
+    {
+        "spanish": "la asesoría",
+        "english": "consultancy"
+    },
+    {
+        "spanish": "el formulario",
+        "english": "form"
+    },
+    {
+        "spanish": "la cuenta",
+        "english": "account"
+    },
+    {
+        "spanish": "la encuesta",
+        "english": "opinion poll"
+    },
+    {
+        "spanish": "el comercio",
+        "english": "trade"
+    },
+    {
+        "spanish": "comercial",
+        "english": "commercial"
+    },
+    {
+        "spanish": "abierto",
+        "english": "open"
+    },
+    {
+        "spanish": "cerrado",
+        "english": "closed"
+    },
+    {
+        "spanish": "la venta al por mayor",
+        "english": "wholesale"
+    },
+    {
+        "spanish": "dirigir",
+        "english": "to run"
+    },
+    {
+        "spanish": "entrevista de trabajo",
+        "english": "job interview"
+    },
+    {
+        "spanish": "el consejo de administración",
+        "english": "board of directors"
+    },
+    {
+        "spanish": "la junta directiva",
+        "english": "board of directors"
+    },
+    {
+        "spanish": "los negocios",
+        "english": "business"
+    },
+    {
+        "spanish": "negocios internacionales",
+        "english": "international business"
+    },
+    {
+        "spanish": "el container",
+        "english": "container"
+    },
+    {
+        "spanish": "la reapertura",
+        "english": "reopening"
+    },
+    {
+        "spanish": "el transporte",
+        "english": "transport"
+    },
+    {
+        "spanish": "la entrega",
+        "english": "delivery"
+    },
+    {
+        "spanish": "el presupuesto",
+        "english": "budget"
+    },
+    {
+        "spanish": "el jefe",
+        "english": "boss"
+    },
+    {
+        "spanish": "la compra",
+        "english": "buying"
+    },
+    {
+        "spanish": "la aduana",
+        "english": "customs"
+    },
+    {
+        "spanish": "la contabilidad",
+        "english": "accounting"
+    },
+    {
+        "spanish": "la marca",
+        "english": "brand"
+    },
+    {
+        "spanish": "reunirse",
+        "english": "to meet"
+    },
+    {
+        "spanish": "engañar",
+        "english": "to cheat"
+    },
+    {
+        "spanish": "la comisión",
+        "english": "assignment"
+    },
+    {
+        "spanish": "la entidad",
+        "english": "organization"
+    },
+    {
+        "spanish": "la empresa",
+        "english": "venture"
+    },
+    {
+        "spanish": "el presidente",
+        "english": "president"
+    },
+    {
+        "spanish": "el acuerdo",
+        "english": "understanding"
+    },
+    {
+        "spanish": "el bufete",
+        "english": "legal practice"
+    },
+    {
+        "spanish": "el alquiler",
+        "english": "rent"
+    },
+    {
+        "spanish": "enviar urgentemente",
+        "english": "to rush"
+    },
+    {
+        "spanish": "la logística",
+        "english": "logistics"
+    },
+    {
+        "spanish": "el paquete",
+        "english": "pack"
+    },
+    {
+        "spanish": "el liderazgo",
+        "english": "leadership"
+    },
+    {
+        "spanish": "la cuenta",
+        "english": "bill"
+    },
+    {
+        "spanish": "el leasing",
+        "english": "lease"
+    },
+    {
+        "spanish": "el consejo",
+        "english": "board"
+    },
+    {
+        "spanish": "la administración",
+        "english": "management"
+    },
+    {
+        "spanish": "la gestión",
+        "english": "management"
+    },
+    {
+        "spanish": "vender",
+        "english": "to sell"
+    },
+    {
+        "spanish": "la agricultura",
+        "english": "agriculture"
+    },
+    {
+        "spanish": "la reunión",
+        "english": "meeting"
+    },
+    {
+        "spanish": "el vendedor",
+        "english": "salesperson"
+    },
+    {
+        "spanish": "el/la contable",
+        "english": "accountant"
+    },
+    {
+        "spanish": "el consejo",
+        "english": "council"
+    },
+    {
+        "spanish": "el director",
+        "english": "director"
+    },
+    {
+        "spanish": "el servicio",
+        "english": "service"
+    },
+    {
+        "spanish": "la banca",
+        "english": "banking"
+    },
+    {
+        "spanish": "encargar",
+        "english": "to order"
+    },
+    {
+        "spanish": "etiquetar",
+        "english": "to label"
+    },
+    {
+        "spanish": "el plan",
+        "english": "plan"
+    },
+    {
+        "spanish": "de venta",
+        "english": "selling"
+    },
+    {
+        "spanish": "la solicitud",
+        "english": "application"
+    },
+    {
+        "spanish": "la cadena",
+        "english": "chain"
+    },
+    {
+        "spanish": "el anuncio",
+        "english": "ad"
+    },
+    {
+        "spanish": "la cita",
+        "english": "appointment"
+    },
+    {
+        "spanish": "la compañía",
+        "english": "company"
+    },
+    {
+        "spanish": "el lugar de trabajo",
+        "english": "workplace"
+    },
+    {
+        "spanish": "los inmuebles",
+        "english": "real estate"
+    },
+    {
+        "spanish": "la nave",
+        "english": "warehouse"
+    },
+    {
+        "spanish": "la ampliación",
+        "english": "expansion"
+    },
+    {
+        "spanish": "el cartel",
+        "english": "cartel"
+    },
+    {
+        "spanish": "la exportación",
+        "english": "export"
+    },
+    {
+        "spanish": "la importación",
+        "english": "import"
+    },
+    {
+        "spanish": "Cía.",
+        "english": "Co."
+    },
+    {
+        "spanish": "el negocio",
+        "english": "business"
+    },
+    {
+        "spanish": "compañero de trabajo",
+        "english": "coworker"
+    }
+]

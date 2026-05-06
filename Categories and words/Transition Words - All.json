@@ -1,0 +1,438 @@
+[
+    {
+        "spanish": "por ello",
+        "english": "thus"
+    },
+    {
+        "spanish": "por lo tanto",
+        "english": "thus"
+    },
+    {
+        "spanish": "de ese modo",
+        "english": "thus"
+    },
+    {
+        "spanish": "de este modo",
+        "english": "thus"
+    },
+    {
+        "spanish": "por consiguiente",
+        "english": "therefore"
+    },
+    {
+        "spanish": "por lo tanto",
+        "english": "therefore"
+    },
+    {
+        "spanish": "ya que",
+        "english": "since"
+    },
+    {
+        "spanish": "debido a",
+        "english": "on account of"
+    },
+    {
+        "spanish": "de ahí que",
+        "english": "hence"
+    },
+    {
+        "spanish": "por ese motivo",
+        "english": "for that reason"
+    },
+    {
+        "spanish": "consecuentemente",
+        "english": "accordingly"
+    },
+    {
+        "spanish": "mientras que",
+        "english": "while"
+    },
+    {
+        "spanish": "mientras",
+        "english": "while"
+    },
+    {
+        "spanish": "siempre que",
+        "english": "whenever"
+    },
+    {
+        "spanish": "cuando",
+        "english": "when"
+    },
+    {
+        "spanish": "esta vez",
+        "english": "this time"
+    },
+    {
+        "spanish": "hasta ahora",
+        "english": "until now"
+    },
+    {
+        "spanish": "pues entonces",
+        "english": "then"
+    },
+    {
+        "spanish": "posteriormente",
+        "english": "subsequently"
+    },
+    {
+        "spanish": "próximamente",
+        "english": "soon"
+    },
+    {
+        "spanish": "en ocasiones",
+        "english": "sometimes"
+    },
+    {
+        "spanish": "hasta aquí",
+        "english": "so far"
+    },
+    {
+        "spanish": "simultáneamente",
+        "english": "simultaneously"
+    },
+    {
+        "spanish": "una vez que",
+        "english": "once"
+    },
+    {
+        "spanish": "a continuación",
+        "english": "now"
+    },
+    {
+        "spanish": "nunca",
+        "english": "never"
+    },
+    {
+        "spanish": "más adelante",
+        "english": "later"
+    },
+    {
+        "spanish": "mientras tanto",
+        "english": "in the meantime"
+    },
+    {
+        "spanish": "ipso facto",
+        "english": "immediately"
+    },
+    {
+        "spanish": "siguiente",
+        "english": "following"
+    },
+    {
+        "spanish": "durante",
+        "english": "during"
+    },
+    {
+        "spanish": "detenidamente",
+        "english": "at length"
+    },
+    {
+        "spanish": "siempre",
+        "english": "always"
+    },
+    {
+        "spanish": "posteriormente",
+        "english": "afterwards"
+    },
+    {
+        "spanish": "después de",
+        "english": "after"
+    },
+    {
+        "spanish": "también",
+        "english": "too"
+    },
+    {
+        "spanish": "segundo",
+        "english": "second"
+    },
+    {
+        "spanish": "siguiente",
+        "english": "next"
+    },
+    {
+        "spanish": "por otra parte",
+        "english": "moreover"
+    },
+    {
+        "spanish": "finalmente",
+        "english": "lastly"
+    },
+    {
+        "spanish": "en adición",
+        "english": "in addition"
+    },
+    {
+        "spanish": "en segundo lugar",
+        "english": "in the second place"
+    },
+    {
+        "spanish": "por otro lado",
+        "english": "furthermore"
+    },
+    {
+        "spanish": "más allá",
+        "english": "further"
+    },
+    {
+        "spanish": "en primer lugar",
+        "english": "firstly"
+    },
+    {
+        "spanish": "primero",
+        "english": "first"
+    },
+    {
+        "spanish": "aún más",
+        "english": "even more"
+    },
+    {
+        "spanish": "además",
+        "english": "besides"
+    },
+    {
+        "spanish": "como resultado",
+        "english": "as a result"
+    },
+    {
+        "spanish": "no",
+        "english": "not"
+    },
+    {
+        "spanish": "u",
+        "english": "or"
+    },
+    {
+        "spanish": "o",
+        "english": "or"
+    },
+    {
+        "spanish": "e",
+        "english": "and"
+    },
+    {
+        "spanish": "y",
+        "english": "and"
+    },
+    {
+        "spanish": "también",
+        "english": "also"
+    },
+    {
+        "spanish": "otra vez",
+        "english": "again"
+    },
+    {
+        "spanish": "por otra parte",
+        "english": "additionally"
+    },
+    {
+        "spanish": "de lo contrario",
+        "english": "otherwise"
+    },
+    {
+        "spanish": "al contrario",
+        "english": "on the contrary"
+    },
+    {
+        "spanish": "empero",
+        "english": "nonetheless"
+    },
+    {
+        "spanish": "sin embargo",
+        "english": "nevertheless"
+    },
+    {
+        "spanish": "no obstante",
+        "english": "however"
+    },
+    {
+        "spanish": "en contraste",
+        "english": "in contrast"
+    },
+    {
+        "spanish": "a pesar de",
+        "english": "despite"
+    },
+    {
+        "spanish": "pero",
+        "english": "but"
+    },
+    {
+        "spanish": "es verdad que",
+        "english": "although"
+    },
+    {
+        "spanish": "a fin de cuentas",
+        "english": "after all"
+    },
+    {
+        "spanish": "al fin y al cabo",
+        "english": "after all"
+    },
+    {
+        "spanish": "es decir",
+        "english": "that is"
+    },
+    {
+        "spanish": "específicamente",
+        "english": "specifically"
+    },
+    {
+        "spanish": "sin ir más lejos",
+        "english": "for instance"
+    },
+    {
+        "spanish": "por ejemplo",
+        "english": "for example"
+    },
+    {
+        "spanish": "p. ej.",
+        "english": "e.g."
+    },
+    {
+        "spanish": "prioritariamente",
+        "english": "primarily"
+    },
+    {
+        "spanish": "más importante aún",
+        "english": "most importantly"
+    },
+    {
+        "spanish": "principalmente",
+        "english": "chiefly"
+    },
+    {
+        "spanish": "aquí",
+        "english": "here"
+    },
+    {
+        "spanish": "más allá",
+        "english": "over and above"
+    },
+    {
+        "spanish": "a continuación",
+        "english": "below"
+    },
+    {
+        "spanish": "por encima de",
+        "english": "above"
+    },
+    {
+        "spanish": "da igual",
+        "english": "whatever"
+    },
+    {
+        "spanish": "de igual manera",
+        "english": "likewise"
+    },
+    {
+        "spanish": "de la misma manera",
+        "english": "in the same way"
+    },
+    {
+        "spanish": "naturalmente",
+        "english": "of course"
+    },
+    {
+        "spanish": "naturalmente",
+        "english": "naturally"
+    },
+    {
+        "spanish": "es cierto que",
+        "english": "it's true"
+    },
+    {
+        "spanish": "para concluir",
+        "english": "to conclude"
+    },
+    {
+        "spanish": "al final",
+        "english": "in the end"
+    },
+    {
+        "spanish": "en conclusión",
+        "english": "in conclusion"
+    },
+    {
+        "spanish": "para terminar",
+        "english": "lastly"
+    },
+    {
+        "spanish": "por fin",
+        "english": "finally"
+    },
+    {
+        "spanish": "sí",
+        "english": "yes"
+    },
+    {
+        "spanish": "sin duda",
+        "english": "without a doubt"
+    },
+    {
+        "spanish": "no cabe duda de que",
+        "english": "undoubtedly"
+    },
+    {
+        "spanish": "seguro que",
+        "english": "surely"
+    },
+    {
+        "spanish": "por supuesto",
+        "english": "of course"
+    },
+    {
+        "spanish": "no",
+        "english": "no"
+    },
+    {
+        "spanish": "en efecto",
+        "english": "indeed"
+    },
+    {
+        "spanish": "de hecho",
+        "english": "in fact"
+    },
+    {
+        "spanish": "a este fin",
+        "english": "to this end"
+    },
+    {
+        "spanish": "para que",
+        "english": "so that"
+    },
+    {
+        "spanish": "en síntesis",
+        "english": "to summarize"
+    },
+    {
+        "spanish": "en conclusión",
+        "english": "to sum up"
+    },
+    {
+        "spanish": "en resumidas cuentas",
+        "english": "in short"
+    },
+    {
+        "spanish": "en resumen",
+        "english": "in summary"
+    },
+    {
+        "spanish": "en fin",
+        "english": "in brief"
+    },
+    {
+        "spanish": "finalmente",
+        "english": "finally"
+    },
+    {
+        "spanish": "en cambio",
+        "english": "on the other hand"
+    },
+    {
+        "spanish": "por otro lado",
+        "english": "on the other hand"
+    }
+]

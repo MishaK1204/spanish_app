@@ -1,0 +1,602 @@
+[
+    {
+        "spanish": "el primo segundo",
+        "english": "second cousin"
+    },
+    {
+        "spanish": "el nieto",
+        "english": "grandkid"
+    },
+    {
+        "spanish": "los abuelos maternos",
+        "english": "maternal grandparents"
+    },
+    {
+        "spanish": "abuelos paternos",
+        "english": "paternal grandparents"
+    },
+    {
+        "spanish": "los nietos",
+        "english": "grandchildren"
+    },
+    {
+        "spanish": "el primo hermano",
+        "english": "first cousin"
+    },
+    {
+        "spanish": "bisnietos",
+        "english": "great-grandchildren"
+    },
+    {
+        "spanish": "la bisnieta",
+        "english": "great-granddaughter"
+    },
+    {
+        "spanish": "el bisnieto",
+        "english": "great-grandson"
+    },
+    {
+        "spanish": "la bisabuela",
+        "english": "great-grandmother"
+    },
+    {
+        "spanish": "el bisabuelo",
+        "english": "great-grandfather"
+    },
+    {
+        "spanish": "el tataranieto",
+        "english": "great-great-grandchild"
+    },
+    {
+        "spanish": "la tataranieta",
+        "english": "great-great-granddaughter"
+    },
+    {
+        "spanish": "los tatarabuelos",
+        "english": "great-great-grandparents"
+    },
+    {
+        "spanish": "el tataranieto",
+        "english": "great-great-grandson"
+    },
+    {
+        "spanish": "la tatarabuela",
+        "english": "great-great-grandmother"
+    },
+    {
+        "spanish": "el tatarabuelo",
+        "english": "great-great-grandfather"
+    },
+    {
+        "spanish": "la tía abuela",
+        "english": "great-aunt"
+    },
+    {
+        "spanish": "el tío abuelo",
+        "english": "great-uncle"
+    },
+    {
+        "spanish": "los hijastros",
+        "english": "stepchildren"
+    },
+    {
+        "spanish": "el yerno",
+        "english": "son-in-law"
+    },
+    {
+        "spanish": "la nuera",
+        "english": "daughter-in-law"
+    },
+    {
+        "spanish": "la familia política",
+        "english": "in-laws"
+    },
+    {
+        "spanish": "los suegros",
+        "english": "parents-in-law"
+    },
+    {
+        "spanish": "el suegro",
+        "english": "father-in-law"
+    },
+    {
+        "spanish": "la suegra",
+        "english": "mother-in-law"
+    },
+    {
+        "spanish": "el cuñado",
+        "english": "brother-in-law"
+    },
+    {
+        "spanish": "hermano mayor",
+        "english": "older brother"
+    },
+    {
+        "spanish": "hermana mayor",
+        "english": "older sister"
+    },
+    {
+        "spanish": "hermana mayor",
+        "english": "big sister"
+    },
+    {
+        "spanish": "hermano mayor",
+        "english": "big brother"
+    },
+    {
+        "spanish": "el hermano menor",
+        "english": "younger brother"
+    },
+    {
+        "spanish": "la hermana menor",
+        "english": "younger sister"
+    },
+    {
+        "spanish": "el hermanito",
+        "english": "little brother"
+    },
+    {
+        "spanish": "la hermanita",
+        "english": "little sister"
+    },
+    {
+        "spanish": "hermano y hermana",
+        "english": "brother and sister"
+    },
+    {
+        "spanish": "los esposos",
+        "english": "husband and wife"
+    },
+    {
+        "spanish": "recién casados",
+        "english": "newlyweds"
+    },
+    {
+        "spanish": "la trona",
+        "english": "high chair"
+    },
+    {
+        "spanish": "el tacatá",
+        "english": "walker"
+    },
+    {
+        "spanish": "el cochecito",
+        "english": "baby carriage"
+    },
+    {
+        "spanish": "el babero",
+        "english": "bib"
+    },
+    {
+        "spanish": "el cochecito",
+        "english": "stroller"
+    },
+    {
+        "spanish": "la sonaja",
+        "english": "rattle"
+    },
+    {
+        "spanish": "el calcetín",
+        "english": "sock"
+    },
+    {
+        "spanish": "la manta",
+        "english": "blanket"
+    },
+    {
+        "spanish": "el rebozo",
+        "english": "wrap"
+    },
+    {
+        "spanish": "la carriola",
+        "english": "stroller"
+    },
+    {
+        "spanish": "el mameluco",
+        "english": "overalls"
+    },
+    {
+        "spanish": "el osito",
+        "english": "onesie"
+    },
+    {
+        "spanish": "el pañal",
+        "english": "diaper"
+    },
+    {
+        "spanish": "el termómetro",
+        "english": "thermometer"
+    },
+    {
+        "spanish": "el biberón",
+        "english": "bottle"
+    },
+    {
+        "spanish": "el chupón",
+        "english": "baby bottle"
+    },
+    {
+        "spanish": "la cuna",
+        "english": "crib"
+    },
+    {
+        "spanish": "el asiento infantil",
+        "english": "child car seat"
+    },
+    {
+        "spanish": "la cuna",
+        "english": "cradle"
+    },
+    {
+        "spanish": "la herencia",
+        "english": "inheritance"
+    },
+    {
+        "spanish": "el carnalito",
+        "english": "sis"
+    },
+    {
+        "spanish": "adoptado",
+        "english": "adopted"
+    },
+    {
+        "spanish": "júnior",
+        "english": "Junior"
+    },
+    {
+        "spanish": "el cuidado",
+        "english": "care"
+    },
+    {
+        "spanish": "media naranja",
+        "english": "better half"
+    },
+    {
+        "spanish": "la costilla",
+        "english": "other half"
+    },
+    {
+        "spanish": "el clan",
+        "english": "clan"
+    },
+    {
+        "spanish": "la tribu",
+        "english": "tribe"
+    },
+    {
+        "spanish": "la madrastra",
+        "english": "stepmother"
+    },
+    {
+        "spanish": "el hijastro",
+        "english": "stepson"
+    },
+    {
+        "spanish": "la hijastra",
+        "english": "stepdaughter"
+    },
+    {
+        "spanish": "el hermanastro",
+        "english": "stepbrother"
+    },
+    {
+        "spanish": "la hermanastra",
+        "english": "stepsister"
+    },
+    {
+        "spanish": "el apellido",
+        "english": "last name"
+    },
+    {
+        "spanish": "adorar",
+        "english": "to adore"
+    },
+    {
+        "spanish": "el/la cónyuge",
+        "english": "spouse"
+    },
+    {
+        "spanish": "el pariente",
+        "english": "relation"
+    },
+    {
+        "spanish": "el antepasado",
+        "english": "ancestor"
+    },
+    {
+        "spanish": "la familia extendida",
+        "english": "extended family"
+    },
+    {
+        "spanish": "la comadre",
+        "english": "goddaughter's mother"
+    },
+    {
+        "spanish": "el compadre",
+        "english": "goddaughter's father"
+    },
+    {
+        "spanish": "la ahijada",
+        "english": "goddaughter"
+    },
+    {
+        "spanish": "el ahijado",
+        "english": "godson"
+    },
+    {
+        "spanish": "el reencuentro",
+        "english": "reunion"
+    },
+    {
+        "spanish": "la pareja",
+        "english": "partner"
+    },
+    {
+        "spanish": "homoparental",
+        "english": "same-sex"
+    },
+    {
+        "spanish": "la sobrina",
+        "english": "niece"
+    },
+    {
+        "spanish": "sénior",
+        "english": "senior"
+    },
+    {
+        "spanish": "malcriar",
+        "english": "to spoil"
+    },
+    {
+        "spanish": "la novia",
+        "english": "bride"
+    },
+    {
+        "spanish": "el tutor",
+        "english": "guardian"
+    },
+    {
+        "spanish": "el apellido",
+        "english": "family name"
+    },
+    {
+        "spanish": "la mamacita",
+        "english": "mommy"
+    },
+    {
+        "spanish": "juntarse",
+        "english": "to get together"
+    },
+    {
+        "spanish": "los abuelos",
+        "english": "grandparents"
+    },
+    {
+        "spanish": "la sangre",
+        "english": "blood"
+    },
+    {
+        "spanish": "la cuñada",
+        "english": "sister-in-law"
+    },
+    {
+        "spanish": "el padrastro",
+        "english": "stepfather"
+    },
+    {
+        "spanish": "los hermanos",
+        "english": "siblings"
+    },
+    {
+        "spanish": "soltero",
+        "english": "single"
+    },
+    {
+        "spanish": "el single",
+        "english": "single"
+    },
+    {
+        "spanish": "el nieto",
+        "english": "grandson"
+    },
+    {
+        "spanish": "de acogida",
+        "english": "foster"
+    },
+    {
+        "spanish": "el amor",
+        "english": "love"
+    },
+    {
+        "spanish": "la nieta",
+        "english": "granddaughter"
+    },
+    {
+        "spanish": "el cariño",
+        "english": "affection"
+    },
+    {
+        "spanish": "el matrimonio",
+        "english": "marriage"
+    },
+    {
+        "spanish": "menor",
+        "english": "younger"
+    },
+    {
+        "spanish": "casarse",
+        "english": "to get married"
+    },
+    {
+        "spanish": "la novia",
+        "english": "girlfriend"
+    },
+    {
+        "spanish": "el novio",
+        "english": "boyfriend"
+    },
+    {
+        "spanish": "criar",
+        "english": "to raise"
+    },
+    {
+        "spanish": "mellizo",
+        "english": "twin"
+    },
+    {
+        "spanish": "gemelo",
+        "english": "twin"
+    },
+    {
+        "spanish": "pequeño",
+        "english": "little"
+    },
+    {
+        "spanish": "te amo",
+        "english": "I love you"
+    },
+    {
+        "spanish": "el árbol genealógico",
+        "english": "family tree"
+    },
+    {
+        "spanish": "el/la amante",
+        "english": "lover"
+    },
+    {
+        "spanish": "el tío",
+        "english": "uncle"
+    },
+    {
+        "spanish": "casado",
+        "english": "married"
+    },
+    {
+        "spanish": "el abuelo",
+        "english": "grandfather"
+    },
+    {
+        "spanish": "la abuela",
+        "english": "grandmother"
+    },
+    {
+        "spanish": "la tita",
+        "english": "auntie"
+    },
+    {
+        "spanish": "el primo",
+        "english": "cousin"
+    },
+    {
+        "spanish": "la prima",
+        "english": "cousin"
+    },
+    {
+        "spanish": "la hija",
+        "english": "daughter"
+    },
+    {
+        "spanish": "mijo",
+        "english": "dear"
+    },
+    {
+        "spanish": "la hermana",
+        "english": "sister"
+    },
+    {
+        "spanish": "la boda",
+        "english": "wedding"
+    },
+    {
+        "spanish": "la tía",
+        "english": "aunt"
+    },
+    {
+        "spanish": "el/la familiar",
+        "english": "relative"
+    },
+    {
+        "spanish": "los padres",
+        "english": "parents"
+    },
+    {
+        "spanish": "el niño",
+        "english": "child"
+    },
+    {
+        "spanish": "el sobrino",
+        "english": "nephew"
+    },
+    {
+        "spanish": "el hermano",
+        "english": "brother"
+    },
+    {
+        "spanish": "los hijos",
+        "english": "children"
+    },
+    {
+        "spanish": "el hijo",
+        "english": "son"
+    },
+    {
+        "spanish": "salir en citas",
+        "english": "dating"
+    },
+    {
+        "spanish": "el marido",
+        "english": "husband"
+    },
+    {
+        "spanish": "el papi",
+        "english": "pop"
+    },
+    {
+        "spanish": "el papi",
+        "english": "daddy"
+    },
+    {
+        "spanish": "el padre",
+        "english": "father"
+    },
+    {
+        "spanish": "el papá",
+        "english": "dad"
+    },
+    {
+        "spanish": "la relación",
+        "english": "relationship"
+    },
+    {
+        "spanish": "la esposa",
+        "english": "wife"
+    },
+    {
+        "spanish": "el/la baby",
+        "english": "baby"
+    },
+    {
+        "spanish": "la mami",
+        "english": "mommy"
+    },
+    {
+        "spanish": "la mamá",
+        "english": "mum"
+    },
+    {
+        "spanish": "la mamá",
+        "english": "mom"
+    },
+    {
+        "spanish": "la madre",
+        "english": "mother"
+    },
+    {
+        "spanish": "el/la miembro de la familia",
+        "english": "family member"
+    },
+    {
+        "spanish": "la familia",
+        "english": "family"
+    }
+]

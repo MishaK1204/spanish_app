@@ -1,0 +1,966 @@
+[
+    {
+        "spanish": "la plata",
+        "english": "silver"
+    },
+    {
+        "spanish": "el oro",
+        "english": "gold"
+    },
+    {
+        "spanish": "el abrigo",
+        "english": "coat"
+    },
+    {
+        "spanish": "elástico",
+        "english": "stretchy"
+    },
+    {
+        "spanish": "moderno",
+        "english": "trendy"
+    },
+    {
+        "spanish": "forrado",
+        "english": "lined"
+    },
+    {
+        "spanish": "plisado",
+        "english": "pleated"
+    },
+    {
+        "spanish": "in",
+        "english": "in"
+    },
+    {
+        "spanish": "provocador",
+        "english": "provocative"
+    },
+    {
+        "spanish": "la marca",
+        "english": "brand"
+    },
+    {
+        "spanish": "tejer",
+        "english": "to knit"
+    },
+    {
+        "spanish": "sofisticado",
+        "english": "sophisticated"
+    },
+    {
+        "spanish": "chic",
+        "english": "chic"
+    },
+    {
+        "spanish": "largo",
+        "english": "long"
+    },
+    {
+        "spanish": "el short",
+        "english": "shorts"
+    },
+    {
+        "spanish": "acampanado",
+        "english": "flared"
+    },
+    {
+        "spanish": "la tela escocesa",
+        "english": "plaid"
+    },
+    {
+        "spanish": "estampado",
+        "english": "printed"
+    },
+    {
+        "spanish": "el forro polar",
+        "english": "fleece"
+    },
+    {
+        "spanish": "limpiar",
+        "english": "to clean"
+    },
+    {
+        "spanish": "planchar",
+        "english": "to iron"
+    },
+    {
+        "spanish": "puesto",
+        "english": "well-dressed"
+    },
+    {
+        "spanish": "el mocasín",
+        "english": "loafer"
+    },
+    {
+        "spanish": "el chanclo",
+        "english": "galosh"
+    },
+    {
+        "spanish": "la alpargata",
+        "english": "espadrille"
+    },
+    {
+        "spanish": "el zueco",
+        "english": "clog"
+    },
+    {
+        "spanish": "la baleta",
+        "english": "ballet flat"
+    },
+    {
+        "spanish": "el botín",
+        "english": "ankle boot"
+    },
+    {
+        "spanish": "la campera",
+        "english": "cowboy boot"
+    },
+    {
+        "spanish": "la blusa",
+        "english": "blouse"
+    },
+    {
+        "spanish": "el albornoz",
+        "english": "bathrobe"
+    },
+    {
+        "spanish": "la mochila",
+        "english": "backpack"
+    },
+    {
+        "spanish": "el prendedor",
+        "english": "brooch"
+    },
+    {
+        "spanish": "el tejano",
+        "english": "cowboy hat"
+    },
+    {
+        "spanish": "la sarita",
+        "english": "straw hat"
+    },
+    {
+        "spanish": "la boina",
+        "english": "beret"
+    },
+    {
+        "spanish": "el reloj de bolsillo",
+        "english": "pocket watch"
+    },
+    {
+        "spanish": "la capa",
+        "english": "cape"
+    },
+    {
+        "spanish": "la calzoneta",
+        "english": "swimming trunks"
+    },
+    {
+        "spanish": "la camisa",
+        "english": "button-down shirt"
+    },
+    {
+        "spanish": "las gafas de sol",
+        "english": "sunglasses"
+    },
+    {
+        "spanish": "la diadema",
+        "english": "headband"
+    },
+    {
+        "spanish": "el niki",
+        "english": "polo shirt"
+    },
+    {
+        "spanish": "las mallas",
+        "english": "leggings"
+    },
+    {
+        "spanish": "la zapatilla",
+        "english": "slipper"
+    },
+    {
+        "spanish": "la bata",
+        "english": "robe"
+    },
+    {
+        "spanish": "el camisón",
+        "english": "nightgown"
+    },
+    {
+        "spanish": "el bañador",
+        "english": "swimsuit"
+    },
+    {
+        "spanish": "la camiseta",
+        "english": "undershirt"
+    },
+    {
+        "spanish": "la camiseta de tirantes",
+        "english": "tank top"
+    },
+    {
+        "spanish": "el hoodie",
+        "english": "hoodie"
+    },
+    {
+        "spanish": "la seda",
+        "english": "silk"
+    },
+    {
+        "spanish": "el nylon",
+        "english": "nylon"
+    },
+    {
+        "spanish": "el/la pijama",
+        "english": "pajamas"
+    },
+    {
+        "spanish": "casual",
+        "english": "casual"
+    },
+    {
+        "spanish": "en boga",
+        "english": "fashionable"
+    },
+    {
+        "spanish": "estiloso",
+        "english": "stylish"
+    },
+    {
+        "spanish": "desordenado",
+        "english": "untidy"
+    },
+    {
+        "spanish": "arrugado",
+        "english": "wrinkled"
+    },
+    {
+        "spanish": "a la medida",
+        "english": "tailored"
+    },
+    {
+        "spanish": "rayado",
+        "english": "striped"
+    },
+    {
+        "spanish": "de cuadros",
+        "english": "checked"
+    },
+    {
+        "spanish": "floral",
+        "english": "floral"
+    },
+    {
+        "spanish": "de lunares",
+        "english": "polka-dot"
+    },
+    {
+        "spanish": "entallado",
+        "english": "fitted"
+    },
+    {
+        "spanish": "dejado",
+        "english": "slovenly"
+    },
+    {
+        "spanish": "en onda",
+        "english": "hip"
+    },
+    {
+        "spanish": "combinar",
+        "english": "to go with"
+    },
+    {
+        "spanish": "casar",
+        "english": "to go together"
+    },
+    {
+        "spanish": "chillar",
+        "english": "to clash"
+    },
+    {
+        "spanish": "arrugarse",
+        "english": "to get wrinkled"
+    },
+    {
+        "spanish": "probarse",
+        "english": "to try on"
+    },
+    {
+        "spanish": "el plegado",
+        "english": "fold"
+    },
+    {
+        "spanish": "la caída",
+        "english": "hang"
+    },
+    {
+        "spanish": "la culera",
+        "english": "seat"
+    },
+    {
+        "spanish": "la cola",
+        "english": "train"
+    },
+    {
+        "spanish": "la raja",
+        "english": "tear"
+    },
+    {
+        "spanish": "informal",
+        "english": "casual"
+    },
+    {
+        "spanish": "elegante",
+        "english": "elegant"
+    },
+    {
+        "spanish": "la tintorería",
+        "english": "cleaners"
+    },
+    {
+        "spanish": "la medida",
+        "english": "measurement"
+    },
+    {
+        "spanish": "sin mangas",
+        "english": "sleeveless"
+    },
+    {
+        "spanish": "la manga",
+        "english": "sleeve"
+    },
+    {
+        "spanish": "secar",
+        "english": "to dry"
+    },
+    {
+        "spanish": "lavar",
+        "english": "to wash"
+    },
+    {
+        "spanish": "el huipil",
+        "english": "huipil"
+    },
+    {
+        "spanish": "usar",
+        "english": "to wear"
+    },
+    {
+        "spanish": "la playera",
+        "english": "canvas shoe"
+    },
+    {
+        "spanish": "la puntilla",
+        "english": "lace edging"
+    },
+    {
+        "spanish": "la línea",
+        "english": "style"
+    },
+    {
+        "spanish": "la cenefa",
+        "english": "edging"
+    },
+    {
+        "spanish": "el paliacate",
+        "english": "kerchief"
+    },
+    {
+        "spanish": "la chancla",
+        "english": "flip-flop"
+    },
+    {
+        "spanish": "la sandalia",
+        "english": "sandal"
+    },
+    {
+        "spanish": "la costura",
+        "english": "sewing"
+    },
+    {
+        "spanish": "el lazo",
+        "english": "bow"
+    },
+    {
+        "spanish": "transparente",
+        "english": "sheer"
+    },
+    {
+        "spanish": "la lencería",
+        "english": "lingerie"
+    },
+    {
+        "spanish": "el sujetador",
+        "english": "bra"
+    },
+    {
+        "spanish": "la ropa interior",
+        "english": "underwear"
+    },
+    {
+        "spanish": "el/la tanga",
+        "english": "thong"
+    },
+    {
+        "spanish": "los bóxers",
+        "english": "boxers"
+    },
+    {
+        "spanish": "colorido",
+        "english": "colorful"
+    },
+    {
+        "spanish": "el patrón",
+        "english": "pattern"
+    },
+    {
+        "spanish": "el lunar",
+        "english": "polka dot"
+    },
+    {
+        "spanish": "el rayado",
+        "english": "stripes"
+    },
+    {
+        "spanish": "el textil",
+        "english": "textile"
+    },
+    {
+        "spanish": "el delantal",
+        "english": "apron"
+    },
+    {
+        "spanish": "el mandilón",
+        "english": "smock"
+    },
+    {
+        "spanish": "el babi",
+        "english": "smock"
+    },
+    {
+        "spanish": "el pichi",
+        "english": "pinafore"
+    },
+    {
+        "spanish": "encogerse",
+        "english": "to shrink"
+    },
+    {
+        "spanish": "el bolsillo",
+        "english": "pocket"
+    },
+    {
+        "spanish": "el modelo",
+        "english": "design"
+    },
+    {
+        "spanish": "incómodo",
+        "english": "uncomfortable"
+    },
+    {
+        "spanish": "el zapato de salón",
+        "english": "pump"
+    },
+    {
+        "spanish": "el pijama mono",
+        "english": "onesie"
+    },
+    {
+        "spanish": "la capota",
+        "english": "bonnet"
+    },
+    {
+        "spanish": "la chistera",
+        "english": "top hat"
+    },
+    {
+        "spanish": "el casco",
+        "english": "helmet"
+    },
+    {
+        "spanish": "la parka",
+        "english": "parka"
+    },
+    {
+        "spanish": "el poncho",
+        "english": "poncho"
+    },
+    {
+        "spanish": "el chal",
+        "english": "wrap"
+    },
+    {
+        "spanish": "ojalar",
+        "english": "to make buttonholes on"
+    },
+    {
+        "spanish": "la mancha",
+        "english": "stain"
+    },
+    {
+        "spanish": "el disfraz",
+        "english": "disguise"
+    },
+    {
+        "spanish": "la alta costura",
+        "english": "haute couture"
+    },
+    {
+        "spanish": "arreglarse",
+        "english": "to get ready"
+    },
+    {
+        "spanish": "los tirantes",
+        "english": "suspenders"
+    },
+    {
+        "spanish": "el cinturón",
+        "english": "belt"
+    },
+    {
+        "spanish": "la polaina",
+        "english": "gaiter"
+    },
+    {
+        "spanish": "la bufanda",
+        "english": "scarf"
+    },
+    {
+        "spanish": "la gorrita",
+        "english": "beanie"
+    },
+    {
+        "spanish": "demasiado pequeño",
+        "english": "too small"
+    },
+    {
+        "spanish": "demasiado grande",
+        "english": "too big"
+    },
+    {
+        "spanish": "caber",
+        "english": "to fit"
+    },
+    {
+        "spanish": "la manopla",
+        "english": "mitten"
+    },
+    {
+        "spanish": "el guante",
+        "english": "glove"
+    },
+    {
+        "spanish": "la tela vaquera",
+        "english": "denim"
+    },
+    {
+        "spanish": "ponerse",
+        "english": "to put on"
+    },
+    {
+        "spanish": "la zapatilla",
+        "english": "sneaker"
+    },
+    {
+        "spanish": "el zapato de tenis",
+        "english": "tennis shoe"
+    },
+    {
+        "spanish": "la pantalla",
+        "english": "earring"
+    },
+    {
+        "spanish": "el sombrero de béisbol",
+        "english": "baseball cap"
+    },
+    {
+        "spanish": "el tocado",
+        "english": "fascinator"
+    },
+    {
+        "spanish": "la toca",
+        "english": "headdress"
+    },
+    {
+        "spanish": "la braga",
+        "english": "panties"
+    },
+    {
+        "spanish": "el uniforme",
+        "english": "uniform"
+    },
+    {
+        "spanish": "grande",
+        "english": "large"
+    },
+    {
+        "spanish": "mediano",
+        "english": "medium"
+    },
+    {
+        "spanish": "el diamante",
+        "english": "diamond"
+    },
+    {
+        "spanish": "la piel",
+        "english": "fur"
+    },
+    {
+        "spanish": "camisa de mangas cortas",
+        "english": "short-sleeved shirt"
+    },
+    {
+        "spanish": "la camisa de manga larga",
+        "english": "long-sleeved shirt"
+    },
+    {
+        "spanish": "los complementos",
+        "english": "accessories"
+    },
+    {
+        "spanish": "confortable",
+        "english": "comfortable"
+    },
+    {
+        "spanish": "el top",
+        "english": "top"
+    },
+    {
+        "spanish": "el sobretodo",
+        "english": "overcoat"
+    },
+    {
+        "spanish": "la bota",
+        "english": "boot"
+    },
+    {
+        "spanish": "el impermeable",
+        "english": "raincoat"
+    },
+    {
+        "spanish": "la chaqueta",
+        "english": "jacket"
+    },
+    {
+        "spanish": "el bolso",
+        "english": "bag"
+    },
+    {
+        "spanish": "el terciopelo",
+        "english": "velvet"
+    },
+    {
+        "spanish": "el velcro",
+        "english": "Velcro"
+    },
+    {
+        "spanish": "el ante",
+        "english": "suede"
+    },
+    {
+        "spanish": "el cuero",
+        "english": "leather"
+    },
+    {
+        "spanish": "la talla",
+        "english": "size"
+    },
+    {
+        "spanish": "la moda",
+        "english": "fashion"
+    },
+    {
+        "spanish": "la carrera",
+        "english": "run"
+    },
+    {
+        "spanish": "el mono",
+        "english": "jumpsuit"
+    },
+    {
+        "spanish": "el mameluco",
+        "english": "overalls"
+    },
+    {
+        "spanish": "el ropero",
+        "english": "wardrobe"
+    },
+    {
+        "spanish": "el disfraz",
+        "english": "costume"
+    },
+    {
+        "spanish": "acrílico",
+        "english": "acrylic"
+    },
+    {
+        "spanish": "la angora",
+        "english": "angora"
+    },
+    {
+        "spanish": "el poliéster",
+        "english": "polyester"
+    },
+    {
+        "spanish": "el lino",
+        "english": "linen"
+    },
+    {
+        "spanish": "el algodón",
+        "english": "cotton"
+    },
+    {
+        "spanish": "la lana",
+        "english": "wool"
+    },
+    {
+        "spanish": "la textura",
+        "english": "texture"
+    },
+    {
+        "spanish": "el anillo",
+        "english": "ring"
+    },
+    {
+        "spanish": "la pulsera",
+        "english": "bracelet"
+    },
+    {
+        "spanish": "el pendiente",
+        "english": "earring"
+    },
+    {
+        "spanish": "ancho",
+        "english": "loose"
+    },
+    {
+        "spanish": "la tela",
+        "english": "fabric"
+    },
+    {
+        "spanish": "la botonadura",
+        "english": "buttons"
+    },
+    {
+        "spanish": "la cremallera",
+        "english": "zipper"
+    },
+    {
+        "spanish": "la bragueta",
+        "english": "zipper"
+    },
+    {
+        "spanish": "romper",
+        "english": "to break"
+    },
+    {
+        "spanish": "rajar",
+        "english": "to rip"
+    },
+    {
+        "spanish": "el desgarrón",
+        "english": "rip"
+    },
+    {
+        "spanish": "las gafas",
+        "english": "glasses"
+    },
+    {
+        "spanish": "quitarse",
+        "english": "to take off"
+    },
+    {
+        "spanish": "hacer el dobladillo",
+        "english": "to hem"
+    },
+    {
+        "spanish": "llevar",
+        "english": "to wear"
+    },
+    {
+        "spanish": "ajustado",
+        "english": "tight"
+    },
+    {
+        "spanish": "holgado",
+        "english": "baggy"
+    },
+    {
+        "spanish": "chico",
+        "english": "small"
+    },
+    {
+        "spanish": "grande",
+        "english": "big"
+    },
+    {
+        "spanish": "la cuña",
+        "english": "wedge"
+    },
+    {
+        "spanish": "los tacones",
+        "english": "high heels"
+    },
+    {
+        "spanish": "el gorro",
+        "english": "hat"
+    },
+    {
+        "spanish": "el sombrero",
+        "english": "hat"
+    },
+    {
+        "spanish": "leotardos",
+        "english": "tights"
+    },
+    {
+        "spanish": "el calcetín",
+        "english": "sock"
+    },
+    {
+        "spanish": "el conjunto",
+        "english": "outfit"
+    },
+    {
+        "spanish": "la falda",
+        "english": "skirt"
+    },
+    {
+        "spanish": "el vestido",
+        "english": "dress"
+    },
+    {
+        "spanish": "el vestido largo",
+        "english": "gown"
+    },
+    {
+        "spanish": "vestirse",
+        "english": "to get dressed"
+    },
+    {
+        "spanish": "la bolsa",
+        "english": "purse"
+    },
+    {
+        "spanish": "la cartera",
+        "english": "wallet"
+    },
+    {
+        "spanish": "la gema",
+        "english": "gem"
+    },
+    {
+        "spanish": "el bikini",
+        "english": "bikini"
+    },
+    {
+        "spanish": "el traje de baño",
+        "english": "bathing suit"
+    },
+    {
+        "spanish": "el chándal",
+        "english": "tracksuit"
+    },
+    {
+        "spanish": "el pantalón de chándal",
+        "english": "sweatpants"
+    },
+    {
+        "spanish": "la camisa",
+        "english": "shirt"
+    },
+    {
+        "spanish": "la corbata",
+        "english": "necktie"
+    },
+    {
+        "spanish": "la pajarita",
+        "english": "bow tie"
+    },
+    {
+        "spanish": "la corbata",
+        "english": "tie"
+    },
+    {
+        "spanish": "la faja",
+        "english": "cummerbund"
+    },
+    {
+        "spanish": "el chaleco",
+        "english": "waistcoat"
+    },
+    {
+        "spanish": "el chaleco",
+        "english": "vest"
+    },
+    {
+        "spanish": "el smoking",
+        "english": "tuxedo"
+    },
+    {
+        "spanish": "el traje",
+        "english": "suit"
+    },
+    {
+        "spanish": "la camisa de vestir",
+        "english": "dress shirt"
+    },
+    {
+        "spanish": "la camiseta",
+        "english": "T-shirt"
+    },
+    {
+        "spanish": "la sudadera",
+        "english": "sweatshirt"
+    },
+    {
+        "spanish": "pantalones cortos",
+        "english": "shorts"
+    },
+    {
+        "spanish": "los vaqueros",
+        "english": "jeans"
+    },
+    {
+        "spanish": "el pantalón",
+        "english": "pants"
+    },
+    {
+        "spanish": "el collar",
+        "english": "necklace"
+    },
+    {
+        "spanish": "las medias",
+        "english": "pantyhose"
+    },
+    {
+        "spanish": "el jersey",
+        "english": "sweater"
+    },
+    {
+        "spanish": "el zapato",
+        "english": "shoe"
+    },
+    {
+        "spanish": "la piedra semipreciosa",
+        "english": "gemstone"
+    },
+    {
+        "spanish": "las alhajas",
+        "english": "jewelry"
+    },
+    {
+        "spanish": "la tela",
+        "english": "cloth"
+    },
+    {
+        "spanish": "la vestimenta",
+        "english": "clothes"
+    },
+    {
+        "spanish": "la ropa",
+        "english": "clothing"
+    }
+]

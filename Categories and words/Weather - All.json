@@ -1,0 +1,286 @@
+[
+    {
+        "spanish": "el alud",
+        "english": "avalanche"
+    },
+    {
+        "spanish": "el huaico",
+        "english": "mudslide"
+    },
+    {
+        "spanish": "el alud",
+        "english": "landslide"
+    },
+    {
+        "spanish": "la sequía",
+        "english": "drought"
+    },
+    {
+        "spanish": "la neblina",
+        "english": "mist"
+    },
+    {
+        "spanish": "la calina",
+        "english": "haze"
+    },
+    {
+        "spanish": "fresco",
+        "english": "fresh"
+    },
+    {
+        "spanish": "la ira",
+        "english": "fury"
+    },
+    {
+        "spanish": "qué tiempo hace",
+        "english": "what the weather is like"
+    },
+    {
+        "spanish": "hace mal tiempo",
+        "english": "the weather is bad"
+    },
+    {
+        "spanish": "hace buen tiempo",
+        "english": "the weather is nice"
+    },
+    {
+        "spanish": "el rocío",
+        "english": "dew"
+    },
+    {
+        "spanish": "la escarcha",
+        "english": "frost"
+    },
+    {
+        "spanish": "la brisa",
+        "english": "breeze"
+    },
+    {
+        "spanish": "el viento",
+        "english": "wind"
+    },
+    {
+        "spanish": "el trueno",
+        "english": "thunder"
+    },
+    {
+        "spanish": "el relámpago",
+        "english": "bolt of lightning"
+    },
+    {
+        "spanish": "la mínima",
+        "english": "low"
+    },
+    {
+        "spanish": "la máxima",
+        "english": "high"
+    },
+    {
+        "spanish": "cielo azul",
+        "english": "blue sky"
+    },
+    {
+        "spanish": "el frente",
+        "english": "front"
+    },
+    {
+        "spanish": "el informe",
+        "english": "report"
+    },
+    {
+        "spanish": "el pronóstico",
+        "english": "forecast"
+    },
+    {
+        "spanish": "el norte",
+        "english": "north wind"
+    },
+    {
+        "spanish": "el sur",
+        "english": "south wind"
+    },
+    {
+        "spanish": "el copo de nieve",
+        "english": "snowflake"
+    },
+    {
+        "spanish": "el granizo",
+        "english": "hailstone"
+    },
+    {
+        "spanish": "el grado",
+        "english": "degree"
+    },
+    {
+        "spanish": "el chubasquero",
+        "english": "raincoat"
+    },
+    {
+        "spanish": "el paraguas",
+        "english": "umbrella"
+    },
+    {
+        "spanish": "el catástrofe natural",
+        "english": "natural disaster"
+    },
+    {
+        "spanish": "el arco iris",
+        "english": "rainbow"
+    },
+    {
+        "spanish": "el calentamiento global",
+        "english": "global warming"
+    },
+    {
+        "spanish": "el cambio climático",
+        "english": "climate change"
+    },
+    {
+        "spanish": "helado",
+        "english": "ice cold"
+    },
+    {
+        "spanish": "helado",
+        "english": "stone cold"
+    },
+    {
+        "spanish": "polar",
+        "english": "freezing"
+    },
+    {
+        "spanish": "la temperatura",
+        "english": "temperature"
+    },
+    {
+        "spanish": "el vórtice",
+        "english": "eye"
+    },
+    {
+        "spanish": "feo",
+        "english": "nasty"
+    },
+    {
+        "spanish": "destemplado",
+        "english": "unpleasant"
+    },
+    {
+        "spanish": "escampar",
+        "english": "to clear up"
+    },
+    {
+        "spanish": "despejado",
+        "english": "clear"
+    },
+    {
+        "spanish": "gris",
+        "english": "overcast"
+    },
+    {
+        "spanish": "calmado",
+        "english": "calm"
+    },
+    {
+        "spanish": "la ventisca",
+        "english": "blizzard"
+    },
+    {
+        "spanish": "la inundación",
+        "english": "flood"
+    },
+    {
+        "spanish": "el tornado",
+        "english": "tornado"
+    },
+    {
+        "spanish": "el huracán",
+        "english": "hurricane"
+    },
+    {
+        "spanish": "la tormenta",
+        "english": "storm"
+    },
+    {
+        "spanish": "el calor",
+        "english": "heat"
+    },
+    {
+        "spanish": "brumoso",
+        "english": "foggy"
+    },
+    {
+        "spanish": "nublado",
+        "english": "cloudy"
+    },
+    {
+        "spanish": "la nube",
+        "english": "cloud"
+    },
+    {
+        "spanish": "el sol",
+        "english": "sun"
+    },
+    {
+        "spanish": "el chaparrón",
+        "english": "downpour"
+    },
+    {
+        "spanish": "descender",
+        "english": "to fall"
+    },
+    {
+        "spanish": "subir",
+        "english": "to rise"
+    },
+    {
+        "spanish": "asoleado",
+        "english": "sunny"
+    },
+    {
+        "spanish": "bochornoso",
+        "english": "muggy"
+    },
+    {
+        "spanish": "el granizo",
+        "english": "hail"
+    },
+    {
+        "spanish": "la nieve",
+        "english": "snow"
+    },
+    {
+        "spanish": "húmedo",
+        "english": "humid"
+    },
+    {
+        "spanish": "vaporoso",
+        "english": "hazy"
+    },
+    {
+        "spanish": "caliente",
+        "english": "hot"
+    },
+    {
+        "spanish": "cálido",
+        "english": "warm"
+    },
+    {
+        "spanish": "el fresquito",
+        "english": "chilly"
+    },
+    {
+        "spanish": "frío",
+        "english": "cold"
+    },
+    {
+        "spanish": "la lluvia",
+        "english": "rain"
+    },
+    {
+        "spanish": "el clima",
+        "english": "climate"
+    },
+    {
+        "spanish": "el tiempo",
+        "english": "weather"
+    }
+]

@@ -1,0 +1,238 @@
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.top {
+  border-bottom: 1px solid var(--border);
+  background: color-mix(in oklab, var(--surface) 94%, transparent);
+  backdrop-filter: blur(10px);
+}
+
+.top-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem 1.5rem;
+  flex-wrap: wrap;
+  max-width: 72rem;
+  margin: 0 auto;
+  padding: 0.85rem clamp(1rem, 4vw, 2rem);
+}
+
+.brand {
+  font-weight: 700;
+  font-size: 1.06rem;
+  text-decoration: none;
+  color: inherit;
+  letter-spacing: -0.02em;
+  flex-shrink: 0;
+}
+
+.brand:hover {
+  color: var(--accent);
+}
+
+.top-rest {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.85rem 1.25rem;
+  justify-content: flex-end;
+  flex: 1;
+  min-width: min(100%, 14rem);
+}
+
+/* Segmented study modes — only visible inside a category */
+.study-nav {
+  display: inline-flex;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  background: var(--surface);
+  overflow: hidden;
+  box-shadow: 0 1px 2px oklch(0% 0 0 / 0.06);
+}
+
+.study-nav a {
+  font-size: 0.86rem;
+  font-weight: 550;
+  color: var(--text-muted);
+  text-decoration: none;
+  padding: 0.45rem 0.95rem;
+  border-right: 1px solid var(--border);
+  transition:
+    background 0.12s ease,
+    color 0.12s ease;
+}
+
+.study-nav a:last-child {
+  border-right: none;
+}
+
+.study-nav a:hover {
+  color: var(--text);
+  background: var(--surface-2);
+}
+
+.study-nav a.active {
+  color: var(--accent);
+  background: color-mix(in oklab, var(--accent) 14%, var(--surface));
+  font-weight: 650;
+}
+
+.study-locked {
+  font-size: 0.86rem;
+  font-weight: 550;
+  color: color-mix(in oklab, var(--text-muted) 72%, var(--border));
+  padding: 0.45rem 0.95rem;
+  border-right: 1px solid var(--border);
+  cursor: not-allowed;
+  user-select: none;
+}
+
+.study-locked:last-child {
+  border-right: none;
+}
+
+.site-nav {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem 0.2rem;
+  flex-wrap: wrap;
+}
+
+.site-nav a {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  text-decoration: none;
+  padding: 0.4rem 0.55rem;
+  border-radius: var(--radius);
+}
+
+.site-nav a:hover {
+  color: var(--text);
+  background: color-mix(in oklab, var(--surface-2) 80%, transparent);
+}
+
+.site-nav a.active {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.account {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem 0.65rem;
+  flex-wrap: wrap;
+  padding-left: 0.25rem;
+  margin-left: 0.25rem;
+  border-left: 1px solid var(--border);
+}
+
+.account-user {
+  font-size: 0.84rem;
+  color: var(--text-muted);
+  max-width: 10rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.account-btn {
+  font: inherit;
+  font-size: 0.86rem;
+  font-weight: 600;
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.42rem 0.85rem;
+  border-radius: var(--radius);
+  border: 1px solid transparent;
+  transition:
+    border-color 0.12s ease,
+    background 0.12s ease,
+    color 0.12s ease;
+}
+
+.account-btn.ghost {
+  background: transparent;
+  border-color: var(--border);
+  color: var(--text-muted);
+}
+
+.account-btn.ghost:hover {
+  border-color: color-mix(in oklab, var(--accent) 35%, var(--border));
+  color: var(--text);
+}
+
+.account-btn.ghost.active {
+  border-color: color-mix(in oklab, var(--accent) 45%, var(--border));
+  color: var(--accent);
+}
+
+.account-btn.solid {
+  background: color-mix(in oklab, var(--accent) 88%, oklch(20% 0 0));
+  border-color: color-mix(in oklab, var(--accent) 65%, var(--border));
+  color: oklch(99% 0 0);
+}
+
+.account-btn.solid:hover {
+  filter: brightness(1.05);
+}
+
+.account-btn.solid.active {
+  filter: brightness(0.95);
+}
+
+.main {
+  flex: 1;
+  padding: clamp(1.25rem, 4vw, 2.5rem) clamp(1rem, 4vw, 2rem) 3rem;
+}
+
+@media (max-width: 640px) {
+  .top-inner {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .brand {
+    text-align: center;
+  }
+
+  .top-rest {
+    justify-content: center;
+    border-left: none;
+    padding-left: 0;
+    margin-left: 0;
+  }
+
+  .study-nav {
+    width: 100%;
+    justify-content: stretch;
+  }
+
+  .study-nav a {
+    flex: 1;
+    text-align: center;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
+
+  .site-nav {
+    justify-content: center;
+    width: 100%;
+  }
+
+  .account {
+    width: 100%;
+    justify-content: center;
+    border-left: none;
+    padding-left: 0;
+    margin-left: 0;
+    padding-top: 0.35rem;
+    border-top: 1px solid var(--border);
+  }
+}
