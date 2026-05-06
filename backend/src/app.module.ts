@@ -17,7 +17,8 @@ import { VocabularyModule } from './vocabulary/vocabulary.module';
     ServeStaticModule.forRoot({
       // In production we run with cwd = `backend/` (see root `render:start`).
       // In dev (`nest start`) cwd is also `backend/`. So `public/` should be relative to cwd.
-      rootPath: join(process.cwd(), 'public'),
+      // Angular (builder: @angular/build:application) outputs browser assets under `public/browser`.
+      rootPath: join(process.cwd(), 'public', 'browser'),
       exclude: ['/auth*', '/vocabulary*'],
     }),
     TypeOrmModule.forRootAsync({

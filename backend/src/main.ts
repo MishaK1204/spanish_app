@@ -28,7 +28,7 @@ async function bootstrap() {
   // SPA fallback: let API routes win, then serve Angular's index.html.
   const server = app.getHttpAdapter().getInstance();
   server.get(/^\/(?!auth(?:\/|$)|vocabulary(?:\/|$)).*/, (_req: Request, res: Response) => {
-    return res.sendFile(join(process.cwd(), 'public', 'index.html'));
+    return res.sendFile(join(process.cwd(), 'public', 'browser', 'index.html'));
   });
 
   await app.listen(process.env.PORT ?? 3000);
