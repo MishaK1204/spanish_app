@@ -28,6 +28,13 @@ import { VocabularyModule } from './vocabulary/vocabulary.module';
         username: config.get<string>('DB_USERNAME', 'postgres'),
         password: config.get<string>('DB_PASSWORD', ''),
         database: config.get<string>('DB_NAME', 'spanish'),
+        ssl:
+          config.get<string>('DB_SSL', 'false') === 'true'
+            ? {
+                rejectUnauthorized:
+                  config.get<string>('DB_SSL_REJECT_UNAUTHORIZED', 'true') === 'true',
+              }
+            : undefined,
         autoLoadEntities: true,
         synchronize: config.get<string>('DB_SYNCHRONIZE', 'false') === 'true',
       }),
