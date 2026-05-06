@@ -9,7 +9,9 @@
     "front:test": "npm run test --prefix front",
     "backend:start": "npm run start:dev --prefix backend",
     "backend:build": "npm run build --prefix backend",
-    "vocabulary:seed": "npm run vocabulary:seed --prefix backend"
+    "vocabulary:seed": "npm run vocabulary:seed --prefix backend",
+    "render:build": "npm ci --prefix backend && npm ci --prefix front && npm run front:build && npm run backend:build",
+    "render:start": "cd backend && NODE_ENV=production node dist/main"
   },
   "devDependencies": {
     "tsx": "^4.19.4",
