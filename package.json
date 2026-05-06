@@ -11,7 +11,7 @@
     "backend:build": "npm run build --prefix backend",
     "vocabulary:seed": "npm run vocabulary:seed --prefix backend",
     "render:build": "npm ci --include=dev --prefix backend && npm ci --include=dev --prefix front && npm run front:build && npm run backend:build",
-    "render:start": "cd backend && NODE_ENV=production node dist/main"
+    "render:start": "cd backend && NODE_ENV=production node dist/src/main.js"
   },
   "devDependencies": {
     "tsx": "^4.19.4",
