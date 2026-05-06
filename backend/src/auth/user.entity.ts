@@ -10,10 +10,10 @@ export class User {
   @PrimaryGeneratedColumn()
   id: number;
 
-  @Column({ unique: true, length: 64 })
+  @Column({ type: 'varchar', unique: true, length: 64 })
   username: string;
 
-  @Column({ name: 'password_hash' })
+  @Column({ type: 'text', name: 'password_hash' })
   passwordHash: string;
 
   @CreateDateColumn({ name: 'created_at' })
